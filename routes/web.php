@@ -12,5 +12,71 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('layouts.landing');
+});
+
+
+Route::get('/Issues', function () {
+    return view('layouts.issues', ['issue' => 'main']);
+});
+
+
+Route::get('/Issues/Equality', function () {
+    return view('layouts.issues', ['issue' => 'Equality']);
+});
+Route::get('/Issues/USEquality', function () {
+    return view('layouts.issues', ['issue' => 'USEquality']);
+});
+Route::get('/Issues/RacialEquality', function () {
+    return view('layouts.issues', ['issue' => 'RacialEquality']);
+});
+Route::get('/Issues/CongressEquality', function () {
+    return view('layouts.issues', ['issue' => 'CongressEquality']);
+});
+Route::get('/Issues/NASA', function () {
+    return view('layouts.issues', ['issue' => 'NASA']);
+});
+Route::get('/Issues/CivilRights', function () {
+    return view('layouts.issues', ['issue' => 'CivilRights']);
+});
+Route::get('/Issues/Monumnets', function () {
+    return view('layouts.issues', ['issue' => 'Monuments']);
+});
+Route::get('/Issues/ForeignPolicy', function () {
+    return view('layouts.issues', ['issue' => 'ForeignPolicy']);
+});
+Route::get('/Issues/SecondAmendment', function () {
+    return view('layouts.issues', ['issue' => 'SecondAmendment']);
+});
+Route::get('/Issues/HealthCare', function () {
+    return view('layouts.issues', ['issue' => 'HealthCare']);
+});
+Route::get('/Issues/Veterans', function () {
+    return view('layouts.issues', ['issue' => 'Veterans']);
+});
+Route::get('/Issues/Education', function () {
+    return view('layouts.issues', ['issue' => 'Education']);
+});
+Route::get('/Issues/SocialSecurity', function () {
+    return view('layouts.issues', ['issue' => 'SocialSecurity']);
+});
+
+
+Route::get('/aboutMe', function () {
+    return view('layouts.aboutMe');
+});
+
+
+Route::get('/WhyImRunning', function () {
+    return view('layouts.WhyImRunning');
+});
+
+
+Route::get('/district', function () {
+    return view('layouts.district');
+});
+
+
+Route::get('/ThePlan', function () {
+    return view('layouts.plan');
 });
