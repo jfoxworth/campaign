@@ -77,6 +77,8 @@ Route::get('/district', function () {
 });
 
 
-Route::get('/ThePlan', function () {
+Route::get('/Plan', function () {
     return view('layouts.plan');
 });
+
+

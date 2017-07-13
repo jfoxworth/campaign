@@ -49,9 +49,15 @@
 
     <p>Nations are formed by distinct people groups. The structure and character of that government reflects the culture of the people that created it. The presence of different people with different cultures changes the character of that nation and has always led to conflict. The US recognizes the right of all other nations to retain their culture. This includes the nations that we attack in response to terrorist attacks and the nations known to have committed crimes against their own people.</p>
 
-    <p>The population of this nation has always been overwhelmingly white and Christian. This culture is one of the most generous and giving cultures the world has ever seen. Our people travel to distant lands to spread the Gospel and to build infrastructure to provide safe water to people they have never met. They adopt and raise the children of other people both outside of our nation and within the minority groups within our nation. It is a culture of small government, freedom, and low crime.</p>
+    <p>The population of this nation has always been overwhelmingly white and Christian. This culture is one of the most generous and giving the world has ever seen. Our people travel to distant lands to spread the Gospel and to build infrastructure to provide safe water to people they have never met. They adopt and raise the children of other people both outside of our nation and within the minority groups within our nation. It is a culture of small government, freedom, and low crime.</p>
 
-    <p>The character of our nation and our laws has reflected this culture. The movement of tens of millions of people from other cultures into our lands changes that culture. To assert that the native population in this country has no right to deny this migration while other nations retain this right is to assert that our culture are either inferior and worthy of replacement or inherently evil and in need of replacement.</p>
+    <p>The character of our nation and our laws has reflected this culture. The movement of tens of millions of people from other cultures into our lands changes that culture. To assert that the native white population of this country has no right to deny this migration while other nations and peoples retain this right is to assert that our culture is either inferior and worthy of replacement or inherently evil and in need of replacement. Either of those options tells exactly how we will be treated once made into a minority and provides all of the impetus needed to protect ourselves. If being a minority in this country is so bad, how can white people be asked to celebrate becoming a hated minority.</p>
+
+    <blockquote>
+        <p>To assert that the native white population of this country has no right to deny this migration while other nations and peoples retain this right is to assert that our culture is either inferior and worthy of replacement or inherently evil and in need of replacement. Either of those options tells exactly how we will be treated once made into a minority and provides all of the impetus needed to protect ourselves.</p>
+        <footer>Joshua Foxworth</footer>
+    </blockquote>
+
 
     <p>Our culture has a right to exist. We have a right to self determination. We have a right to deny immigration to any and all people we see fit and to repatriate any who are present as the result of entering illegally. To question these rights is to question our right to equality.</p>
 
@@ -93,6 +99,20 @@
 
 
     <div class="fancy-title title-bottom-border">
+        <h3>An end to diversity</h3>
+    </div>
+
+    <p>The primary arguement's for the importation of migrants are that they are economically enriching, and that our culture needs "diversity". The reality is that both legal and illegal migrants use welfare at rates much higher than the native population and are far less educated. They are not a benefit to the social and welfare systems, but rather a drain on those systems.</p>
+
+    <p>This second arguement, the call for "diversity", must be seen for what it is - an assertion of inequality. No city, no neighborhood, and no business is worthy of existing unless it contains fewer white people. We as a people are the only ones that are told that we must accept that our nations are simply better if there is less of us. To argue against this genocide is to prove the existence of racism and thus the need for diversity.</p>
+
+    <p>Africa is for the Africans, Asia is for the Asians, Central and South American are for the Latinos, but Europe, America and Canada simply must be multicultural. For us to retain our homelands is racist. To imply that any other people group not retain theirs is racist. All of this in the name of diversity, and under the banner that Europeans and Americans have a special debt to the remaining population. A debt that can only be paid by removing our right to self determination.</p>
+
+    <p>This inequality must be ended.</p>
+
+
+
+    <div class="fancy-title title-bottom-border">
         <h3>Enforce US immigration laws, end mass migration</h3>
     </div>
 
@@ -100,8 +120,12 @@
 
     <p>In addition to this, US tax payers cannot be forced to pay for the health care of other people while our costs are so high. Any person who accesses the health care system - even through an emergency - must have their citizenship status ascertained and held for deportation.</p>
 
-    <p>It is not immoral for us to enforce our laws. It is not unethical for us to assert equality for our people just because we are white.</p>
+    <p>It is not immoral for us to enforce our laws. It is not unethical for us to assert equality for our people just because we are white. Any person that asserts that it is unethical for us to maintain a homogenous nation while supporting the rights of nations like Japan, China, Israel, Saudia Arabia, Mexico, or any African country assertst that we are a people unworthy of equality. Any representative that works on behalf of the people of other nations to bring them to our lands betrays their oath of office.</p>
 
+    <blockquote>
+        <p>Any person that asserts that it is unethical for us to maintain a homogenous nation while supporting the rights of nations like Japan, China, Israel, Saudia Arabia, Mexico, or any African country assertst that we are a people unworthy of equality.</p>
+        <footer>Joshua Foxworth</footer>
+    </blockquote>
 
 
 
