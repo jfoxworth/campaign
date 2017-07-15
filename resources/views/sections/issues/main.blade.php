@@ -1,15 +1,21 @@
 <div class="heading-block center nobottomborder">
-    <h2>"America First" means Americans First</h2>
+    <h2>Equality For Our Nation. Equality Within Our Nation</h2>
     <span>The central theme running through all issues is a return to equality for our people and our nation</span>
 </div>
 
 <div class="container clearfix">
     <div class="col_full">
-        <p>Nations are constituted by people groups. All national governments have as their primary obligation to serve the people that constitute those nations. Our leaders have failed in this duty. Our politicians break promises, raise themselves above the law, and all three branches repeatedly act against the will of people.</p>
         
-        <p>These discretions are best demonstrated in two areas. First is the importation of millions of people from other nations against the will of the people and in opposition to the laws of the nation. Second is the creation of laws that assign blame and guilt to the majority population of the country - specifically white males.</p>
+        <p>Our nation and our people are not treated as equals in the world. Specific people are not treated as equals within our nation. Addressing these structural inequalities is the foundation of this campaign.</p>
+
+        <p>Our nation and people are not treated as equals in the world in that we are not allowed to control who enters our lands. While every nation that sends migrants here maintains an inherent right to protect its borders, we and we alone are told that any such effort on our part is evil.</p>
         
-        <p>The primary objective of this campaign is to restore equality in the US. This includes : reasserting that the people of this nation are entitled to retain their lands and remain the majority population; ending laws intended to harm people based upon race; and ending rules that exempt Congress from the law.</p>
+        <p>Within this nation, privileged classes of people are given special protection under the law, special access to educational opportunities, special privileges and protections in employment. This has led to a de fecto nobility class consisting of "protected" peoples.</p>
+
+        <p>In addition to this, Congress has created a series of special exemptions and protections for itself.</p>
+
+        <p>The links below provide detailed discussions of a number of issues, including the inequalities described above.</p>
+
     </div>
 
 <!-- 

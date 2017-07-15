@@ -1,5 +1,21 @@
 /*-----------------------------------------------------------------------------------
 
+	Stuff I added
+
+-----------------------------------------------------------------------------------*/
+
+.social-box > a {
+	margin:31px 10px;
+}
+
+#header.sticky-header:not(.static-sticky) .social-box > a {
+	margin-top: 13px;
+	margin-bottom: 13px;
+}
+
+
+/*-----------------------------------------------------------------------------------
+
 	Theme Name: Canvas
 	Theme URI: http://themes.semicolonweb.com/html/canvas
 	Description: The Multi-Purpose Template

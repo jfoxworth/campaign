@@ -18,7 +18,7 @@
                     <li><a href="/Issues/ForeignPolicy"><div><i class="icon-stack"></i>Foreign Policy</div></a></li>
                     <li><a href="/Issues/SecondAmendment"><div><i class="icon-stack"></i>The Second Amendment</div></a></li>
                     <li><a href="/Issues/HealthCare"><div><i class="icon-stack"></i>Health Care</div></a></li>
-                    <li><a href="/Issues/Veterans"><div><i class="icon-stack"></i>Veterans</div></a></li>
+                    <!-- <li><a href="/Issues/Veterans"><div><i class="icon-stack"></i>Veterans</div></a></li> -->
                     <li><a href="/Issues/Education"><div><i class="icon-stack"></i>Education</div></a></li>
                     <!-- <li><a href="/Issues/SocialSecurity"><div><i class="icon-stack"></i>Social Security</div></a></li> -->
                 </ul>
@@ -30,6 +30,23 @@
 
             <li><a href="/district"><div>District 14</div></a></li>
 
+            <li><a href="/Plan"><div>The Plan</div></a></li>
+
         </ul>
+
+        <!-- Top Search
+        ============================================= -->
+        <div class="social-box fright clearfix">
+            <a href="#" class="social-icon si-small si-borderless si-facebook">
+                <i class="icon-facebook"></i>
+                <i class="icon-facebook"></i>
+            </a>
+
+            <a href="#" class="social-icon si-small si-borderless si-twitter">
+                <i class="icon-twitter"></i>
+                <i class="icon-twitter"></i>
+            </a>
+        </div><!-- #top-search end -->
+
 
     </nav><!-- #primary-menu end -->

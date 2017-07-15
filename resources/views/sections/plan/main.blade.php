@@ -60,6 +60,8 @@
 
     <p>The goal is to get on friendly internet shows where we know that we will be treated fairly and where the conversation is reasonable and relaxed. These are shows like Stephan Molyneaux, Red Ice Radio, etc. Writing some articles for some of the more mainstream publications would be great too. However, no compromising on the core issues to get this. The regular media is to be shunned at this point and throughout most of the campaign. No interviews, no discussions, no access.</p>
 
+    <p>During his campaign, Senator Mike Lee rented what appeared to be a university class room. It had sloped auditorium style seating and a chalk board at the front. He filed the room with supporters and discussed his plans as if he was teaching to a class. I found this to be very powerful and would like to do something similar. It provides a good starting point for people coming to the issues.</p>
+
 
 
     <div class="fancy-title title-bottom-border">
@@ -89,6 +91,43 @@
 
     <h4>Goals</h4>
 
-    <p></p>
+    <p>To convince the constituents that the primary is winnable and that they should go and vote. This phase will start in February and run until the primary on March 6.</p>
+
+    <h4>Strategy</h4>
+
+    <p>In this stage, we will focus on what we feel works best based on experience up to this point. Big events attempting to get news coverage, house events, door to door if possible, etc.</p>
+
+
+
+    <div class="fancy-title title-bottom-border">
+        <h3>The Numbers</h3>
+    </div>
+
+
+    <p>In 2012, Randy Weber won the runoff primary 63% to 37% with a TOTAL of 37,000 votes for both candidates. He won the general election 54% to 45% with a total of 245,000 people voting.</p>
+
+    <p>In 2014, he faced no primary opponent and won the general election 62% to 36% with a total of 145,000 people voting.</p>
+
+    <p>In 2016, he won against a weak primary challenger 84% to 16% with only 68,000 people voting. He won the general election 62% to 38% with 260,000 people voting.</p>
+
+    <p>With no Presidential election to draw in people for the primary, I expect that the turnout will be less than 75,000 people. That means that we need to convince 35,000 people to vote for me. Many of those voting will vote for the incumbent no matter what, so we have to drive turnout. Convince 25,001 of that original 75,000 to vote for me and convince another 25,001 who don't normally vote in the primary to do so and we win.</p>
+
+
+
+    <div class="fancy-title title-bottom-border">
+        <h3>The Man</h3>
+    </div>
+
+    <p>Randy Weber has never faced a serious opponent in his life. He simply does what he is told. He is not fast on his feet and not a good public speaker. I believe that if he is forced to respond, he will injure himself. The ultimate goal must be to force him to answer the questions as to why my sons must be placed behind the sons of other men for education purposes. Force him to answer why I must pay a minority owned subcontractor a portion of my salary in order to work at NASA. Force him to answer why other men are entitled to legal protection and I am not. Force him to answer why he states that he opposes amnesty and yet makes no real effort to stop immigration.</p>
+
+    <p>To this end, I have been visiting his office about once a week for the past few months and signing his ledger asking to speak with him. I have filmed this effort and plan to make a video out of the montage.</p>
+
+
+
+    <div class="fancy-title title-bottom-border">
+        <h3>Feedback</h3>
+    </div>
+
+    <p>If you have read this, then I appreciate the effort. Any and all feedback is greatly appreciated. If I do go through with this and run a campaign, I will need lots of help.</p>
 
 </div>
