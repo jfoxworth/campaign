@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-star"></i>
+        <i class="bgcolor icon-rocket"></i>
     </div>
 
     <div class="col_one_third">
@@ -43,24 +43,43 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Restore NASA's purpose</h3>
     </div>
 
-    <p>NASA suffers from three main problems - a lack of direction, a lack of accountability, and corruption and fraud on several levels. The first part in turning that culture around is to ensure that it has a purpose that its employees can believe in, and work to fulfill.</p>
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-rocket"></i>
+    </div>
 
-    <p>That purpose should be simple - a return to the moon and a manned mission to Mars. How exactly this happens must be up to the NASA leadership and not Congress.</p>
+    <div class="alignleft">
+        <a href="#"><img src="/images/issues/nasa.jpg"></a>
+    </div>
 
 
-    <div class="fancy-title title-bottom-border">
+    <p>NASA suffers from three main problems - a lack of direction, a lack of accountability, and corruption and fraud on several levels. The first part in turning that culture around is to ensure that it has a purpose that its employees can believe in and will work to fulfill.</p>
+
+    <p>Although vague phrases like "Missions to Mars" are often used, the simple fact is that there is no legitimate plan to go to Mars or even to return to the moon. The space program is fractured, with multiple capsules being constructured by multiple companies and no real long term plan.</p>
+
+    <p>NASA's purpose should be simple - a return to the moon and a manned mission to Mars. The technical steps for this goal must be up to the NASA leadership and not Congress. However, Congress must commit to reasonable funding goals, adhere to those goals, and then demand reasonable progress.</p>
+
+
+    <div class="fancy-title nobottommargin">
         <h3>More Autonomy</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-rocket"></i>
     </div>
 
     <p>The President must appoint a NASA leader that is willing to accept the responsibility of running the program. Congress must ensure a set amount of funds per year, and then get out of the way. NASA leadership must be able to take those funds and save them for years if necessary in preparation of certain phases of design, testing, and deployment, and it must be able to conduct its business where and how it sees fit.</p>
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Structural and Ethical Reform</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-rocket"></i>
     </div>
 
     <p>At the current time, there are capsules being built by Lockheed Martin on a cost-plus contract, by Boeing on a fixed price contract, and by SpaceX, and several other companies. This is done under the guise of saving money. However, it has the result of costing a great deal more money and directly harming NASA's ability to move forward.</p>

@@ -8,18 +8,18 @@
             <li><a href="/Issues"><div>Issues</div></a>
                 <ul>
                     <li><a href="/Issues"><div><i class="icon-stack"></i>All Issues</div></a></li>
-                    <li><a href="/Issues/Equality"><div><i class="icon-stack"></i>Equality</div></a></li>
-                    <li><a href="/Issues/USEquality"><div><i class="icon-stack"></i>National Equality</div></a></li>
-                    <li><a href="/Issues/RacialEquality"><div><i class="icon-stack"></i>Racial Equality</div></a></li>
-                    <li><a href="/Issues/CongressEquality"><div><i class="icon-stack"></i>Congress Equality</div></a></li>
-                    <li><a href="/Issues/NASA"><div><i class="icon-stack"></i>NASA</div></a></li>
-                    <li><a href="/Issues/CivilRights"><div><i class="icon-stack"></i>Civil Rights</div></a></li>
+                    <li><a href="/Issues/Equality"><div><i class="icon-params"></i>Equality</div></a></li>
+                    <li><a href="/Issues/USEquality"><div><i class="icon-flag-alt"></i>National Equality</div></a></li>
+                    <li><a href="/Issues/RacialEquality"><div><i class="icon-group"></i>Racial Equality</div></a></li>
+                    <li><a href="/Issues/CongressEquality"><div><i class="icon-settings2"></i>Congress Equality</div></a></li>
+                    <li><a href="/Issues/NASA"><div><i class="icon-rocket"></i>NASA</div></a></li>
+                    <li><a href="/Issues/CivilRights"><div><i class="icon-line-head"></i>Civil Rights</div></a></li>
                     <!-- <li><a href="/Issues/Monuments"><div><i class="icon-stack"></i>Historical Monuments</div></a></li> -->
-                    <li><a href="/Issues/ForeignPolicy"><div><i class="icon-stack"></i>Foreign Policy</div></a></li>
-                    <li><a href="/Issues/SecondAmendment"><div><i class="icon-stack"></i>The Second Amendment</div></a></li>
-                    <li><a href="/Issues/HealthCare"><div><i class="icon-stack"></i>Health Care</div></a></li>
+                    <li><a href="/Issues/ForeignPolicy"><div><i class="icon-world"></i>Foreign Policy</div></a></li>
+                    <li><a href="/Issues/SecondAmendment"><div><i class="icon-line-target"></i>The Second Amendment</div></a></li>
+                    <li><a href="/Issues/HealthCare"><div><i class="icon-medkit"></i>Health Care</div></a></li>
                     <!-- <li><a href="/Issues/Veterans"><div><i class="icon-stack"></i>Veterans</div></a></li> -->
-                    <li><a href="/Issues/Education"><div><i class="icon-stack"></i>Education</div></a></li>
+                    <li><a href="/Issues/Education"><div><i class="icon-study"></i>Education</div></a></li>
                     <!-- <li><a href="/Issues/SocialSecurity"><div><i class="icon-stack"></i>Social Security</div></a></li> -->
                 </ul>
             </li>

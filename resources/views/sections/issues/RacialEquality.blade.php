@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-star"></i>
+        <i class="bgcolor icon-group"></i>
     </div>
 
     <div class="col_one_third">
@@ -43,8 +43,16 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>An inherently unequal status</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-group"></i>
+    </div>
+
+    <div class="alignleft">
+        <a href="#"><img src="/images/issues/racialequality.jpg"></a>
     </div>
 
     <p>It is tempting to say that equality in this country is often incorrectly viewed as equality of outcome. When the argument is made that one people group has more success than another and that this implies an inherent inequality in the system, we point out that we are guaranteed equality of opportunity and not outcome. This argument is tempting because it allows us to attach simple misconception to the motivations of those who want to assign preferences and punishments on the basis of race.</p>
@@ -65,8 +73,12 @@
     <p>These laws create a nobility class in America - one that is defined by race. These men and women are given special access to legal protection, special access to education, and preferential treatment in government contracts. No matter how much this class of people benefit from this government preference and no matter how much the other classes are harmed, the children of the preferred class will still be able to claim preferential treatment on the basis that the other children had "privilege".</p>
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>An end to affirmative action policies in education and hiring</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-group"></i>
     </div>
 
     <p>To any man that has children, no pain is greater than the realization that another man has the right to place his son ahead of their own. This is especially insulting when that man has been given preferential hiring; when the other man's son has benefited beyond the capacity of his father's talent and work ethic; and while you were only able to provide your son with what was left after the government gave a portion of your salary to the other man.</p>
@@ -76,9 +88,14 @@
     <p>This is a debt paid throughout a person's entire life and then their sons are born into indebtedness. These laws must end.</p>
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>An end to preferential government contracting</h3>
     </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-group"></i>
+    </div>
+
 
     <p>Government laws now mandate that a significant percentage of every contract go to minority owned businesses. This is not only an incredibly racist and unethical policy, it has destroyed the ability of large portions of the government to function properly - including the space program.</p>
 
@@ -88,8 +105,12 @@
 
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>An end to preferential legal treatment</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-group"></i>
     </div>
 
     <p>In an effort to combat racism, laws have been enacted to ensure that any member of the "protected" class is not terminated improperly. This means that a protected person can bring the full weight of the federal government against any privately owned employer even if no evidence of wrongdoing exists. On the other hand, an unprotected person has no legal standing to sue an employer even if there is direct evidence of fraud and even if the employer was a government contractor.</p>
@@ -98,9 +119,12 @@
 
 
 
-
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>An end to racial punishment</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-group"></i>
     </div>
 
     <p>As part of his educational initiative, President Obama <a href="https://www.ed.gov/news/speeches/rethinking-school-discipline">asserted</a> that punishment differences in schools was not due to difference in behavior amongst the races, but rather due to inherent racism. He enacted policies that prevent African American students from being punished unless a similar number of white students had also been punished.</p>
@@ -113,8 +137,12 @@
 
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>How bad has it gotten?</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-group"></i>
     </div>
 
     <p>In April of 2017, the Huffington Post ran a story written by a South African woman asserting that white males all over the world should be denied the right to vote for at least 20 years. During this time, the remainder of the world could then vote to reallocate resources to themselves and thus confiscate the wealth of all white people in a totally legal and moral manner. The article <a href="http://freebeacon.com/culture/huffpo-retracts-blog-calling-white-men-lose-right-vote-after-realizing-author-doesnt-exist/">was later retracted</a> only when it was discovered that the author has mislead the website about who they were. However, the Huffington Post never denied their view that all white men should be denied the right to vote and should have their wealth and lands confiscated.</p>

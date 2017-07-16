@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-star"></i>
+        <i class="bgcolor icon-medkit"></i>
     </div>
 
     <div class="col_one_third">
@@ -43,8 +43,16 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Health Care and Migrants</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-medkit"></i>
+    </div>
+
+    <div class="alignleft">
+        <a href="#"><img src="/images/issues/healthcare.jpg"></a>
     </div>
 
     <p>Before we can discuss what is wrong with the American health care system, we must ensure that the system actually applies to Americans. To do this, we must remove end the practice of charging taxpayers to pay for the health care of migrants - both legal and illegal. We have a large wave of baby boomers entering the time in their lives when they will need the most care. That care cannot morally be made more expensive now, to offset the cost of a hospital providing to services to other people.</p>
@@ -54,8 +62,12 @@
     <p>Not one penny can go to the care of a citizen of another nation while veterans and senior citizens are either denied care or the cost of their care is increased.</p>
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Prescription Drug Costs</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-medkit"></i>
     </div>
 
     <p>There is a great deal of discussion concerning the reimportation of medicine from other nations. The real question is why they are so much cheaper if purchased in Mexico? Why does the US government allow US companies to charge its citizens high rates and then sell that same medicine to other nations at drastically lower rates? Isn't that the exact opposite of how governments are supposed to function?</p>
@@ -63,8 +75,12 @@
     <p>We do not need a law allowing for reimportation of medicine. We simply need to remove the laws that allow companies to charge the citizens of our nation more than others.</p>
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>A New Plan - No Government</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-medkit"></i>
     </div>
 
     <p>Instead of discussing which party can better facilitate the administration of health care to all of America, lets just end government's role in health care. This doesn't mean that we end all government programs, but it is not the government's role to either decide who gets what health care or what level of taxation the American people tolerate to provide care for those less fortunate.</p>

@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-star"></i>
+        <i class="bgcolor icon-line-head"></i>
     </div>
 
     <div class="col_one_third">
@@ -43,8 +43,16 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>End the TSA</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-head"></i>
+    </div>
+
+    <div class="alignleft">
+        <a href="#"><img src="/images/issues/civilrights.jpg"></a>
     </div>
 
     <p>We currently live in a nation that tolerates tens of millions of people living illegally within its boundaries with no records of who they are or their nation of origin. At the same time, we have a no-fly list, and we pat down nuns, children, and WWII veterans before they get on an airplane. We also monitor every American citizen under the guise of preventing terror. This dichonomy is not sustainable.</p>
@@ -60,8 +68,13 @@
     <p>At the same time, the mass monitoring of citizens can and should be ended. Our enemies must be kept out of our nation and our citizens must be allowed to communicate freely.</p>
 
 
-    <div class="fancy-title title-bottom-border">
+
+    <div class="fancy-title nobottommargin">
         <h3>Protect Political Speech</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-head"></i>
     </div>
 
     <p>The 2016 elections saw a drastic - although unreported - rise in political violence. All of this violence was directed at Trump supporters or similar right wing candidates and much of it was racially based. Since that time, we have seen the rise of groups like antifa who traffic in violence. These groups regularly assault peaceful activists and endanger the lives of people simply attending political speeches.</p>
@@ -70,8 +83,12 @@
 
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Coherent Policies</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-head"></i>
     </div>
 
     <p>The US supreme court is <a href="http://www.foxnews.com/us/2017/06/26/us-supreme-court-to-decide-colorado-gay-wedding-cake-case-timeline-events.html">about to hear a case</a> where a Christian baker was fined for refusing to bake a cake for a gay marriage ceremony. This seems to contradict with that company's right to refuse service to whomever they please. At the same time, platforms such as google, youTube, twitter, and facebook are denying services to entities based upon political views.</p>

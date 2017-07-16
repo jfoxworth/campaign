@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-star"></i>
+        <i class="bgcolor icon-study"></i>
     </div>
 
     <div class="col_one_fourth">
@@ -53,8 +53,16 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>American Schools for American Children</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-study"></i>
+    </div>
+
+    <div class="alignleft">
+        <a href="#"><img src="/images/issues/education.jpg"></a>
     </div>
 
     <p>We consider it a right that every child is entitled to a quality education. The quality of every American's education is diminished by every dollar taken from them and spent to educate or facilitate the education of citizens of other nations. It is fundamentally immoral to tax a citizen for the purposes of educating their child and then use that money for the education of other children.</p>
@@ -68,9 +76,12 @@
 
 
 
-
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Safe Schools</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-study"></i>
     </div>
 
     <p>In recent decades, there has been an explosion of violence in our schools. We must immediately end the Obama era policies that may not allow children to be punished if they are minorities. We must place harsher and quicker punishment on students that misbehave and permanently remove any students that consistently break the rules.</p>
@@ -81,18 +92,26 @@
 
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>End No Child Left Behind</h3>
     </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-study"></i>
+    </div>
+
 
     <p>While the intent may have been noble, No Child Left Behind and the Obama administrations follow up - Winning the Future - are failures and should be repealed and ended.</p>
 
 
 
 
-
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>End Racial Hatred</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-study"></i>
     </div>
 
     <p>We must remove funding and accreditation to any school that teaches hatred.</p>

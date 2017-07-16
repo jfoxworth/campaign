@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-star"></i>
+        <i class="bgcolor icon-flag-alt"></i>
     </div>
 
     <div class="col_one_third">
@@ -43,8 +43,16 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>The right to retain our culture</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-flag-alt"></i>
+    </div>
+
+    <div class="alignleft">
+        <a href="#"><img src="/images/issues/usequality.jpg"></a>
     </div>
 
     <p>Nations are formed by distinct people groups. The structure and character of that government reflects the culture of the people that created it. The presence of significant numbers of different peoples with different cultures changes the character of that nation and has always led to conflict. The US recognizes the right of all other nations to retain their culture. This includes the nations that we invade in response to terrorist attacks and the nations known to have committed crimes against their own people. We must reserve this right for ourselves as well.</p>
@@ -62,8 +70,12 @@
     <p>Our culture has a right to exist. We have a right to self determination. We have a right to deny immigration to any and all people we see fit and to repatriate any who are present as the result of entering illegally. To question these rights is to question our right to equality.</p>
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Immigration history</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-flag-alt"></i>
     </div>
 
     <p>In 1965, the US was 84% white. That same year, Congress passed the Immigration and Naturalization Act of 1965, also known as the Hart-Celler Act. The legislation changed US immigration policy away from focusing on European immigrants and towards others. In discussing the act, Senator Ted Kennedy asserted that "our cities will not be flooded with a million immigrants annually. ... Secondly, the ethnic mix of this country will not be upset." This promise was not honored and millions of both legal and illegal immigrants poured over the border from nations not previously allowed.</p>
@@ -80,8 +92,12 @@
     <p>The history of the mass immigration of the last 50 years is one of illegal activity, corrupt politicians, and broken promises to the American people. The American people are under no moral nor legal obligation to grant citizenship to anyone who entered under such conditions - quite the opposite.</p>
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>The damage done</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-flag-alt"></i>
     </div>
 
     <p>The damage done to the culture has been catastrophic. In recent years, the amount of money sent to Mexico from workers in the US has surpassed the money brought into that country by oil revenue. This loss of financial capital to the US alone should be enough to spur action.</p>
@@ -98,8 +114,12 @@
 
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>An end to diversity</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-flag-alt"></i>
     </div>
 
     <p>The primary argument's for the importation of migrants are that they are economically enriching, and that our culture needs "diversity". The reality is that both legal and illegal migrants use welfare at rates much higher than the native population and are far less educated. They are not a benefit to the social and welfare systems, but rather a drain on those systems.</p>
@@ -112,9 +132,14 @@
 
 
 
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>Enforce US immigration laws, end mass migration</h3>
     </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-flag-alt"></i>
+    </div>
+
 
     <p>To solve this problem, no laws need to be passed as every law needed is already in place, we need only enforce them. These are the same laws that every President since Reagan has pledged to enforce.</p>
 
@@ -130,9 +155,12 @@
     </blockquote>
 
 
-
-    <div class="fancy-title title-bottom-border">
+    <div class="fancy-title nobottommargin">
         <h3>An end to permanent refugee resettlement</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-flag-alt"></i>
     </div>
 
     <p>The people of the US have always felt a moral need to give refuge to those in danger. However, there is a drastic moral difference between giving someone refuge from a war and the mass importation of millions of people under the guise of a refugee program.</p>
@@ -143,9 +171,15 @@
 
 
 
-    <div class="fancy-title title-bottom-border">
+
+    <div class="fancy-title nobottommargin">
         <h3>An end to H1-B tech visas</h3>
     </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-flag-alt"></i>
+    </div>
+
 
     <p>The practice of importing cheap labor from the third world must end. The American people are well educated, moral, and capable of handling any technical need that arises in our companies.</p>
 

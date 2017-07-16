@@ -25,33 +25,21 @@
         ============================================= -->
         <section id="content">
 
-            <div class="content-wrap">
-
-                @include('sections.landing.equality')
+            <div class="">
 
                 @include('sections.landing.issuesbreak')
 
-                @include('sections.landing.issues')
+                @include('sections.landing.equality')
+
+                @include('sections.landing.profile')
 
                 @include('sections.landing.afirstbreak')
 
+                @include('sections.issues.issueportfolio')
 
-                <div class="promo topmargin-lg promo-border bottommargin-lg promo-full">
-                    <div class="container clearfix">
-                        <div class="col_one_third center nobottommargin">
-                            <h3>The primary is March 6, 2018</h3>
-                        </div>
-                        <div class="col_two_third col_last center nobottommargin">
-                            <div id="countdownprimary"></div>
-                        </div>
-                    </div>
-                </div>
+                @include('sections.landing.countdown')
 
-                <a class="button button-full center tright footer-stick">
-                    <div class="container clearfix">
-                        Support the campaign to restore our nation <strong>Donate</strong> <i class="icon-caret-right" style="top:4px;"></i>
-                    </div>
-                </a>
+                @include('sections.landing.donaterow')
 
             </div>
 

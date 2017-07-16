@@ -11522,12 +11522,12 @@ input[type=checkbox]:not(:checked) + label.error { display: block !important; }
 /* Divider - Rounded & Border
 -----------------------------------------------------------------*/
 
-.divider.divider-border { color: #E5E5E5; }
+.divider.divider-border { color: #C0392B; }
 
 .divider.divider-border i {
 	line-height: 38px;
 	background-color: transparent;
-	border: 1px solid #EEE;
+	border: 1px solid #C0392B;
 }
 
 
