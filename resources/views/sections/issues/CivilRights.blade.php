@@ -12,30 +12,21 @@
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>End the TSA</h3>
             <p>Stop Terrorists at the border, not children at the airport</p>
         </div>
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Protect Political Speech</h3>
             <p>Violence at political rallies must be ended</p>
         </div>
     </div>
 
     <div class="col_one_third col_last">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Coherent Policies</h3>
             <p>The rights and duties of companies must be coherent and even</p>
         </div>

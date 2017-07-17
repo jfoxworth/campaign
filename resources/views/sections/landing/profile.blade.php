@@ -16,7 +16,7 @@
                     <h3>Joshua Foxworth</h3>
                 </div>
 
-                <p>Joshua is a veteran of the United States Marine Corps and has a BS and MS in Aerospace Engineering from the University of Texas at Austin. He has worked in the space program and as a tech entrepreneur. He was born and raised in district 14 and lived most of his life there. <a href="/aboutMe">(full bio)</a></p>
+                <p>Joshua was born and raised in district 14 and has lived there most of his life. He is a Christian and a veteran of the United States Marine Corps. He attended the University of Texas at Austin where he recieved a BS and MS in Aerospace Engineering. He has worked in the space program and as a tech entrepreneur.  <a href="/aboutMe">(full bio)</a></p>
 
             </div>
         </div>

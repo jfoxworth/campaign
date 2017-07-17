@@ -11,38 +11,39 @@
         <i class="bgcolor icon-study"></i>
     </div>
 
-    <div class="col_one_fourth">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+    <div class="col_one_third">
+        <div class="feature-box fbox-center fbox-effect">
             <h3>US Schools</h3>
             <p>An end to taxing US citizens to educate other nations</p>
         </div>
     </div>
 
-    <div class="col_one_fourth">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+    <div class="col_one_third">
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Safe Schools</h3>
             <p>Violence of any kind cannot be tolerated</p>
         </div>
     </div>
 
-    <div class="col_one_fourth">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+    <div class="col_one_third col_last">
+        <div class="feature-box fbox-center fbox-effect">
             <h3>End NCLB</h3>
             <p>No Child Left Behind and similar programs are a harmful and must be ended</p>
         </div>
     </div>
 
-    <div class="col_one_fourth col_last">
-        <div class="feature-box fbox-border fbox-effect">
+    <div class="col_one_third">
+        <div class="feature-box fbox-center fbox-effect">
+            <div class="fbox-icon">
+                <a href="#"><i class="icon-star i-alt"></i></a>
+            </div>
+            <h3>End Federal Guarantee on Loans</h3>
+            <p>Let students declare bankruptcy on school loans - with the school losing the money</p>
+        </div>
+    </div>
+
+    <div class="col_one_third col_last">
+        <div class="feature-box fbox-center fbox-effect">
             <div class="fbox-icon">
                 <a href="#"><i class="icon-star i-alt"></i></a>
             </div>

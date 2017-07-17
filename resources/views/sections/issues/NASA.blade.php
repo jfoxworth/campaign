@@ -12,30 +12,21 @@
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Restore NASA's Purpose</h3>
             <p>New leadership and a bold new direction</p>
         </div>
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>More Autonomy</h3>
             <p>Give NASA a plan and a budget and get our of its way</p>
         </div>
     </div>
 
     <div class="col_one_third col_last">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Structural and Ethical Reform</h3>
             <p>Choose engineers on ability, treat them well, keep them</p>
         </div>

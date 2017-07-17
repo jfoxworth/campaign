@@ -7,7 +7,8 @@
 
             <li><a href="/Issues"><div>Issues</div></a>
                 <ul>
-                    <li><a href="/Issues"><div><i class="icon-stack"></i>All Issues</div></a></li>
+<!--                     <li><a href="/Issues"><div><i class="icon-stack"></i>All Issues</div></a></li>
+ -->                    
                     <li><a href="/Issues/Equality"><div><i class="icon-params"></i>Equality</div></a></li>
                     <li><a href="/Issues/USEquality"><div><i class="icon-flag-alt"></i>National Equality</div></a></li>
                     <li><a href="/Issues/RacialEquality"><div><i class="icon-group"></i>Racial Equality</div></a></li>
@@ -46,6 +47,12 @@
                 <i class="icon-twitter"></i>
                 <i class="icon-twitter"></i>
             </a>
+
+            <a href="#" class="social-icon si-small si-borderless si-instagram">
+                <i class="icon-instagram"></i>
+                <i class="icon-instagram"></i>
+            </a>
+
         </div><!-- #top-search end -->
 
 

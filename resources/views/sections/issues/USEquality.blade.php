@@ -12,30 +12,21 @@
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Enforce US Laws</h3>
             <p>Immediate enforcement of all valid US laws relating to immigration</p>
         </div>
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>End Mass Migration</h3>
             <p>An end to the importation of mass numbers of people</p>
         </div>
     </div>
 
     <div class="col_one_third col_last">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Equality for US Citizens</h3>
             <p>The US population has the right to retain its culture</p>
         </div>

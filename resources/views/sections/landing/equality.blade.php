@@ -2,7 +2,7 @@
                 ============================================= -->
                 <div class="container clearfix topmargin">
 
-                    <h2 class="center">Equality Under the Law</h2>
+                    <h2 class="center">Fundamental Restoration of Equality</h2>
 
                     <div class="divider divider-short divider-rounded divider-center">
                         <i class="bgcolor icon-star"></i>

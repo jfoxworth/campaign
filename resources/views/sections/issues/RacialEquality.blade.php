@@ -12,30 +12,21 @@
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>End Racial Preferences</h3>
             <p>Racial preferences and quotas violate basic civil rights and infer guilt</p>
         </div>
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>End Racial Privileges</h3>
             <p>Separate legal and education preferences for races are inherently unequal</p>
         </div>
     </div>
 
     <div class="col_one_third col_last">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>End Racial Punishment</h3>
             <p>End funding for any school teaching white guilt or that whites are evil</p>
         </div>

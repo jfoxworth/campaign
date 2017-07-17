@@ -12,30 +12,21 @@
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Protect 2nd Amendment</h3>
             <p>Prevent Congress from passing new laws restricting second amendment</p>
         </div>
     </div>
 
     <div class="col_one_third">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Protect Heritage</h3>
             <p>The reasons why we have the second amendment must not be forgotten</p>
         </div>
     </div>
 
     <div class="col_one_third col_last">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>National Reciprocity</h3>
             <p>Concealed carry permits should be honored by all states</p>
         </div>

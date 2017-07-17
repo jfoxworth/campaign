@@ -12,20 +12,14 @@
     </div>
 
     <div class="col_half">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>End Middle Eastern Wars</h3>
             <p>It's time to step away from Afghanistan and Iraq</p>
         </div>
     </div>
 
     <div class="col_half col_last">
-        <div class="feature-box fbox-border fbox-effect">
-            <div class="fbox-icon">
-                <a href="#"><i class="icon-star i-alt"></i></a>
-            </div>
+        <div class="feature-box fbox-center fbox-effect">
             <h3>Stand with Europe</h3>
             <p>Stand with European people against replacement migration</p>
         </div>
