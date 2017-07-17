@@ -46,7 +46,13 @@
         <a href="#"><img src="/images/issues/congressequality.jpg"></a>
     </div>
 
-    <p>Nothing is in greater opposition to the ethical principles on which this nation was founded than for our lawmakers to create laws to which they themselves are exempt. While I am opposed to the government control of health care, Congress must be covered by any plan they enact.</p>
+    <p>Nothing is in greater opposition to the ethical principles on which this nation was founded than for our lawmakers to create laws to which they themselves are exempt. The possible exception to this might be the acknowledgement that Congressional members are allowed to violate the law at will.</p>
+
+    <p>While I am opposed to the government control of health care, Congress must be covered by any plan they enact. This is not something that should really be in debate and it shows just how far the divide between Congress and the people has gotten.</p>
+
+    <p>Although Congress has taken action to reign in some of the more agregious insider trading, more action needs to be taken to stop the practice of representatives enriching themselves through their office.</p>
+
+    <p>In addition to these reforms, an aggressive investigation into the wealth of every congressional member must be undertaken. That investigation should start with members that managed to accrue millions of dollars while their only source of income was their congressional salary.</p>
 
 
     <div class="fancy-title nobottommargin">
@@ -59,6 +65,9 @@
 
     <p>In response to widespread reporting of insider trading, Congress enacted the STOCK act in 2012. It was later "fixed" to close loop holes. The truth is that no special law was needed as Congress is not exempt from standard insider trading laws.</p>
 
+    <p>A yearly audit of each representatives trading actions must be undertaken. This is to include their extended family as well. If any member made significant earnings in areas where they had influence then it must be considered a crime.</p>
+
+    <p>No congressional member or staffer can be allowed to participate in any stock option not avaialble to the general public.</p>
 
 
     <div class="fancy-title nobottommargin">

@@ -29,7 +29,7 @@
 
             <!-- <li><a href="/WhyImRunning"><div>Why I'm Running</div></a></li> -->
 
-            <li><a href="/district"><div>District 14</div></a></li>
+            <li><a href="/district"><div>Texas US District 14</div></a></li>
 
             <li><a href="/Plan"><div>The Plan</div></a></li>
 

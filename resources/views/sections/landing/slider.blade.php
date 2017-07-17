@@ -1,14 +1,14 @@
     <!-- images/landing/landing1.jpg -->
 <!-- bluebonnetflag.jpg -->
 
-    <section id="slider" class="slider-parallax" style="background: url('images/manwall2.jpg') no-repeat; background-size: cover" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
+    <section id="slider" class="slider-parallax" style="background: url('images/manwall1.jpg') no-repeat; background-size: cover" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
         <div class="slider-parallax-inner">
 
             <div class="container clearfix">
                 <div class="vertical-middle dark center">
 
                 <div class="col_half center">
-                    <img src="/images/templogo2.png">
+                    <img src="/images/logo2.png">
                     <div class="heading-block nobottommargin center">
                         Equality for our nation<br>
                         Equality for our sons

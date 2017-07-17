@@ -51,6 +51,8 @@
 
     <p>Assertions that the founding fathers could not have envisoned a machine gun or a modern assault rifle and therefore did not intend citizens to have access to such things is ludicrous - an assault rifle is much closer to a musket than the internet is to a printing press.</p>
 
+    <div class="clear"></div>
+
 
     <div class="fancy-title nobottommargin">
         <h3>Push for National Reciprocity</h3>

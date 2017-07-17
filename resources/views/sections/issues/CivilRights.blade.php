@@ -46,9 +46,9 @@
         <a href="#"><img src="/images/issues/civilrights.jpg"></a>
     </div>
 
-    <p>We currently live in a nation that tolerates tens of millions of people living illegally within its boundaries with no records of who they are or their nation of origin. At the same time, we have a no-fly list, and we pat down nuns, children, and WWII veterans before they get on an airplane. We also monitor every American citizen under the guise of preventing terror. This dichonomy is not sustainable.</p>
+    <p>We currently live in a nation that tolerates tens of millions of people living illegally within its boundaries. We have no records of who these people are or their nations of origin. At the same time, we have a no-fly list for our citizens, and we pat down nuns, children, and WWII veterans before they get on an airplane. We also monitor every American citizen under the guise of preventing terror. This dichonomy is not defendable nor sustainable.</p>
 
-    <p>Insead of insisting that we allow in people with wholly different cultures, and then monitor both them and us to ensure that they are not terrorists, why not simply allow us to be free. There is no logical benefit to this nation to import people who are hostile to its laws and its people. Stop terrorists at the border, and let Americans travel freely within our nation.</p>
+    <p>Instead of insisting that we allow in people with wholly different cultures, and then monitor both them and us to ensure that they are not terrorists, why not simply allow us to be free. There is no logical benefit to this nation to import people who are hostile to its laws and its people. Stop terrorists at the border, and let Americans travel freely within our nation.</p>
 
 
     <blockquote>
@@ -68,7 +68,7 @@
         <i class="icon-line-head"></i>
     </div>
 
-    <p>The 2016 elections saw a drastic - although unreported - rise in political violence. All of this violence was directed at Trump supporters or similar right wing candidates and much of it was racially based. Since that time, we have seen the rise of groups like antifa who traffic in violence. These groups regularly assault peaceful activists and endanger the lives of people simply attending political speeches.</p>
+    <p>The 2016 elections saw a drastic - although largely unreported - rise in political violence. All of this violence was directed at Trump supporters or similar right wing candidates and much of it was racially based. Since that time, we have seen the rise of groups like antifa who traffic in violence. These groups regularly assault peaceful activists and endanger the lives of people simply attending political speeches or rallies.</p>
 
     <p>This organization and any like it must be investigated to determine who is financing this lawlessness and those people must be brought to justice.</p>
 
@@ -84,7 +84,7 @@
 
     <p>The US supreme court is <a href="http://www.foxnews.com/us/2017/06/26/us-supreme-court-to-decide-colorado-gay-wedding-cake-case-timeline-events.html">about to hear a case</a> where a Christian baker was fined for refusing to bake a cake for a gay marriage ceremony. This seems to contradict with that company's right to refuse service to whomever they please. At the same time, platforms such as google, youTube, twitter, and facebook are denying services to entities based upon political views.</p>
 
-    <p>There is an obvious need to clarify laws with respect to religion and with respect to the right of a company to sell their labor to whomever they see fit. </p>
+    <p>There is an obvious need to clarify laws with respect to religion and with respect to the right of a company to sell their labor to whomever they see fit. We cannot say that twitter has a right to refuse service to anyone they see fit, but a family owned bakery must submit to the demands of any person that walks through the door.</p>
 
 
 </div>

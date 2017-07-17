@@ -72,11 +72,18 @@
         <i class="icon-group"></i>
     </div>
 
-    <p>To any man that has children, no pain is greater than the realization that another man has the right to place his son ahead of their own. This is especially insulting when that man has been given preferential hiring; when the other man's son has benefited beyond the capacity of his father's talent and work ethic; and while you were only able to provide your son with what was left after the government gave a portion of your salary to the other man.</p>
+    <div class="alignright">
+        <a href="#"><img src="/images/issues/equality3.jpg"></a>
+    </div>
+
+    <p>To any man that has children, no pain is greater than the realization that another man has the right to place his son ahead of their own. This is especially insulting when that man has already been given preferential hiring; when the other man's son has benefited beyond the capacity of his father's talent and work ethic; and while you were only able to provide your son with what was left after the government has given a portion of your salary to the other man.</p>
 
     <p>How bad is this preferential treatment? A recent Princeton University study <a href="http://www.latimes.com/local/california/la-me-adv-asian-race-tutoring-20150222-story.html">found</a> that African Americans recieved a 230 point bonus on their SAT scores when considered for admission. Hispanics received a bonus of 185 points.</p>
 
     <p>This is a debt paid throughout a person's entire life and then their sons are born into indebtedness. These laws must end.</p>
+
+
+    <div class="clear"></div>
 
 
     <div class="fancy-title nobottommargin">
@@ -122,9 +129,9 @@
 
     <p>These racist and bigoted rules have made our schools much more dangerous and made education almost impossible in some cases.</p>
 
-    <p>In a similar but more insidious manner, many schools have begun to teach our children that they should be ashamed of their race and their heritage - that they should look in the mirror and hate who they are. These are practices that would have been judged as inhumane in even the most Orwellian of times. Students at universities disavow their whiteness, are forced to begin presentations by apoligizing the native Americans for taking their lands, and in one instance at Evergreen college a student yells out during a meeting that whiteness is the most evil system that ever existed to thunderous applause.</p>
+    <p>In a similar but more insidious manner, many schools have begun to teach our children that they should be ashamed of their race and their heritage - that they should look in the mirror and hate who they are. These are practices that would have been judged as inhumane in even the most Orwellian of times. Students at universities disavow their whiteness, are forced to begin presentations by apologizing to the native Americans for taking their lands, and in one instance at Evergreen college a student yelled out during a meeting that whiteness is the most evil system that ever existed to thunderous applause.</p>
 
-    <p>The federal government must immediately cease funding to and revoke the credentials of any university or grade school that teaches white children to hate themselves. These policies are divisive and unethical.</p>
+    <p>The federal government must immediately cease funding to and revoke the credentials of any university or grade school that teaches white children to hate themselves.</p>
 
 
 
@@ -140,6 +147,6 @@
 
     <p>In July of 2017, <a href="https://medusamagazine.com/beyond-pro-choice-the-solution-to-white-supremacy-is-white-abortion">Medusa Magazine</a> ran an article asserting that the moral thing for all white women to do was to abort their babies and assist all non white women in reproducing.</p>
 
-    <p>The complete ending of the white race is being openly discussed as a legitimate course of action. These laws provide the moral validation for these people to assert that an inherent evil exists within our people.</p>
+    <p>The complete ending of the white race is being openly discussed as a legitimate course of action. These laws provide the moral validation for these people to assert that an inherent evil exists within our people and their removal is long overdue.</p>
 
 </div>
