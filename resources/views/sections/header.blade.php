@@ -16,10 +16,11 @@
                 <a href="index.html" class="retina-logo" data-dark-logo="images/logobig.png"><img src="images/logosmall.png" alt="Foxworth for Texas Logo"></a>
  -->         
 
-                <a href="index.html" class="standard-logo" data-dark-logo="images/logo2.png"><img src="images/logo2.png" alt="Foxworth for Texas Logo"></a>
-                <a href="index.html" class="retina-logo" data-dark-logo="images/logo2.png"><img src="images/logo2.png" alt="Foxworth for Texas Logo"></a>
+                <a href="/" class="standard-logo" data-dark-logo="/images/logo2.png"><img src="images/logo2.png" alt="Foxworth for Texas Logo"></a>
+                <a href="/" class="retina-logo" data-dark-logo="/images/logo2.png"><img src="images/logo2.png" alt="Foxworth for Texas Logo"></a>
    
             </div><!-- #logo end -->
+
 
 
             @include('sections.headermenu')
