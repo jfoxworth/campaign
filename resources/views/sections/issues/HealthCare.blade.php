@@ -52,7 +52,7 @@
 
     <p>To that end, free medical care for illegal aliens must be a thing of the past. If an illegal alien is injured, they will be treated and handed over to the authorities just like any other person who has violated the law. Legal aliens must be subject to the same scrutiny as Americans in determining whether or not they can pay for services rendered. We simply cannot morally tax our citizens or reduce services provided to seniors to pay for the cost of health care for citizens of other nations - including births.</p>
 
-    <p>How much of a problem is this? In 2006, a Dallas hospital noted that <a href="http://www.snopes.com/politics/immigration/parkland.asp">70% of the women who gave birth in a 3 month span were illegal immigrants</a>.</p>
+    <p>How much of a problem is this? In 2006, a Dallas hospital noted that <a href="http://www.snopes.com/politics/immigration/parkland.asp">70% of the women who gave birth in a 3 month span were illegal immigrants</a>. This means that US citizens are being taxed to pay for the costs of delivering the babies that are replacing them.</p>
 
     <p>Not one penny can go to the care of a citizen of another nation while veterans and senior citizens are either denied care or the cost of their care is increased.</p>
 
