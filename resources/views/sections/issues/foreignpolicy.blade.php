@@ -60,9 +60,9 @@
 
     <p>The European continent is currently being invaded and subjugated by African and middle-eastern peoples. They are suffering from terrorist attacks, from a massive rape epidemic, and their welfare systems are stretched beyond the breaking point. This is not the movement of refugees out of Syria, but rather conquest.</p>
 
-    <p>We must stand with the European people as they fight this invasion. We must ensure that these cultures - whose histories make up most of the known worlds history - continue to exist.</p>
+    <p>We must stand with the European people as they fight this invasion. We must ensure that these cultures - whose histories make up most of the known world's history - continue to exist.</p>
 
-    <p>To accomplish this, the US must turn back any smuggling boat bound for Europe. It must remove financial support to any country whose assist the migrants in reaching Europe but refuse to take in migrants themselves. Finally, it must fight for the freedom of the people within Europe who are imprisoned for speaking out against the occupation.</p>
+    <p>To accomplish this, the US must turn back any smuggling boat bound for Europe. It must remove financial support to any country that assists the migrants in reaching Europe but refuses to take in migrants themselves. We must also ensure that the nations that have refused to let in the aggressors are not forced to surrender. Finally, it must fight for the freedom of the people within Europe who are imprisoned for speaking out against the occupation.</p>
 
 
 </div>

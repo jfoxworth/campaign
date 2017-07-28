@@ -114,4 +114,19 @@
     <p>We have raised a generation of white students to hate themselves. This is immoral and must be ended.</p>
     
 
+
+
+
+    <div class="fancy-title nobottommargin">
+        <h3>End Fedeal Loan Guarantees</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-study"></i>
+    </div>
+
+    <p>The federal government currently does not allow citizens the right to remove education debt through bankruptcy. Ending this practice and forcing the university to lose that money will force colleges to act as businesses and ensure that the education they are providing to their students provides them with the means to make a living.</p>
+
+    <p>Allowing students to remove their debt and pass that loss to the colleges has multiple purposes. First, it protects the students by ensuring that colleges do not continue to grant degrees in subjects that provide no merit. Students can still take these classes, but it is likely that universities will require those students to pay the costs ahead of time and understand that the degrees are purely educational endeavors. Second, the departments within these universities that generate the racial hatred and violence cannot survive under these conditions. Ending the government funding of these departments is critical to ending the hatred they espouse.</p>
+
 </div>
