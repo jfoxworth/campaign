@@ -48,16 +48,16 @@
 
     <p>Nations are formed by distinct people groups. The structure and character of that government reflects the culture of the people that created it. The presence of significant numbers of different peoples with different cultures changes the character of that nation and has always led to conflict. The US recognizes the right of all other nations to retain their culture. This includes the nations that we invade in response to terrorist attacks and the nations known to have committed crimes against their own people. We must reserve this right for ourselves as well.</p>
 
-    <p>The population of this nation has always been overwhelmingly white and Christian. This culture is one of the most generous and giving the world has ever seen. Our people travel to distant lands to spread the Gospel and to build infrastructure to provide safe water to people they have never met. They adopt and raise the children of other people both outside of our nation and from the minority groups within our nation. It is a culture of small government, freedom, high trust, and low crime. It is a nation of men willing to plant trees, the shade of which they will never sit under.</p>
+    <p>The population of this nation has always been overwhelmingly white and Christian. This culture is one of the most generous and giving the world has ever seen. Our people travel to distant lands to spread the Gospel and to build infrastructure to provide safe water to people they have never met. They adopt and raise the children of other people both outside of our nation and from the minority groups within our nation. It is a culture of small government, freedom, high trust, and low crime. It is a nation of men willing to plant trees, the shade of which they will never sit under. The continued existence of this culture benefits the world. The removal of this culture through "multi-culturalism" removes this benefit.</p>
 
-    <p>The character of our nation and our laws has reflected this culture. The movement of tens of millions of people from other cultures into our lands changes that culture. To assert that the native white population of this country has no right to deny this migration while other nations and peoples retain this right is to assert that our culture is either inferior and worthy of replacement or inherently evil and in need of replacement. Either of those options tells exactly how we will be treated once made into a minority and provides all of the impetus needed to protect ourselves. If being a minority in this country is so bad, how can white people be asked to celebrate becoming a hated minority.</p>
+    <p>The character of our nation and our laws has reflected this culture. The movement of tens of millions of people from other cultures into our lands changes that culture. To assert that the native white population of this country has no right to deny this migration while other nations and peoples retain this right is to assert that our culture is either inferior and therefore worthy of replacement or that it is inherently evil and therefore in need of replacement. Either of those options tells exactly how we will be treated once made into a minority and provides all of the impetus needed to protect ourselves. If being a minority in this country is so bad, how can white people be asked to celebrate becoming a hated minority.</p>
 
     <blockquote>
         <p>To assert that the native white population of this country has no right to deny this migration while other nations and peoples retain this right is to assert that our culture is either inferior and worthy of replacement or inherently evil and in need of replacement. Either of those options tells exactly how we will be treated once made into a minority and provides all of the impetus needed to protect ourselves.</p>
         <footer>Joshua Foxworth</footer>
     </blockquote>
 
-    <p>Our culture has a right to exist. We have a right to self determination. We have a right to deny immigration to any and all people we see fit and to repatriate any who are present as the result of entering illegally. To question these rights is to question our right to equality.</p>
+    <p>Our culture has a right to exist. We have a right to self determination. We have a right to deny immigration to any and all people we see fit and to repatriate any who are present as the result of entering illegally. To question these rights is to question our right to equality. The use of this culture's desire to help the people of the world to convince them that they must surrender their lands and the future of their people to every other culture is the most insidious technique of conquering our people yet devised.</p>
 
 
     <div class="fancy-title nobottommargin">
@@ -68,7 +68,7 @@
         <i class="icon-flag-alt"></i>
     </div>
 
-    <p>In 1965, the US was 84% white with the remaining population consisting mostly of African-Americans. That same year, Congress passed the Immigration and Naturalization Act of 1965, also known as the Hart-Celler Act. The legislation changed US immigration policy away from focusing on European immigrants and towards others. In discussing the act, Senator Ted Kennedy asserted that "our cities will not be flooded with a million immigrants annually. ... Secondly, the ethnic mix of this country will not be upset." This promise was not honored and millions of both legal and illegal immigrants poured over the border from nations not previously allowed.</p>
+    <p>In 1965, the US was 84% white with the remaining population consisting mostly of African-Americans. That same year, Congress passed the Immigration and Naturalization Act of 1965, also known as the Hart-Celler Act. The legislation changed US immigration policy away from focusing on European immigrants and towards others. In discussing the act, Senator Ted Kennedy asserted that "our cities will not be flooded with a million immigrants annually. ... Secondly, the ethnic mix of this country will not be upset." This promise was not honored and millions of both legal and illegal immigrants poured over the border from nations not previously allowed and with cultures vastly different from our own.</p>
 
     <blockquote>
         <p>our cities will not be flooded with a million immigrants annually. ... Secondly, the ethnic mix of this country will not be upset.</p>
@@ -90,7 +90,7 @@
         <i class="icon-flag-alt"></i>
     </div>
 
-    <p>The damage done to the culture has been catastrophic. In recent years, the amount of money sent to Mexico from workers in the US has surpassed the money brought into that country by oil revenue. This loss of financial capital to the US alone should be enough to spur action.</p>
+    <p>The damage done to the culture and our economy has been catastrophic. In recent years, the amount of money sent to Mexico from workers in the US has surpassed the money brought into that country by oil revenue. This loss of financial capital to the US alone should be enough to spur action.</p>
 
     <p>In addition to this, <a href="https://cis.org/Welfare-Use-Legal-and-Illegal-Immigrant-Households">49% of households headed by legal immigrants</a> used one or more welfare programs in 2012, compared to 30 percent of households headed by natives. Households headed by legal immigrants have higher use rates than native households overall and for cash programs (14 percent vs. 10 percent), food programs (36 percent vs. 22 percent), and Medicaid (39 percent vs. 23 percent). Use of housing programs is similar. In addition to this, illegal immigrant households account for one quarter of all immigrant households accessing one or more welfare programs.</p>
 
@@ -100,7 +100,7 @@
 
     <p>The cost to our culture has been much higher. Immigrants from nations to our south do not share the views of the native population on firearms, welfare, corruption, age of consent, treatment of women, or the size of government. In the next decade, they will have enough voters in Texas to control state wide elections. This means that the future of the nation will be drastically altered because of people who entered illegally or through direct deception of the American people. The white Christian native population will no longer have the right of self determination. All of this while the nations these migrants came from deny entry to any other people on the basis of the need to retain their culture and their national identity.</p>
 
-    <p>What has happened in the US over the last 50 years is not migration. Migrants are invited and enter legally. This is an invasion.</p>
+    <p>What has happened in the US over the last 50 years is not migration. Migrants are invited and enter legally. This has been an invasion.</p>
 
 
 
@@ -135,12 +135,12 @@
 
     <p>By punishing employers that hire illegal aliens, those people will return home. By refusing welfare to newly arrived and illegal aliens, we will provide more incentive for these people to return home.</p>
 
-    <p>In addition to this, US tax payers cannot be forced to pay for the health care of other people while our own costs are so high. Any person who accesses the health care system - even through an emergency - must have their citizenship status ascertained and held for deportation if merited.</p>
+    <p>In addition to this, US tax payers cannot be forced to pay for the health care of other people - especially while our own costs are so high. Any person who accesses the health care system - even through an emergency - must have their citizenship status ascertained and held for deportation if merited.</p>
 
-    <p>It is not immoral for us to enforce our laws. It is not unethical for us to assert equality for our people. Any assertion that it is unethical for us to maintain a homogenous nation, but completely acceptable for nations like Japan, China, Israel, Saudia Arabia, Mexico, or any African country to do so, is an assertion that we are a people unworthy of equality. Any representative that works on behalf of the people of other nations to bring them to our lands betrays their oath of office.</p>
+    <p>It is not immoral for us to enforce our laws. It is not unethical for us to assert equality for our people. Any assertion that it is unethical for us to maintain a homogenous nation, but completely acceptable for nations like Japan, China, Israel, Saudia Arabia, Mexico, or any African country to do so, is an assertion that we are a people unworthy of equality - unworthy of our own nations. Any representative that works on behalf of the people of other nations to bring them to our lands betrays their oath of office.</p>
 
     <blockquote>
-        <p>Any assertion that it is unethical for us to maintain a homogenous nation, but completely acceptable for nations like Japan, China, Israel, Saudia Arabia, Mexico, or any African country to do so, is an assertion that we are a people unworthy of equality.</p>
+        <p>Any assertion that it is unethical for us to maintain a homogenous nation, but completely acceptable for nations like Japan, China, Israel, Saudia Arabia, Mexico, or any African country to do so, is an assertion that we are a people unworthy of equality - unworthy of our own nations.</p>
         <footer>Joshua Foxworth</footer>
     </blockquote>
 
@@ -163,7 +163,7 @@
 
 
     <div class="fancy-title nobottommargin">
-        <h3>An end to H1-B tech visas</h3>
+        <h3>An end to H1-B and H2-B visas</h3>
     </div>
 
     <div class="divider divider-border divider-right notopmargin">

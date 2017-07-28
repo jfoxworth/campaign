@@ -14,7 +14,7 @@
 
 	    <p>This restoration contains three components. The first is and end to mass immigration and a repatriation of all aliens who reside here as a result of illegal entry. The second is an end to the practice of punishing or rewarding people based upon race and/or gender. The third consists of reasserting the rule of law on an unethical congress.</p>
 
-	    <p>These three subjects are introduced here and discussed in detail in their own issues pages. Those pages are accessible through the menu at the top of this page and on the <a href="/issues">main issues page</a>. It should be noted that this restoration requires that no laws be passed or any executive action be issued. The people are simply reasserting their right as a nation and within their nation.</p>
+	    <p>These three subjects are introduced here and discussed in detail in their own issues pages. Those pages are accessible through the menu at the top of this page and on the <a href="/Issues">main issues page</a>. It should be noted that this restoration requires that no laws be passed or any executive action be issued. The people are simply reasserting their right as a nation and within their nation.</p>
 
 		<div class="fancy-title nobottommargin">
 			<h3>US Equality - an end to mass migration</h3>
@@ -24,7 +24,7 @@
 			<i class="icon-star"></i>
 		</div>
 
-	    <p>The right and nation and a people to control who enters their lands is the most basic aspect of a nation and the primary indicator that they are being invaded. The assertion that some countries can limit immigration and retain their culture while others must accept all who enter and change from a single culture to a "multi-cultural" nation is the most fundamentally unequal statement a person can make. The US and its people are the equal of all other nations and peoples and it is time to assert our rights to retain our lands and our culture.</p>
+	    <p>The right of a nation and a people to control who enters their lands is the most basic aspect of a nation. The assertion that some countries can limit immigration and retain their culture while others must accept all who enter and change from a single culture to a "multi-cultural" nation is the most fundamentally unequal statement a person can make. The US and its people are the equal of all other nations and peoples and it is time to assert our rights to retain our lands and our culture. (<a href="/Issues/USEquality">more</a>)</p>
 
 
 		<div class="fancy-title nobottommargin">
@@ -42,9 +42,9 @@
 
 	    <p>No man has the right to lay claim to another man's labor. No man has the right to place his child ahead of another man's child based upon a condition of birth. No man can be given special rights from the government based upon a condition of birth. To do any of these things is to assert a class of nobility that resides above the remaining US population.</p>
 
-	    <p>At the present time, the US engages in all of these practices in an effort to punish what is commonly referred to as "privilege". This has led to a situation where person A can work his entire life while being force by the state to give a significant portion of his salary to a person B. Person B's son is then placed ahead of person A's son on the basis that the person A and his son enjoyed some sort of state approved privilege.</p>
+	    <p>At the present time, the US engages in all of these practices in an effort to punish what is commonly referred to as "privilege". This has led to a situation where person "A" can work his entire life while being force by the state to give a significant portion of his salary to a person "B". Person B's son is then placed ahead of person A's son on the basis that the person A and his son enjoyed some sort of state approved privilege.</p>
 
-	    <p>No people should be subjected to this type of immoral practice - especially in their own lands.</p>
+	    <p>No people should be subjected to this type of immoral practice - especially in their own lands. (<a href="/Issues/RacialEquality">more</a>)</p>
 
 
 		<div class="fancy-title nobottommargin">
@@ -57,7 +57,7 @@
 
 	    <p>While the Congress creates laws that dictate American health care, Congress is allowed to access health care outside of this plan. Congress is also allowed to perform insider trading - a practice that was supposedly outlawed years ago. To restore equality between the people and their elected officials, Congress must be required to follow any plans the pass for the people and they must be held to the same letter of the law.</p>
 
-	    <p>An aggressive reform to congressional income reporting is needed as well with equally aggressive investigations into how each representative accrued their wealth to determine if any representative has sold their influence.</p>
+	    <p>An aggressive reform to congressional income reporting is needed as well with equally aggressive investigations into how each representative accrued their wealth to determine if any representative has sold their influence. (<a href="/Issues/CongressEquality">more</a>)</p>
 
 
 	</div>
