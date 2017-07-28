@@ -46,7 +46,11 @@
         <a href="#"><img src="/images/issues/healthcare.jpg"></a>
     </div>
 
-    <p>Before we can discuss what is wrong with the American health care system, we must ensure that the system actually applies to Americans. To do this, we must end the practice of charging taxpayers to pay for the health care of migrants - both legal and illegal. We have a large wave of baby boomers entering the time in their lives when they will need the most care. That care cannot morally be made more expensive now simply to offset the cost of a hospital providing to services to people of other nations.</p>
+    <p>The cost of health care for Americans has risen at a completely unsustainable rate with no end in sight. Increasingly complicated plans like "Obamacare" cannot reduce costs because they do not address the root causes of those rising costs. Indeed, no plan makes any effort to even name those causes.</p>
+
+    <p>The cost of health care for Americans is directly related to the fact that our citizens subsidize both the health care of migrants within this nation, and the cost of prescription drugs in other nations. Ending these two practices will not only drastically reduce the cost of health care, but will also make it possible to understand what neeeds to be done to correct the system for Americans.</p>
+
+    <p>To that end, free medical care for illegal aliens must be a thing of the past. If an illegal alien is injured, they will be treated and handed over to the authorities just like any other person who has violated the law. Legal aliens must be subject to the same scrutiny as Americans in determining whether or not they can pay for services rendered. We simply cannot morally tax our citizens or reduce services provided to seniors to pay for the cost of health care for citizens of other nations - including births.</p>
 
     <p>How much of a problem is this? In 2006, a Dallas hospital noted that <a href="http://www.snopes.com/politics/immigration/parkland.asp">70% of the women who gave birth in a 3 month span were illegal immigrants</a>.</p>
 
