@@ -31,7 +31,7 @@
 
             <li><a href="/district"><div>Texas US District 14</div></a></li>
 
-            <li><a href="/Plan"><div>The Plan</div></a></li>
+            <!-- <li><a href="/Plan"><div>The Plan</div></a></li> -->
 
         </ul>
 
