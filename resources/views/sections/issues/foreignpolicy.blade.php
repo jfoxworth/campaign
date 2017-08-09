@@ -1,5 +1,5 @@
-<!-- Equality
-============================================= -->
+
+
 <div class="container clearfix">
 
     <div class="heading-block center nobottomborder">

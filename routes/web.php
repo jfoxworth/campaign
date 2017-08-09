@@ -21,6 +21,9 @@ Route::get('/Issues', function () {
 });
 
 
+Route::get('/Issues/ForeignPolicy', function () {
+    return view('layouts.issues', ['issue' => 'Equality']);
+});
 Route::get('/Issues/Equality', function () {
     return view('layouts.issues', ['issue' => 'Equality']);
 });
@@ -42,10 +45,6 @@ Route::get('/Issues/CivilRights', function () {
 Route::get('/Issues/Monuments', function () {
     return view('layouts.issues', ['issue' => 'Monuments']);
 });
-Route::get('/Issues/ForeignPolicy', function () {
-    return view('layouts.issues', ['issue' => 'ForeignPolicy']);
-});
-
 Route::get('/Issues/SecondAmendment', function () {
     return view('layouts.issues', ['issue' => 'SecondAmendment']);
 });
