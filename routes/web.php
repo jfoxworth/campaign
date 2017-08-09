@@ -45,6 +45,7 @@ Route::get('/Issues/Monumnets', function () {
 Route::get('/Issues/ForeignPolicy', function () {
     return view('layouts.issues', ['issue' => 'ForeignPolicy']);
 });
+
 Route::get('/Issues/SecondAmendment', function () {
     return view('layouts.issues', ['issue' => 'SecondAmendment']);
 });

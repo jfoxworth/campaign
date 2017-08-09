@@ -6,9 +6,9 @@
 
     <p>Neither this page nor the link in the header will appear on the actual campaign site. It is simply a means of establishing a basic plan and setting reasonable markers for progress. It's just for us and it's just a starting point. FYI, this isn't me in the pictures, they are just place holders.</p>
 
-    <p>The plan has four main steps. The first is to establish footing with a social media presence - primarily to make sure that we aren't in completely over our heads. The second step is to start a series of interviews on friendly media and begin to raise funds. Here, we will begin to target friendly demographics in the distict directly. The third step is to push into conservative mainstream media and push fundraising from mainstream sources. We will not do large events unless funding is massive. We will stick to finding loyal voters and pushing them to the polls in March. The fourth is the final phase of the campaign in Jan, Feb of 2018.</p>
+    <p>The plan has four main steps. The first is to establish footing with a social media presence - primarily to make sure that we aren't in completely over our heads. The second step is to start a series of interviews on friendly media and begin to raise funds. Here, we will begin to target friendly demographics in the distict directly. The third step is to push into conservative mainstream media and push fundraising from mainstream sources. We will not do large events unless funding is massive. We will stick to finding loyal voters and pushing them to the polls in March. The fourth is the final phase of the campaign in Jan, Feb of 2018. This is where we will spend most of our money.</p>
 
-    <p>I do not believe that most people pay attention to primaries at all. Those that do only do so in the days or weeks before the election. The overall strategy is to build the base in preparation for an onslaught attempt in the last few months. I feel like spending resources early will not be enough to force a debate (although it's not impossible), and that establishing a high burn rate too early will cause the campaign to run out of funds in Jan/Feb.</p>
+    <p>I do not believe that most people pay attention to primaries at all. Those that do only do so in the days or weeks before the election. The overall strategy is to build the base in preparation for an onslaught attempt in the last few weeks/months. I feel like spending resources early will not be enough to force a debate (although it's not impossible), and that establishing a high burn rate too early will cause the campaign to run out of funds in Jan/Feb.</p>
 
     <p>The strategy is to collect and position our people so that we can get volunteers and paid staffers that can come do events in February. We give them enough warning so that they can get off of work and help, etc. Obviously, if we take off in funds and polls, we can always add people and resources. I plan to run this like a startup and grab quality people and wait for the right time instead of amassing resources early.</p>
 
@@ -36,7 +36,7 @@
 
     <p>The initial phase will be to release a web page with campaign statements and accounts on facebook, twitter, and instagram. What I need help with is pushing that message out. It can simply start with the various alt-right and anti-migration people discussing the campaign. This will give us a good gauge of where we are starting.</p>
 
-    <p>Fundraising isn't that important in this stage, but we should be able to raise some initial funds - a few thousand dollars to get us off the ground.</p>
+    <p>Fundraising isn't that important in this stage, but we should be able to raise some initial funds - a few thousand dollars to get us off the ground. This will come from our inner circle of people - friends and family and known people.</p>
 
 
 
@@ -61,6 +61,10 @@
     <p>The goal is to get on friendly internet shows where we know that we will be treated fairly and where the conversation is reasonable and relaxed. These are shows like Stephan Molyneaux, Red Ice Radio, etc. Writing some articles for some of the more mainstream publications would be great too. However, no compromising on the core issues to get this. The regular media is to be shunned at this point and throughout most of the campaign. No interviews, no discussions, no access. I have written for American Thinker in the past in an effort to promote a site I was working on.</p>
 
     <p>During his campaign, Senator Mike Lee rented what appeared to be a university class room. It had sloped auditorium style seating and a chalk board at the front. He filed the room with supporters and discussed his plans as if he was teaching to a class. I found this to be very powerful and would like to do something similar. It provides a good starting point for people coming to the issues.</p>
+
+    <p>I expect to spend a lot of time fund raising here.</p>
+
+    <p>UPDATE - Given the recent RAISE Act and the President's actions on affirmative action, I feel like the mood is starting to tilt towards us. Fund raising should be started asap.</p>
 
 
 

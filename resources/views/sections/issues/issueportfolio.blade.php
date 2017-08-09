@@ -130,7 +130,7 @@
 
     <article class="portfolio-item pf-graphics">
         <div class="portfolio-image">
-            <a href="/Issues/CivilRights">
+            <a href="/Issues/ForeignPolicy">
                 <img src="/images/issues/foreignpolicy.jpg" alt="Foreign Policy">
                 <div class="portfolio-overlay">
                     <div class="portfolio-desc">
