@@ -39,7 +39,7 @@ Route::get('/Issues/NASA', function () {
 Route::get('/Issues/CivilRights', function () {
     return view('layouts.issues', ['issue' => 'CivilRights']);
 });
-Route::get('/Issues/Monumnets', function () {
+Route::get('/Issues/Monuments', function () {
     return view('layouts.issues', ['issue' => 'Monuments']);
 });
 Route::get('/Issues/ForeignPolicy', function () {
