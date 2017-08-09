@@ -22,7 +22,7 @@ Route::get('/Issues', function () {
 
 
 Route::get('/Issues/ForeignPolicy', function () {
-    return view('layouts.issues', ['issue' => 'Equality']);
+    return view('layouts.issues', ['issue' => 'forpol']);
 });
 Route::get('/Issues/Equality', function () {
     return view('layouts.issues', ['issue' => 'Equality']);
