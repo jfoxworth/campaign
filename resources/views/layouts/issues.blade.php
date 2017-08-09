@@ -27,9 +27,8 @@
 
             <div class="content-wrap">
 
-<!--                 @include("sections/issues/{$issue}")
- -->
-                sections/issues/{{$issue}}
+                @include("sections/issues/{$issue}")
+
             </div>
 
         </section><!-- #content end -->
