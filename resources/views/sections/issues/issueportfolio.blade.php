@@ -142,4 +142,18 @@
         </div>
     </article>
 
+    <article class="portfolio-item pf-graphics">
+        <div class="portfolio-image">
+            <a href="/Issues/ForeignPolicy">
+                <img src="/images/issues/statue.jpg" alt="Monuments">
+                <div class="portfolio-overlay">
+                    <div class="portfolio-desc">
+                        <h3>Monuments</h3>
+                        <span>Oppose the destruction of our history</span>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </article>
+
 </div>
