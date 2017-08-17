@@ -8,10 +8,12 @@
                 <div class="vertical-middle dark center">
 
                 <div class="col_half center">
-                    <img src="/images/logo2.png">
+                    <img src="/images/logo5.png">
                     <div class="heading-block nobottommargin center">
-                        Equality for our nation<br>
+
+<!--                         Equality for our nation<br>
                         Equality for our sons
+ -->
                     </div>
 
 
