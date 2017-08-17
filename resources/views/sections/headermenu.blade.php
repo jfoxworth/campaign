@@ -21,7 +21,7 @@
                     <!-- <li><a href="/Issues/Veterans"><div><i class="icon-stack"></i>Veterans</div></a></li> -->
                     <li><a href="/Issues/Education"><div><i class="icon-study"></i>Education</div></a></li>
                     <!-- <li><a href="/Issues/SocialSecurity"><div><i class="icon-stack"></i>Social Security</div></a></li> -->
-                    <li><a href="/Issues/Monuments"><div><i class="icon-line-flag"></i>Historical Monuments</div></a></li>
+                    <li><a href="/Issues/Monuments"><div><i class="icon-line-map"></i>Historical Monuments</div></a></li>
                 </ul>
             </li>
 
