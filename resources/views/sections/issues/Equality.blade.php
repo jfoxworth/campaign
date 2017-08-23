@@ -10,11 +10,11 @@
     		<a href="#"><img src="/images/issues/equality.jpg"></a>
     	</div>
 
-	    <p>The central premise of this campaign is that the US and its people are treated unequally as a nation and that internally the US itself has become a fundamentally unequal nation. The population of this nation has the right to demand a restoration of equality both for ourselves and for our posterity.</p>
+	    <p>The United States is not treated equally on the world stage and internally its people are treated unequally. The population of this nation has the right to demand a restoration of equality both for ourselves and for our posterity.</p>
 
 	    <p>This restoration contains three components. The first is and end to mass immigration and a repatriation of all aliens who reside here as a result of illegal entry. The second is an end to the practice of punishing or rewarding people based upon race and/or gender. The third consists of reasserting the rule of law on an unethical congress.</p>
 
-	    <p>These three subjects are introduced here and discussed in detail in their own issues pages. Those pages are accessible through the menu at the top of this page and on the <a href="/Issues">main issues page</a>. It should be noted that this restoration requires that no laws be passed or any executive action be issued. The people are simply reasserting their right as a nation and within their nation.</p>
+	    <p>These three subjects are introduced here and discussed in detail in their own issues pages. Those pages are accessible through the menu at the top of this page and on the <a href="/Issues">main issues page</a>. This restoration requires that no laws be passed or any executive action be issued. The people are simply reasserting their right as a nation and within their nation.</p>
 
 		<div class="fancy-title nobottommargin">
 			<h3>US Equality - an end to mass migration</h3>
@@ -42,7 +42,7 @@
 
 	    <p>No man has the right to lay claim to another man's labor. No man has the right to place his child ahead of another man's child based upon a condition of birth. No man can be given special rights from the government based upon a condition of birth. To do any of these things is to assert a class of nobility that resides above the remaining US population.</p>
 
-	    <p>At the present time, the US engages in all of these practices in an effort to punish what is commonly referred to as "privilege". This has led to a situation where person "A" can work his entire life while being force by the state to give a significant portion of his salary to a person "B". Person B's son is then placed ahead of person A's son on the basis that the person A and his son enjoyed some sort of state approved privilege.</p>
+	    <p>At the present time, the US engages in all of these practices in an effort to punish what is commonly referred to as "privilege". This has led to a situation where person can spend their entire life being unequally treated by their government in education, employment, and legal practices and then see their children subjected to that same discrimination based upon the notion that their parent were priviledged.</p>
 
 	    <p>No people should be subjected to this type of immoral practice - especially in their own lands. (<a href="/Issues/RacialEquality">more</a>)</p>
 

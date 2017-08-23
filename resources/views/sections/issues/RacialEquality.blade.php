@@ -46,22 +46,24 @@
         <a href="#"><img src="/images/issues/racialequality.jpg"></a>
     </div>
 
-    <p>It is tempting to say that equality in this country is often incorrectly viewed as equality of outcome. When the argument is made that one people group has more success than another and that this implies an inherent inequality in the system, we point out that we are guaranteed equality of opportunity and not outcome. This argument is tempting because it allows us to attach simple misconception to the motivations of those who want to assign preferences and punishments on the basis of race.</p>
+    <p>In 1961, President John Kennedy signed an executive order requiring that government employers "not discriminate against any employee or applicant for employment because of race, creed, color, or national origin" and that the government must "take affirmative action to ensure that applicants are employed, and that employees are treated during employment, without regard to their race, creed, color, or national origin".</p>
 
-    <p>The reality is that arguments for racial "equality" in this country have a singular target - white men. We often hear about the wage gap between blacks and whites as proof of racism, but we never discuss the fact that asians make more money than whites. There is never a call to "diversify" an Indian or Asian owned company. Only white people are told that their cities, their schools, their churches, their businesses, and the neighborhoods are not "diverse" enough. Every company must have a diversity officer to ensure that there are not too many white people. A special "protected" class of people must have special laws to shield them from white malice. The mere existence of too many white people constitutes an inherent inequality that must be addressed through legislation.</p>
+    <p>The Civil Rights Act of 1964 then contained language prohibiting the discrimination in employment on the basis of race, color, or national origin.</p>
 
-    <p>These laws not only create a legal system that places white people at an institutional disadvantage, they provide the moral framework for broader hate crimes against white people. These crimes range from the obscene levels of violence visited upon white people in schools and on the streets to the countless numbers of jobs and educational opportunities that we are turned away from in favor of a more "diverse" candidate. They have led to refering to the massive numbers of gang assaults as the "knockout game" and to the covering up of crimes on <a href="http://sanfrancisco.cbslocal.com/2017/07/09/bart-withholding-surveillance-videos-of-crime-to-avoid-stereotypes/">mass transit</a> to protect the criminals from reprisals.</p>
+    <p>In 1965, President Lyndon B. Johnson signed another executive order replacing President Kennedy's and affirming the Federal Government's commitment "to promote the full realization of equal employment opportunity through a positive, continuing program in each executive department and agency". This protection was extended to women by another executive order in 1967.</p>
+
+    <p>Whatever their original intent, the existence of these laws is now all that is needed to prove the racism and sexism the laws were intended to end. The laws create a legal system that places people at an institutional disadvantage based upon race and gender and provide the moral justification for broader discrimination.  This discrimination ranges from violence in schools and on the streets to the countless numbers of jobs and educational opportunities that some are turned away from in favor of a candidate prefered by the government. They have led to refering to the massive numbers of gang assaults as the "knockout game" and to the covering up of crimes on <a href="http://sanfrancisco.cbslocal.com/2017/07/09/bart-withholding-surveillance-videos-of-crime-to-avoid-stereotypes/">mass transit</a> to protect the image of favored groups.</p>
 
 
     <blockquote>
-        <p>These laws will never end, there will never be enough "equality", there will never be enough "diversity".</p>
+        <p>These laws will never end, there will never be enough "equality", there will never be enough "equality".</p>
         <footer>Joshua Foxworth</footer>
     </blockquote>
 
 
-    <p>The longer we allow these laws to perpetuate, the more we weight we give to the argument that our existence constitutes an evil that requires government intervention. These laws will never end, there will never be enough "equality", there will never be enough "diversity". If you don't believe this, look at South Africa where the white population has been reduced to 9% of the total population but massive affirmative action laws are enacted in favor of the black majority.</p>
+    <p>The longer we allow these laws to perpetuate, the more we weight we give to the argument that the existence of the native population constitutes an evil that requires government intervention. These laws will never end, there will never be enough "equality".</p>
 
-    <p>These laws create a nobility class in America - one that is defined by race. These men and women are given special access to legal protection, special access to education, and preferential treatment in government contracts. No matter how much this class of people benefit from this government preference and no matter how much the other classes are harmed, the children of the preferred class will still be able to claim preferential treatment on the basis that the other children had "privilege".</p>
+    <p>These laws effectively create a nobility class in America - one that is defined by being the member of a protected class of people. Men and women are given special access to legal protection, special access to education, and preferential treatment in government contracts. No matter how much this class of people benefit from this government preference and no matter how much the other classes are harmed, the children of the preferred class will still be able to claim preferential treatment on the basis that the other children had "privilege".</p>
 
 
     <div class="fancy-title nobottommargin">
@@ -78,7 +80,7 @@
 
     <p>To any man that has children, no pain is greater than the realization that another man has the right to place his son ahead of their own. This is especially insulting when that man has already been given preferential hiring; when the other man's son has benefited beyond the capacity of his father's talent and work ethic; and while you were only able to provide your son with what was left after the government has given a portion of your salary to the other man.</p>
 
-    <p>How bad is this preferential treatment? A recent Princeton University study <a href="http://www.latimes.com/local/california/la-me-adv-asian-race-tutoring-20150222-story.html">found</a> that African Americans recieved a 230 point bonus on their SAT scores when considered for admission. Hispanics received a bonus of 185 points.</p>
+    <p>How bad is this preferential treatment? A recent Princeton University study <a href="http://www.latimes.com/local/california/la-me-adv-asian-race-tutoring-20150222-story.html">found</a> that African Americans recieved a 230 point bonus on their SAT scores when considered for admission. Hispanics received a bonus of 185 points. This means that someone who is not a member of the protected class must score a 1230 on their SATs to be considered for admittance at the level of an African American that scores 1000.</p>
 
     <p>This is a debt paid throughout a person's entire life and then their sons are born into indebtedness. These laws must end.</p>
 
