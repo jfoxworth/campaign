@@ -20,7 +20,7 @@
 
 					<div class="col_one_third col_last">
 						<h4>Restore the Nation</h4>
-						<p>I will ensure that first amendment speech and business rights are enforced on the internet, that no waiver is made on the second amendment, and that we begin the work to restore the fourth amendment. <a href="/Issues/CongressEquality">(more)</a></p>
+						<p>I will ensure that first amendment rights are enforced on the internet, that we do not waiver on the second amendment, and that we begin the work to restore the fourth amendment. <a href="/Issues/CongressEquality">(more)</a></p>
 					</div>
 
 					<div class="clear"></div>
