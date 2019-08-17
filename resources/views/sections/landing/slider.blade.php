@@ -1,7 +1,7 @@
     <!-- images/landing/landing1.jpg -->
 <!-- bluebonnetflag.jpg -->
 
-    <section id="slider" class="slider-parallax" style="background: url('images/landing/campaign1.png') no-repeat; background-size: cover" >
+    <section id="slider" class="slider-parallax" style="background: url('images/landing/campaign1.png') no-repeat; background-size: cover" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
         <div class="slider-parallax-inner">
 
             <div class="container clearfix">
