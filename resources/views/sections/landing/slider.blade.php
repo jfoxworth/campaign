@@ -6,7 +6,7 @@
 
                 <div class="swiper-container swiper-parent">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide dark" style="background-image: url('images/landing/campaign1.png');">
+                        <div class="swiper-slide dark" style="background-image: url('images/landing/campaign1.png'); background-size: contain">
                             <div class="container clearfix">
                                 <div class="vertical-middle dark center">
 
