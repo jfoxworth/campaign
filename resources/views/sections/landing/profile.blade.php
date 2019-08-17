@@ -4,10 +4,8 @@
 
         <div class="col-md-12">
 
-<!--             <div class="col-md-6" style="background: url('http://localhost:8000/images/team/9.jpeg') center center no-repeat;    background-size: cover;"></div>
- -->
             <div class="col-md-6 center">
-                <img src="/images/landing/campaignClose.png" height="500px" alt="Joshua Foxworth">
+                <img src="/images/landing/campaignClose.png" height="400px" alt="Joshua Foxworth">
             </div>
 
             <div class="col-md-6">
