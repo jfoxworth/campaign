@@ -11,8 +11,8 @@
             <!-- Logo
             ============================================= -->
             <div id="logo">
-                <a href="/" class="standard-logo" data-dark-logo="/images/logo2.png"><img src="/images/logo2.png" alt="Foxworth for Texas Logo"></a>
-                <a href="/" class="retina-logo" data-dark-logo="/images/logo2.png"><img src="/images/logo2.png" alt="Foxworth for Texas Logo"></a>
+                <a href="/" class="standard-logo" data-dark-logo="/images/fullLogo.png"><img src="images/fullLogo.png" alt="Foxworth for Texas Logo"></a>
+                <a href="/" class="retina-logo" data-dark-logo="/images/fullLogo.png"><img src="images/fullLogo.png" alt="Foxworth for Texas Logo"></a>
             </div><!-- #logo end -->
 
 
