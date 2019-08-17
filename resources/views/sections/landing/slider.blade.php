@@ -12,7 +12,6 @@
 
 									<div class="col_half center">
 										<img src="/images/fullLogo.png" width="300px">											
-										<img src="/images/landing/whiteStars.png" width="200px">											
 										<div class="center logoBox">
 											<div class="secondaryLogoText">Enforce Immigration Laws</div>
 											<div class="secondaryLogoText">End Affirmative Action</div>

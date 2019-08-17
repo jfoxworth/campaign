@@ -27,9 +27,7 @@
 
             <div class="">
 
-                @include('sections.landing.issuesbreak')
-
-                @include('sections.landing.equality')
+                @include('sections.landing.issueSummary')
 
                 @include('sections.landing.profile')
 
