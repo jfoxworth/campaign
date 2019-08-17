@@ -1,8 +1,6 @@
 <div class="promo promo-border promo-full">
     <div class="container clearfix">
-        <h3>Restore Equality - Restore the Nation</h3>
-        <span>The future of the US depends upon ending our unsustainable immigration policies, restoring our</span>
-        <span>culture, and allowing everyone to achieve their dreams - regardless of race and gender.</span>
-        <a href="/Issues" class="button button-xlarge button-rounded">View Issues</a>
+        <h3>My Pledge - Results, not excuses</h3>
+        <span>Immigration, the budget, life, marriage, health care. No matter the issue, "conservatism" in America has become synonomous with "lose with dignity." I will break from this pattern. On the day that I am sworn in, I will lead a nation wide movement to enforce our immigration laws and end affrimative action. We will not allow the nation to carry out its business if the business if this nation is to circumvent our will and subjugate our children. </span>
     </div>
 </div>

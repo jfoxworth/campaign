@@ -29,6 +29,8 @@
 
                 @include('sections.landing.issueSummary')
 
+                @include('sections.landing.corePromiseBreak')
+
                 @include('sections.landing.profile')
 
                 @include('sections.landing.afirstbreak')
