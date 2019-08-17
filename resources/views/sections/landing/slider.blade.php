@@ -6,17 +6,19 @@
 
 				<div class="swiper-container swiper-parent">
 					<div class="swiper-wrapper">
-						<div class="swiper-slide dark" style="background-image: url('images/landing/campaign2.png');">
+						<div class="swiper-slide dark" style="background-image: url('images/landing/campaign3.png');">
 							<div class="container clearfix">
 								<div class="vertical-middle dark center">
 
 									<div class="col_half center">
+										<img src="/images/fullLogo.png" width="300px">											
+										<img src="/images/landing/whiteStars.png" width="200px">											
 										<div class="center logoBox">
-	                                        <img src="/images/fullLogo.png" width="200px">											
 											<div class="secondaryLogoText">Enforce Immigration Laws</div>
 											<div class="secondaryLogoText">End Affirmative Action</div>
 											<div class="secondaryLogoText">Restore the Nation</div>
 										</div>
+										<img src="/images/landing/whiteStars.png" width="200px">											
 
 
 									</div>
