@@ -14,6 +14,21 @@
 }
 
 
+.logoStarLine {
+	width:100%;
+}
+
+
+.logoStar {
+	float:left;
+}
+
+
+.iconStar {
+	width:50px;
+}
+
+
 /*-----------------------------------------------------------------------------------
 
 	Theme Name: Canvas
@@ -2929,7 +2944,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 .swiper_wrapper .swiper-slide {
 	position: relative;
 	margin: 0;
-	background-position: center center;
+	background-position: center top;
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow: hidden;

@@ -3,8 +3,6 @@
     <nav id="primary-menu">
 
         <ul>
-            <li class="current"><a href="/"><div>Home</div></a></li>
-
             <li><a href="/Issues"><div>Issues</div></a>
                 <ul>
 <!--                     <li><a href="/Issues"><div><i class="icon-stack"></i>All Issues</div></a></li>

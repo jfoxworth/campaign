@@ -6,13 +6,27 @@
 
                 <div class="swiper-container swiper-parent">
                     <div class="swiper-wrapper">
-                        <div class="swiper-slide dark" style="background-image: url('images/landing/campaign1.png'); background-size: contain">
+                        <div class="swiper-slide dark" style="background-image: url('images/landing/campaign1.png');">
                             <div class="container clearfix">
                                 <div class="vertical-middle dark center">
 
                                     <div class="col_half center">
-                                        <img src="/images/logo5.png">
+                                        <div class="logoStarLine">
+                                            <div class="logoStar">
+                                                <i class="icon-star i-alt"></i>
+                                                <i class="icon-star i-alt"></i>
+                                                <i class="icon-star i-alt"></i>
+                                            </div>
+                                        </div>
+                                        <i class="icon-star i-alt"></i>
+                                        <i class="icon-star i-alt"></i>
+                                        <div class="mainLogoText">Foxworth for Congress</div>
+                                        <div class="secondaryLogoText">Enforce Immigration Laws</div>
+                                        <div class="secondaryLogoText">End Affirmative Action</div>
+                                        <div class="secondaryLogoText">Restore the Nation</div>
                                         <div class="heading-block nobottommargin center"></div>
+
+
                                     </div>
                                 </div>
                             </div>
