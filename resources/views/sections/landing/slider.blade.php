@@ -12,10 +12,9 @@
 
 									<div class="col_half center">
 										<div class="center">
-	                                        <img src="/images/fullLogo.png">
-											<div class="secondaryLogoText"><i class="bgcolor icon-star"></i>Enforce Immigration Laws</div>
-											<div class="secondaryLogoText"><i class="bgcolor icon-star"></i>End Affirmative Action</div>
-											<div class="secondaryLogoText"><i class="bgcolor icon-star"></i>Restore the Nation</div>
+											<div class="secondaryLogoText"><i class="icon-star"></i>Enforce Immigration Laws</div>
+											<div class="secondaryLogoText"><i class="icon-star"></i>End Affirmative Action</div>
+											<div class="secondaryLogoText"><i class="icon-star"></i>Restore the Nation</div>
 											<div class="heading-block nobottommargin center"></div>
 										</div>
 
