@@ -1,33 +1,26 @@
-    <!-- images/landing/landing1.jpg -->
-<!-- bluebonnetflag.jpg -->
+        <div id="home" class="page-section" style="position:absolute;top:0;left:0;width:100%;height:200px;z-index:-2;"></div>
 
-    <section id="slider" class="slider-parallax" style="background: url('images/landing/campaign1.png') no-repeat; background-size: cover" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
-        <div class="slider-parallax-inner">
+        <section id="slider" class="slider-element slider-parallax full-screen with-header swiper_wrapper clearfix">
 
-            <div class="container clearfix">
-                <div class="vertical-middle dark center">
+            <div class="slider-parallax-inner">
 
-                <div class="col_half center">
-                    <img src="/images/logo5.png">
-                    <div class="heading-block nobottommargin center">
+                <div class="swiper-container swiper-parent">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide dark" style="background-image: url('images/landing/campaign1.png');">
+                            <div class="container clearfix">
+                                <div class="vertical-middle dark center">
 
-<!--                         Equality for our nation<br>
-                        Equality for our sons
- -->
+                                    <div class="col_half center">
+                                        <img src="/images/logo5.png">
+                                        <div class="heading-block nobottommargin center"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-
-
-<!-- 
-                    <div class="heading-block nobottommargin center">
-                        <h1>
-                            Joshua Foxworth for Congress
-                        </h1>
-                        <span >New Leadership for the Texas 14th District</span>
-                        <span >End Immigration - End Racial Preferences - Restore Equality</span>
-                    </div>
- -->
-
                 </div>
+
             </div>
-        </div>
-    </section>
+
+        </section>
+
