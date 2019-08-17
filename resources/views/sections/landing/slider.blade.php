@@ -12,12 +12,7 @@
 
 									<div class="col_half center">
 										<div class="center">
-											<div class="center logoStarLine">
-												<div class="logoStar"><i class="icon-star i-alt"></i></div>
-												<div class="logoStar"><i class="icon-star i-alt"></i></div>
-												<div class="logoStar"><i class="icon-star i-alt"></i></div>
-											</div>
-											<div class="mainLogoText">Foxworth for Congress</div>
+	                                        <img src="/images/fullLogo.png">
 											<div class="secondaryLogoText">Enforce Immigration Laws</div>
 											<div class="secondaryLogoText">End Affirmative Action</div>
 											<div class="secondaryLogoText">Restore the Nation</div>
