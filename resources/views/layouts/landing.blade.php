@@ -37,8 +37,6 @@
 
                 @include('sections.issues.issueportfolio')
 
-                @include('sections.landing.countdown')
-
                 @include('sections.landing.donaterow')
 
             </div>
