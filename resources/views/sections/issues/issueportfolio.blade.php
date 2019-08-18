@@ -1,4 +1,4 @@
-<div class="container clearfix">
+<div class="container clearfix bottommargin-lg">
 
 	<div id="portfolio" class="portfolio grid-container portfolio-overlay-open clearfix">
 
