@@ -67,6 +67,17 @@ Route::get('/aboutMe', function () {
 });
 
 
+Route::get('/pledge', function () {
+    return view('layouts.pledge');
+});
+
+
+Route::get('/Pledge', function () {
+    return view('layouts.pledge');
+});
+
+
+
 Route::get('/WhyImRunning', function () {
     return view('layouts.WhyImRunning');
 });

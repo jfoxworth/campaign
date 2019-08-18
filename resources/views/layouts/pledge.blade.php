@@ -7,7 +7,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title>Joshua Foxworth for US Congress - The Plan</title>
+    <title>Joshua Foxworth for US Congress - The Pledge</title>
 
 </head>
 
@@ -19,7 +19,7 @@
 
         @include('sections.secondheader')
 
-        @include('sections.plan.title')
+        @include('sections.pledge.title')
 
         <!-- Content
         ============================================= -->
@@ -27,7 +27,7 @@
 
             <div class="content-wrap">
 
-                @include('sections.plan.main')
+                @include('sections.pledge.main')
 
             </div>
 

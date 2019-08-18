@@ -6,7 +6,7 @@
 		<div class="team team-list clearfix">
 			<div class="team-image">
 			<!-- /images/team/3.jpg -->
-				<img src="/images/team/9.jpeg" alt="Joshua Foxworth">
+				<img src="/images/landing/campaignClose.png" alt="Joshua Foxworth">
 			</div>
 			<div class="team-desc">
 				<div class="team-title"><h4>Joshua Foxworth</h4><span>Texas District 14 Candidate</span></div>
@@ -14,7 +14,8 @@
 					<p>Born and raised in District 14</br>
 					USMC Veteran<br>
 					UT Austin Graduate</br>
-					Engineer<br>
+					Aerospace Engineer<br>
+					Entrepreneur<br>
 					Father of 2</p>
 				</div>
 				<a href="#" class="social-icon si-rounded si-small si-facebook">
