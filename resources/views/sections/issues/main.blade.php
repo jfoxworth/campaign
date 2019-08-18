@@ -1,6 +1,6 @@
 <div class="heading-block center nobottomborder">
-    <h2>Equality For Our Nation. Equality Within Our Nation</h2>
-    <span>Our nation is not treated as an equal in the world. Our people are not treated as equals within our nation. Addressing these structural inequalities is the foundation of this campaign.</span>
+    <h2>Enforce Immigration Laws; End Affirmative Action; Restore the nation</h2>
+    <span>The links below provide detailed information with respect to the primary issues facing the nation.</span>
 </div>
 
 
