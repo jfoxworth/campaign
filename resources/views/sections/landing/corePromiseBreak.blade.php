@@ -1,12 +1,12 @@
 
-
-<div class="promo promo-light promo-full bottommargin-lg notopborder margintop-lg marginbottom-lg">
+<div class="promo promo-dark promo-full bottommargin-lg notopborder margintop-lg marginbottom-lg">
 	
 	<div class="container clearfix">
 
-		<span>Immigration, the budget, life, marriage, health care. No matter the issue, "conservatism" in </span>
-		<span>America has become synonomous with "lose with dignity." I will break from this pattern.</span>
-		<a href="/Pledge" class="button button-xlarge button-rounded">My Pledge</a>
+		<h3>My Pledge - End illegal immigration and affirmative action</h3>
+		<span>Once elected, I will demand that our nation's immigration laws be immediately and unconditionally enforced.</span>
+		<span>I will demand that affirmative action laws be immediately ended.</span>
+		<a href="/Pledge" class="button button-xlarge button-rounded">Read My Pledge</a>
 
 	</div>
 

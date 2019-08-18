@@ -5,6 +5,19 @@
 		<ul>
 			<li><a href="/Issues"><div>Issues</div></a>
 				<ul>
+					<li><a href="/Issues/Equality"><div><i class="icon-params"></i>Immigration</div></a></li>
+					<li><a href="/Issues/Equality"><div><i class="icon-params"></i>Affirmative Action</div></a></li>
+					<li><a href="/Issues/Equality"><div><i class="icon-params"></i>Restoring the nation</div></a></li>
+					<li><a href="/Issues/ForeignPolicy"><div><i class="icon-world"></i>Foreign Policy</div></a></li>
+					<li><a href="/Issues/SecondAmendment"><div><i class="icon-line-target"></i>The Second Amendment</div></a></li>
+					<li><a href="/Issues/HealthCare"><div><i class="icon-medkit"></i>Health Care</div></a></li>
+					<li><a href="/Issues/Education"><div><i class="icon-study"></i>Education</div></a></li>
+					<li><a href="/Issues/Monuments"><div><i class="icon-line-map"></i>Historical Monuments</div></a></li>
+					<li><a href="/Issues/NASA"><div><i class="icon-rocket"></i>NASA</div></a></li>
+					<li><a href="/Issues/CongressionalEthics"><div><i class="icon-settings2"></i>Congressional Ethics</div></a></li>
+
+
+
 					<li><a href="/Issues/Equality"><div><i class="icon-params"></i>Equality</div></a></li>
 					<li><a href="/Issues/USEquality"><div><i class="icon-flag-alt"></i>National Equality</div></a></li>
 					<li><a href="/Issues/RacialEquality"><div><i class="icon-group"></i>Racial Equality</div></a></li>

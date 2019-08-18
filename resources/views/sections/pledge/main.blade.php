@@ -4,12 +4,17 @@
 	    
 	    <h2>My Pledge</h2>
 	    
-	    <span><p>Most politicians work to keep their messages as vague as possible so that they can't be held accountable for the promises that they make while campaigning. My pledge to the constituents of congressional district 14 is that I will not allow the nation to carry out its business if the business if this nation is to circumvent the will of the citizens and allow our children to be discrimated against.</p>
+	    <span>
+	    	<p>Immigration, the budget, life, marriage, health care. No matter the issue, "conservatism" in America has become synonomous with "lose with dignity." I will break from this pattern.</p>
 
-	    <p>The laws of the nation will be enforced and all people will be treated equally under the law.</p>
+	    	<p>A government that refuses to enforce the laws of the nation on foreign people while giving financial and legal preferences to those same foreign peoples over US citizens is not a legitimate government. My pledge to the constituents of congressional district 14 is that I will not allow the government to carry out its business if the business of this government is to circumvent the will of the citizens and allow the nation's children to be discrimated against.</p>
 
-	    <p>No excuses. No compromises</p>
-	
+	    	<p>We will not negotiate the application of our laws with the citizens of other nations. We will not engage in a debate concerning the equality of our children.</p>
+
+			<p>Our laws will be enforced and we and our children will be treated as equals.</p>
+
+			<p>Day 1. No compromises.</p>
+
 		</span>
 	</div>
  
