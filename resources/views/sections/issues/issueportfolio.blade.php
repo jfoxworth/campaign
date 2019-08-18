@@ -5,7 +5,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/Equality">
+				<a href="/Issues/Immigration">
 					<img src="/images/issues/immigration.jpg" alt="Immigration">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
@@ -19,7 +19,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/Equality">
+				<a href="/Issues/AffirmativeAction">
 					<img src="/images/issues/affirmativeaction.jpg" alt="Affirmative Action">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
@@ -33,7 +33,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/Equality">
+				<a href="/Issues/RestoreTheNation">
 					<img src="/images/issues/restorethenation.jpg" alt="Restore The Nation">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
@@ -48,7 +48,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/Equality">
+				<a href="/Issues/CongressionalEthics">
 					<img src="/images/issues/congressionalethics.jpg" alt="Congressional Ethics">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
