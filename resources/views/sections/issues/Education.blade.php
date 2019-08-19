@@ -66,7 +66,7 @@
 
     <p>Perhaps most importantly, this theft comes in the form of denying American children access to University educations in favor of children of other nations - in part because of their race.</p>
 
-    <p>To address these issues, we must <a href="/Issues/USEquality">reform our immigration policy</a> first. Second, we must drastically limit the number of foreign students at Universities. There is already a shortage of places for US students to attend college, undergraduate and graduate programs must be limited to 5% foreign students. At the end of this process, we can evaluate the system and reform it as necessary.</p>
+    <p>To address these issues, we must <a href="/Issues/Immigration">reform our immigration policy</a> first. Second, we must drastically limit the number of foreign students at Universities. There is already a shortage of places for US students to attend college, undergraduate and graduate programs must be limited to 5% foreign students. At the end of this process, we can evaluate the system and reform it as necessary.</p>
 
 
 
@@ -102,14 +102,14 @@
 
 
     <div class="fancy-title nobottommargin">
-        <h3>End Racial Hatred</h3>
+        <h3>End Entrenched Hatred</h3>
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
         <i class="icon-study"></i>
     </div>
 
-    <p>We must remove funding and accreditation to any school that teaches hatred. This includes any school that teaches that the US is stolen land or that the Europeans that settled it were theives. This includes any school where students are encouraged to denounce their race. This includes any school where one student is taught that they are not as deserving as another due to their race. This includes any school that discriminates to deny access to white students. This includes any school that allows violent groups such as antifa to attack students</p>
+    <p>We must remove funding and accreditation to any school that teaches hatred. This includes any school that teaches that the US is stolen land. This includes any school where students are encouraged to denounce their ancestry. This includes any school where one student is taught that they are not as deserving as another due to their race or that discriminates to deny access on that basis. This includes any school that allows violent groups such as antifa to attack students.</p>
 
     <p>We have raised a generation of white students to hate themselves. This is immoral and must be ended.</p>
     
@@ -127,6 +127,6 @@
 
     <p>The federal government currently does not allow citizens the right to remove education debt through bankruptcy. Ending this practice and forcing the university to lose that money will force colleges to act as businesses and ensure that the education they are providing to their students provides them with the means to make a living.</p>
 
-    <p>Allowing students to remove their debt and pass that loss to the colleges has multiple purposes. First, it protects the students by ensuring that colleges do not continue to grant degrees in subjects that provide no merit. Students can still take these classes, but it is likely that universities will require those students to pay the costs ahead of time and understand that the degrees are purely educational endeavors. Second, the departments within these universities that generate the racial hatred and violence cannot survive under these conditions. Ending the government funding of these departments is critical to ending the hatred they espouse.</p>
+    <p>Allowing students to <a href="/Issues/CollegeDebtRelief">remove their debt</a> and pass that loss to the colleges has multiple purposes. First, it protects the students by ensuring that colleges do not continue to grant degrees in subjects that provide no merit. Students can still take these classes, but it is likely that universities will require those students to pay the costs ahead of time and understand that the degrees are purely educational endeavors. Second, the departments within these universities that generate the racial hatred and violence cannot survive under these conditions. Ending the government funding of these departments is critical to ending the hatred they espouse.</p>
 
 </div>

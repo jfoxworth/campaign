@@ -49,6 +49,21 @@
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
 				<a href="/Issues/CongressionalEthics">
+					<img src="/images/issues/ElectionIntegrity.jpg" alt="Election Integrity">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>Election Integrity</h3>
+							<span>Restore the Integrity of the Vote</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
+
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/CongressionalEthics">
 					<img src="/images/issues/congressionalethics.jpg" alt="Congressional Ethics">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
@@ -137,6 +152,37 @@
 				</a>
 			</div>
 		</article>
+
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/CongressionalEthics">
+					<img src="/images/issues/CollegeDebtRelief.jpg" alt="College Debt Relief">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>College Debt Relief</h3>
+							<span>A nationalistic approach to university debt</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
+
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/Veterans">
+					<img src="/images/issues/Veterans.jpg" alt="Veterans">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>Veterans</h3>
+							<span>Give our vets what they deserve</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
+
 
 	</div>
 

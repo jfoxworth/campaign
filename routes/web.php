@@ -21,6 +21,9 @@ Route::get('/Issues', function () {
 });
 
 
+Route::get('/Issues/ElectionIntegrity', function () {
+    return view('layouts.issues', ['issue' => 'ElectionIntegrity']);
+});
 Route::get('/Issues/AffirmativeAction', function () {
     return view('layouts.issues', ['issue' => 'AffirmativeAction']);
 });
