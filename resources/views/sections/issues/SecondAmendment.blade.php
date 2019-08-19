@@ -43,10 +43,6 @@
         <i class="icon-line-target"></i>
     </div>
 
-    <div class="alignleft">
-        <a href="#"><img src="/images/issues/secondamendment.jpg"></a>
-    </div>
-
     <p>The second amendment was written into the Constitution to ensure that Americans could defend themselves against both a tyranical government and a common criminal. Any government that seeks to limit that right is exactly the kind that must be defended against.</p>
 
     <p>Assertions that the founding fathers could not have envisoned a machine gun or a modern assault rifle and therefore did not intend citizens to have access to such things is ludicrous - an assault rifle is much closer to a musket than the internet is to a printing press.</p>

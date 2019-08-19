@@ -5,9 +5,9 @@
 		<ul>
 			<li><a href="/Issues"><div>Issues</div></a>
 				<ul>
-					<li><a href="/Issues/Equality"><div><i class="icon-params"></i>Immigration</div></a></li>
-					<li><a href="/Issues/Equality"><div><i class="icon-params"></i>Affirmative Action</div></a></li>
-					<li><a href="/Issues/Equality"><div><i class="icon-params"></i>Restoring the nation</div></a></li>
+					<li><a href="/Issues/Immigration"><div><i class="icon-remove"></i>Immigration</div></a></li>
+					<li><a href="/Issues/AffirmativeAction"><div><i class="icon-line-head"></i>Affirmative Action</div></a></li>
+					<li><a href="/Issues/RestoringTheNation"><div><i class="icon-params"></i>Restoring the nation</div></a></li>
 					<li><a href="/Issues/ForeignPolicy"><div><i class="icon-world"></i>Foreign Policy</div></a></li>
 					<li><a href="/Issues/SecondAmendment"><div><i class="icon-line-target"></i>The Second Amendment</div></a></li>
 					<li><a href="/Issues/HealthCare"><div><i class="icon-medkit"></i>Health Care</div></a></li>

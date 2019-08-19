@@ -30,7 +30,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-head"></i>
+        <i class="icon-remove"></i>
     </div>
 
     <p>Nations have borders. If the people of other nations insist that we honor their borders and yet refuse to honor ours, then a physical barrier to prohibit illegal entry is both reasonable and effective. Any politicans that opposes such a barrier for our nation but supports it for other nations is not acting in the best interest of the American people.</p>
@@ -44,7 +44,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-head"></i>
+        <i class="icon-remove"></i>
     </div>
 
     <p>The United States is no longer a frontier nation nor is it too sparsely populated. We are not bound to provide entry and citizenship to anyone who seeks to come here. An alteration of policy from this standpoint is necessary.</p>
