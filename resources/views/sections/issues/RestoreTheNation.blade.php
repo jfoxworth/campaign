@@ -3,7 +3,7 @@
 <div class="container clearfix">
 
     <div class="heading-block center nobottomborder">
-        <h2>Civil Rights</h2>
+        <h2>Restore the Nation</h2>
         <span>A restoration of basic civil rights</span>
     </div>
 
@@ -13,92 +13,73 @@
 
     <div class="col_one_third">
         <div class="feature-box fbox-center fbox-effect">
-            <h3>End the TSA</h3>
-            <p>Stop Terrorists at the border, not children at the airport. Remove the threat to Americans from our countries and do not remove our liberties</p>
+            <h3>Restore the 1st Amendment</h3>
+            <p>A guarantee of access for Americans to social media and to conduct business online - regardless of political viewpoint.</p>
         </div>
     </div>
 
     <div class="col_one_third">
         <div class="feature-box fbox-center fbox-effect">
-            <h3>Protect Political Speech</h3>
-            <p>Violence at political rallies must be ended. Find Antifa's funders and imprison them. Punish violent offenders.</p>
+            <h3>Protect the 2nd Amendment</h3>
+            <p>No red flag laws. No registration. National concealed carry.</p>
         </div>
     </div>
 
     <div class="col_one_third col_last">
         <div class="feature-box fbox-center fbox-effect">
-            <h3>Coherent Policies</h3>
-            <p>The rights and duties of companies must be coherent and evenly applied. No separate rules for large and small companies or Christian and nonChristian ones.</p>
+            <h3>Restore the 4th Amendment</h3>
+            <p>Stop Terrorists at the border, not children at the airport. Remove the threat to Americans from our countries and do not remove our liberties</p>
         </div>
     </div>
 
     <div class="clear"></div>
 
-    <p>This page covers civil rights issues not relating to the equality of race in America and to immigration. The denial of civil rights to white Americans is covered under the equality sections, but are recognized as basic civil rights issues. This page is more concerned with the civil rights violations that have manifested in the past few decades as either the result of the war on terror or of the cultural marxism attack on Christianity.</p>
-
     <div class="fancy-title nobottommargin">
-        <h3>End the TSA</h3>
+        <h3>Restore the 1st Amendment</h3>
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
         <i class="icon-line-head"></i>
     </div>
 
-    <div class="alignleft">
-        <a href="#"><img src="/images/issues/civilrights.jpg"></a>
-    </div>
+    <p>Many Americans who voice mainstream opinions are subjected to the practice of "deplatforming". This is the practice of denying social media accounts, youtube channels, and even denial of the ability to accept payments for related and unrelated businesses through credit cards. In essence, only one point of view is allowed to be heard and those that speak up in opposition are economically punished.</p>
 
-    <p>We currently live in a nation that tolerates tens of millions of people living illegally within its boundaries. We have no records of who these people are, what their nations of origin are, or what makes up their criminal background. At the same time, we have a no-fly list for our citizens, and we pat down nuns, children, and WWII veterans before they get on an airplane. We also monitor every American citizen under the guise of preventing terror. This dichonomy is not defendable nor sustainable.</p>
+    <p>The standard conservative viewpoint is that these are corporations that are acting in accordance with their own policies and as such the government should not intervene. This viewpoint is mistaken. We do not allow corporations that provide electricity, water, and other items to deny service on the basis of political viewpoint and these large corporations should be treated in the same manner. Youtube, Facebook, Google, and other platforms function as the public square and must be open to all Americans that do not explicitly violate specific rules.</p>
 
-    <p>Instead of insisting that we allow in people with wholly different cultures, and then monitor both them and us to ensure that they are not terrorists, why not simply allow us to be free. There is no logical benefit to this nation to import people who are hostile to its laws and its people. Stop terrorists at the border, and let Americans travel freely within our nation.</p>
+    <p>If a citizen can force a family owned bakery to work for an event that goes against their religion, it can surely ensure that monopolies do not act to sway political opinion and punish dissenters in the US.</p>
 
-    <p>The cost of the TSA to the American citizen is over $7.5 billion a year. Removing the threat from our country removes the need for the TSA to exist and will save American people from the cost of protecting us from ourselves.</p>
+    <p>The unfortunate reality is that this is about much more than corporations. These institutions are largely foreign owned and as such it should come as no surprise that they promote the view point that America cannot have borders and that the native population has no right to organize. It cannot be surprising that they act to economically punish any American that speaks out in favor of their nation. We cannot allow foreign nations to influence American politics and punish American citizens. The right to access social media and payment processors should be recognized as a core aspect of American freedom and corporations that do not grant these rights cannot be allowed to operate in the US.</p>
 
-
-    <blockquote>
-        <p>Insead of insisting that we allow in people with wholly different cultures, and then monitor both them and us to ensure that they are not terrorists, why not simply allow us to be free.</p>
-        <footer>Joshua Foxworth</footer>
-    </blockquote>
-
-    <p>At the same time, the mass monitoring of citizens can and should be ended. Our enemies must be kept out of our nation and our citizens must be allowed to communicate freely.</p>
+    <p>In addition to this, the right to peacably assemble has all but evaporated in America. Groups like Antifa use violence and intimidation with the full support of the police, the media, and the Democratic party. This group - and others like it - must be labeled as domestic terrorists and their finances investigated to see which foreign nations are funding them and targetting US citizens.</p>
 
 
 
     <div class="fancy-title nobottommargin">
-        <h3>Protect Political Speech - end AntiFa</h3>
+        <h3>Protect the Second Amendment</h3>
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
         <i class="icon-line-head"></i>
     </div>
 
-    <div class="alignright">
-        <a href="#"><img src="/images/issues/antifa.jpg"></a>
-    </div>
+    <p>No ground must be given with respect to <a href="https://foxworthfortexas.herokuapp.com/Issues/SecondAmendment">the second amendment</a>. Support for red flag laws cannot be tolerated in the Republican. We must work for a national right to carry.</p>
 
-    <p>The 2016 elections saw a drastic - although largely unreported - rise in political violence. All of this violence was directed at Trump supporters or similar right wing candidates and much of it was racially based. Since that time, we have seen the rise of groups like antifa who traffic in violence. These groups regularly assault peaceful activists and endanger the lives of people simply attending political speeches or rallies.</p>
-
-    <p>Since President Trump's election, the violence of this group and similar groups have grown exponentially. It's members attend rallies clad in all black with their faces hidden. This is done for the sole purpose of assaulting political attendees and making it difficult to identify the individual responsible. The groups acts to commit violence for the sole purpose of shutting down opposing speeches and views and it enjoys a great deal of support from the media.</p>
-
-    <p>In 2017, Eric Clanton approached an unsuspecting person at a conservative event in California and <a href="http://www.zerohedge.com/news/2017-05-25/suspected-berkeley-antifa-bike-lock-attacker-eric-clanton-arrested-assault">beat him over the head with a bike lock</a> in an attempt to murder that man with the hopes of scaring people away from attending future events. My Clanton was actually a professor and California State University - showing how main stream this propensity for violence has spread in to the left culture.</p>
-
-    <p>This organization and any like it must be investigated to determine who is financing this attempted overthrow of the US political system and those people must be brought to justice.</p>
 
 
 
     <div class="fancy-title nobottommargin">
-        <h3>Coherent Policies</h3>
+        <h3>Restore the 4th Amendment</h3>
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
         <i class="icon-line-head"></i>
     </div>
 
-    <p>The US supreme court is <a href="http://www.foxnews.com/us/2017/06/26/us-supreme-court-to-decide-colorado-gay-wedding-cake-case-timeline-events.html">about to hear a case</a> where a Christian baker was fined for refusing to bake a cake for a gay marriage ceremony. This seems to contradict with that company's right to refuse service to whomever they please. It also ignores the fact that the couple could have acquired a cake from multiple other bakers in area and the fact that several muslim bakeries also regularly refuse to bake cakes for gay weddings.</p>
+    <p>In the aftermath of the September 11, 2001 attacks, Americans were convinced to give up a number of freedoms. This was done under the guise that the government was attempting to root out Islamic extremism. In that same time, immigration from islamic nations that are hostile to Americans was increased and little to nothing has been done to address the rise of anti-Americanism amongst this group and extremist elements coming from south of the border.</p>
 
-    <p>At the same time, platforms such as google, youTube, twitter, facebook, patreon, and paypal are denying services to entities based upon political views. In this case, these compannies represent a single point of access for people to put out their political views and the deplatforming of those people is far more akin to denial of basic rights than the refusal to bake a cake. I believe that any company should be allowed to refuse service to anyone. However, what we have now is a situation where left wing organizations are free to deny service to right wing people, but Christians and other right wing people are not given that same right.</p>
+    <p>Rather than searching little old ladies at the airport and monitoring every US citizen, a better approach is to simply prevent the threat from entering the nation.</p>
 
-    <p>There is an obvious need to clarify laws with respect to religion and with respect to the right of a company to sell their labor to whomever they see fit. We cannot say that twitter has a right to refuse service to anyone they see fit, but a family owned bakery must submit to the demands of any person that walks through the door.</p>
+    <p>I will work to end the TSA and to end the surveillance nation growing within the US. I will also work to reduce the threat of terror in the US by addressing the sources of the hatred that spawns that terrorism. America's intelligence and threat reduction apparatus will be aimed at those that threaten us instead of at its patriots.</p>
 
 
 </div>

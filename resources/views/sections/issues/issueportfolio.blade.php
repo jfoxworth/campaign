@@ -155,7 +155,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/CongressionalEthics">
+				<a href="/Issues/CollegeDebtRelief">
 					<img src="/images/issues/CollegeDebtRelief.jpg" alt="College Debt Relief">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">

@@ -21,6 +21,13 @@ Route::get('/Issues', function () {
 });
 
 
+Route::get('/Issues/RestoreTheNation', function () {
+    return view('layouts.issues', ['issue' => 'RestoreTheNation']);
+});
+
+Route::get('/Issues/CollegeDebtRelief', function () {
+    return view('layouts.issues', ['issue' => 'CollegeDebtRelief']);
+});
 Route::get('/Issues/ElectionIntegrity', function () {
     return view('layouts.issues', ['issue' => 'ElectionIntegrity']);
 });

@@ -43,7 +43,7 @@
     </div>
 
     <div class="alignleft">
-        <a href="#"><img src="/images/issues/congressequality.jpg"></a>
+        <a href="#"><img src="/images/issues/CongressionaEthics.jpg"></a>
     </div>
 
     <p>Nothing is in greater opposition to the ethical principles on which this nation was founded than for our lawmakers to create laws to which they themselves are exempt. The possible exception to this might be the acknowledgement that Congressional members are allowed to violate the law at will.</p>
