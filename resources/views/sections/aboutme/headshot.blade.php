@@ -53,9 +53,22 @@
 
         <p>After college, I began work in the space program at the Johnson Space Center in Houston, Texas. For 3 years, I worked as an operations engineer during the space shuttle program, assisting in systems that inspected that bottom of the shuttle for damage. After that, I spent 18 months designing structural components for the Orion space capsule.</p>
 
-        <p>After this time, I began to work on internet startups and have launched a product called <a href="http://www.cadwolf.com">CADWOLF</a>. This system is a first of its kind engineering platform that links the mathetics of component design to CAD. It is my hope that this platform will radically alter the practice of engineering.</p>
+        <p>After this time, I became a tech entrepreneur specializing in web development and 3D programming. I eventually designed a first of its kind collaborative engineering platform.</p>
 
         <p>My wife and I live in League City, Texas and have 2 sons. We are devout Christians and members of Bay Area Church.</p>
+
+        <div class="divider divider-short divider-rounded divider-center"><i class="bgcolor icon-star"></i></div>
+
+        <p>For decades, I have watched as the Republican party and conservatives in general have given up on fight after fight. Whether its immigration, marriage, life, the budget deficit, or any other issue, Republican candidates often promise a lot but never deliver. I have seen Republicans pledge to reign in the budget, only to see their spending increase once in office. I have seen promises of walls, of immigration enforcement, and of health care reform that never materialize once in office.</p>
+
+        <p>There are always excuses as to why the Republicans cannot stop the liberal angenda and always excuses as to why they can't advance their own.</p>
+
+        <p>Eventually, I approaced Congressman Weber's office in an effort to see why he wasn't pushing for immigration enforcement. After dozens of visits, Congressman Weber's office informed me that "as a conservative, Congressman Weber would not support a government large enough to deport tens of millions of people." This answer left me dumbfounded.</p>
+
+        <p>Months later, I saw Congressman Webers vote in favor of the Orwellian named <a href="http://clerk.house.gov/evs/2019/roll437.xml">Fairness for High Skilled Immigrants Act of 2019</a> which will bring in an almost unlimited number of foreign H1B workers to drive down tech wages. Coupling this with the fact that <a href="Azhar Chaudhary Law Firm">one of Congressman Weber's primary donors</a> was a Pakistani H1B imigration lawyer and it became obvious as to why the Republicans are keeping the borders wide open for both legal and illegal immigration. Money.</p>
+
+        <p>It should be clear to all parties that decisive action is needed to stem the unprecendented numbers of legal and illegal immigrants and that Congressman Weber is actually voting in favor of increased numbers of permanent immigrants. We need a new vision of the Republican party and people with the will to act on that vision.</p>
+
 	</div>
 
 
