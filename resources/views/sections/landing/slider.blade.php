@@ -11,7 +11,7 @@
 								<div class="vertical-middle dark center">
 
 									<div class="col_half center">
-										<div class="col-md-12 col-lg-12"><img src="/images/fullLogo.png" width="300px"></div>										
+										<div class="d-none d-md-block d-lg-block"><img src="/images/fullLogo.png" width="300px"></div>										
 										<div class="center logoBox">
 											<div class="secondaryLogoText">Enforce Immigration Laws</div>
 											<div class="secondaryLogoText">End Affirmative Action</div>
