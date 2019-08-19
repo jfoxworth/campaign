@@ -28,7 +28,7 @@
 
 						<div class="swiper-slide dark d-block d-md-none" style="background-image: url('images/landing/campaignSmall.png');">
 							<div class="container clearfix">
-								<div class="vertical-middle dark center">
+								<div class="vertical-middle dark center notoppadding notopmargin">
 
 									<div class="col_half center">
 										<div class="center logoBox">
