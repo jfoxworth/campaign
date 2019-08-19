@@ -21,8 +21,14 @@ Route::get('/Issues', function () {
 });
 
 
+Route::get('/Issues/AffirmativeAction', function () {
+    return view('layouts.issues', ['issue' => 'AffirmativeAction']);
+});
+Route::get('/Issues/Immigration', function () {
+    return view('layouts.issues', ['issue' => 'Immigration']);
+});
 Route::get('/Issues/ForeignPolicy', function () {
-    return view('layouts.issues', ['issue' => 'forpol']);
+    return view('layouts.issues', ['issue' => 'ForeignPolicy']);
 });
 Route::get('/Issues/Equality', function () {
     return view('layouts.issues', ['issue' => 'Equality']);
@@ -33,8 +39,8 @@ Route::get('/Issues/USEquality', function () {
 Route::get('/Issues/RacialEquality', function () {
     return view('layouts.issues', ['issue' => 'RacialEquality']);
 });
-Route::get('/Issues/CongressEquality', function () {
-    return view('layouts.issues', ['issue' => 'CongressEquality']);
+Route::get('/Issues/CongressionalEthics', function () {
+    return view('layouts.issues', ['issue' => 'CongressionalEthics']);
 });
 Route::get('/Issues/NASA', function () {
     return view('layouts.issues', ['issue' => 'NASA']);
