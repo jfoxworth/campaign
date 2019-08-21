@@ -23,10 +23,12 @@
                                 <i class="icon-facebook"></i>
                             </a>
 
-                            <a href="#" class="social-icon si-small si-borderless si-twitter">
+                            <a href="https://twitter.com/FoxworthFor14" class="social-icon si-small si-borderless si-twitter">
                                 <i class="icon-twitter"></i>
                                 <i class="icon-twitter"></i>
                             </a>
+
+<!--
 
                             <a href="#" class="social-icon si-small si-borderless si-instagram">
                                 <i class="icon-instagram"></i>
@@ -34,7 +36,7 @@
                             </a>
 
 
-<!--                             <a href="#" class="social-icon si-small si-borderless si-gplus">
+                            <a href="#" class="social-icon si-small si-borderless si-gplus">
                                 <i class="icon-gplus"></i>
                                 <i class="icon-gplus"></i>
                             </a>
