@@ -15,7 +15,7 @@
 
 					<div class="col_one_third">
 						<h4>End Affirmative Action</h4>
-						<p>Recognizing the brutal and oppressive systems of laws and policies collectively known as affirmative action as the violation of civil rights that they represent and then immediately ending those policies is the second component. <a href="/Issues">(All Issues)</a></p>
+						<p>Recognizing the laws and policies collectively known as "affirmative action" as the violation of civil rights that they represent and then immediately ending those policies is the second component. <a href="/Issues">(All Issues)</a></p>
 					</div>
 
 					<div class="col_one_third col_last">

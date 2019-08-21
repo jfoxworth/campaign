@@ -7,13 +7,16 @@
 				<ul>
 					<li><a href="/Issues/Immigration"><div><i class="icon-remove"></i>Immigration</div></a></li>
 					<li><a href="/Issues/AffirmativeAction"><div><i class="icon-line-head"></i>Affirmative Action</div></a></li>
-					<li><a href="/Issues/RestoringTheNation"><div><i class="icon-params"></i>Restoring the nation</div></a></li>
+					<li><a href="/Issues/RestoreTheNation"><div><i class="icon-params"></i>Restore the nation</div></a></li>
 					<li><a href="/Issues/ForeignPolicy"><div><i class="icon-world"></i>Foreign Policy</div></a></li>
 					<li><a href="/Issues/SecondAmendment"><div><i class="icon-line-target"></i>The Second Amendment</div></a></li>
 					<li><a href="/Issues/HealthCare"><div><i class="icon-medkit"></i>Health Care</div></a></li>
 					<li><a href="/Issues/Education"><div><i class="icon-study"></i>Education</div></a></li>
 					<li><a href="/Issues/NASA"><div><i class="icon-rocket"></i>NASA</div></a></li>
 					<li><a href="/Issues/CongressionalEthics"><div><i class="icon-settings2"></i>Congressional Ethics</div></a></li>
+					<li><a href="/Issues/ElectionIntegrity"><div><i class="icon-checkbox-checked"></i>ElectionIntegrity</div></a></li>
+					<li><a href="/Issues/CollegeDebtRelief"><div><i class="icon-et-tools"></i>CollegeDebtRelief</div></a></li>
+					<li><a href="/Issues/Veterans"><div><i class="icon-shield-alt"></i>Veterans</div></a></li>
 
 
 

@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-line-head"></i>
+        <i class="bgcolor icon-line-params"></i>
     </div>
 
     <div class="col_one_third">
@@ -39,7 +39,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-head"></i>
+        <i class="icon-line-params"></i>
     </div>
 
     <p>Many Americans who voice mainstream opinions are subjected to the practice of "deplatforming". This is the practice of denying social media accounts, youtube channels, and even denial of the ability to accept payments for related and unrelated businesses through credit cards. In essence, only one point of view is allowed to be heard and those that speak up in opposition are economically punished.</p>
@@ -59,7 +59,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-head"></i>
+        <i class="icon-line-params"></i>
     </div>
 
     <p>No ground must be given with respect to <a href="https://foxworthfortexas.herokuapp.com/Issues/SecondAmendment">the second amendment</a>. Support for red flag laws cannot be tolerated in the Republican. We must work for a national right to carry.</p>
@@ -72,7 +72,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-head"></i>
+        <i class="icon-line-params"></i>
     </div>
 
     <p>In the aftermath of the September 11, 2001 attacks, Americans were convinced to give up a number of freedoms. This was done under the guise that the government was attempting to root out Islamic extremism. In that same time, immigration from islamic nations that are hostile to Americans was increased and little to nothing has been done to address the rise of anti-Americanism amongst this group and extremist elements coming from south of the border.</p>
