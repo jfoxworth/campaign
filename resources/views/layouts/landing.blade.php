@@ -35,7 +35,10 @@
 
                 @include('sections.landing.afirstbreak')
 
+                @include('sections.landing.issuesHeader')
                 @include('sections.issues.issueportfolio')
+
+                @include('sections.landing.stand')
 
                 @include('sections.landing.donaterow')
 
