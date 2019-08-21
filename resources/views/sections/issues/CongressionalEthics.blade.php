@@ -42,11 +42,7 @@
         <i class="icon-settings2"></i>
     </div>
 
-    <div class="alignleft">
-        <a href="#"><img src="/images/issues/CongressionaEthics.jpg"></a>
-    </div>
-
-    <p>Nothing is in greater opposition to the ethical principles on which this nation was founded than for our lawmakers to create laws to which they themselves are exempt. The possible exception to this might be the acknowledgement that Congressional members are allowed to violate the law at will.</p>
+    <p>Nothing is in greater opposition to the ethical principles on which this nation was founded than for our lawmakers to create laws to which they themselves are exempt.</p>
 
     <p>While I am opposed to the government control of health care, Congress must be covered by any plan they enact. This is not something that should really be in debate and it shows just how far the divide between Congress and the people has gotten.</p>
 

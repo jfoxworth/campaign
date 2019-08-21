@@ -47,7 +47,6 @@
 
     <p>Assertions that the founding fathers could not have envisoned a machine gun or a modern assault rifle and therefore did not intend citizens to have access to such things is ludicrous - an assault rifle is much closer to a musket than the internet is to a printing press.</p>
 
-    <p>In addition to this, the primary threat to the second amendment must be clearly addressed - a changing demographic population. The armies of people coming to the US in the recent decades does not share the native population's view with respect to firearms. In roughly a decade, the balance of power will be so that second amendment rights can simply be voted away. This has been the voting pattern of this demographic both in their home nations and in this nation and there is no reason to believe that these people will suddenly start to vote differently.</p>
 
     <div class="clear"></div>
 

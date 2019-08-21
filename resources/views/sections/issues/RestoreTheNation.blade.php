@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-line-params"></i>
+        <i class="bgcolor icon-params"></i>
     </div>
 
     <div class="col_one_third">
@@ -39,7 +39,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-params"></i>
+        <i class="icon-params"></i>
     </div>
 
     <p>Many Americans who voice mainstream opinions are subjected to the practice of "deplatforming". This is the practice of denying social media accounts, youtube channels, and even denial of the ability to accept payments for related and unrelated businesses through credit cards. In essence, only one point of view is allowed to be heard and those that speak up in opposition are economically punished.</p>
@@ -50,7 +50,7 @@
 
     <p>The unfortunate reality is that this is about much more than corporations. These institutions are largely foreign owned and as such it should come as no surprise that they promote the view point that America cannot have borders and that the native population has no right to organize. It cannot be surprising that they act to economically punish any American that speaks out in favor of their nation. We cannot allow foreign nations to influence American politics and punish American citizens. The right to access social media and payment processors should be recognized as a core aspect of American freedom and corporations that do not grant these rights cannot be allowed to operate in the US.</p>
 
-    <p>In addition to this, the right to peacably assemble has all but evaporated in America. Groups like Antifa use violence and intimidation with the full support of the police, the media, and the Democratic party. This group - and others like it - must be labeled as domestic terrorists and their finances investigated to see which foreign nations are funding them and targetting US citizens.</p>
+    <p>In addition to this, the right to peaceably assemble has all but evaporated in America. Groups like Antifa use violence and intimidation with the full support of the police, the media, and the Democratic party. This group - and others like it - must be labeled as domestic terrorists and their finances investigated to see which foreign nations are funding them and targetting US citizens.</p>
 
 
 
@@ -59,7 +59,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-params"></i>
+        <i class="icon-params"></i>
     </div>
 
     <p>No ground must be given with respect to <a href="https://foxworthfortexas.herokuapp.com/Issues/SecondAmendment">the second amendment</a>. Support for red flag laws cannot be tolerated in the Republican. We must work for a national right to carry.</p>
@@ -72,7 +72,7 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-line-params"></i>
+        <i class="icon-params"></i>
     </div>
 
     <p>In the aftermath of the September 11, 2001 attacks, Americans were convinced to give up a number of freedoms. This was done under the guise that the government was attempting to root out Islamic extremism. In that same time, immigration from islamic nations that are hostile to Americans was increased and little to nothing has been done to address the rise of anti-Americanism amongst this group and extremist elements coming from south of the border.</p>
@@ -80,6 +80,23 @@
     <p>Rather than searching little old ladies at the airport and monitoring every US citizen, a better approach is to simply prevent the threat from entering the nation.</p>
 
     <p>I will work to end the TSA and to end the surveillance nation growing within the US. I will also work to reduce the threat of terror in the US by addressing the sources of the hatred that spawns that terrorism. America's intelligence and threat reduction apparatus will be aimed at those that threaten us instead of at its patriots.</p>
+
+
+
+    <div class="fancy-title nobottommargin">
+        <h3>Eliminate Foreign Corruption</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-params"></i>
+    </div>
+
+    <p>If you allow the citizens and governments of other nations to broadcast propaganda into your nation under the guise of "news", it should be no surprise that the sole point of view reflected in the "news" is that the borders should be open and the native population should be replaced through mass migration. This is what has happened in the US with major newspapers and broadcast organizations being foreign owned.</p>
+
+    <p>We must not allow this to continue. While giving full rights to US citizens, foreign citizens as well as dual citizens cannot be allowed to own or participate in the making or distribution of what is classified as "news".</p>
+
+
+    <p>If you allow your universities to be funded by foreign nations, it should come as no surprise that they teach that your nation's history is evil and that its people are immoral. We must put in place a temporary moratorium on foreign visas for Universities and limit the funding that those Universities take - especially for non technical "research".</p>
 
 
 </div>

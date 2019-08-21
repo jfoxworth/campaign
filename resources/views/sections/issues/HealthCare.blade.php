@@ -48,7 +48,7 @@
 
     <p>The cost of health care for Americans has risen at a completely unsustainable rate with no end in sight. Increasingly complicated plans like "Obamacare" cannot reduce costs because they do not address the root causes of those rising costs. Indeed, no plan makes any effort to even name those causes.</p>
 
-    <p>The cost of health care for Americans is directly related to the fact that our citizens subsidize both the health care of migrants within this nation, and the cost of prescription drugs in other nations. Ending these two practices will not only drastically reduce the cost of health care, but will also make it possible to understand what neeeds to be done to correct the system for Americans.</p>
+    <p>The cost of health care for Americans is directly related to the fact that our citizens subsidize both the health care of migrants within this nation, and the cost of prescription drugs in other nations. Ending these two practices will not only drastically reduce the cost of health care, but will also make it possible to understand what neeeds to be done to correct the system for Americans. Once this has been accomplished, the insurance companies and the billing process should be radically overhauled.</p>
 
     <p>To that end, free medical care for illegal aliens must be a thing of the past. If an illegal alien is injured, they will be treated and handed over to the authorities just like any other person who has violated the law. Legal aliens must be subject to the same scrutiny as Americans in determining whether or not they can pay for services rendered. We simply cannot morally tax our citizens or reduce services provided to seniors to pay for the cost of health care for citizens of other nations - including births.</p>
 

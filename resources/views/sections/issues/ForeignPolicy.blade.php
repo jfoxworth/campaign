@@ -21,7 +21,7 @@
     <div class="col_half col_last">
         <div class="feature-box fbox-center fbox-effect">
             <h3>Stand with Europe</h3>
-            <p>Stand with European people against replacement migration. Prevent the spread of terrorism in Europe.</p>
+            <p>Stand with European people against the wave of terrorism there</p>
         </div>
     </div>
 
@@ -58,11 +58,9 @@
     </div>
 
 
-    <p>The European continent is currently being invaded and subjugated by African and middle-eastern peoples. They are suffering from terrorist attacks, from a massive rape epidemic, and their welfare systems are stretched beyond the breaking point. This is not the movement of refugees out of Syria, but rather conquest.</p>
+    <p>The European continent is currently suffering from a decade of terrorist attacks, a massive rape epidemic, and their welfare systems are stretched beyond the breaking point. The various peoples of those nations are asking that the flow of migrants from Africa and Asia be stemmed and we must honor those requests just as we honor requests from all other nations not to take in migrants.</p>
 
-    <p>We must stand with the European people as they fight this invasion. We must ensure that these cultures - whose histories make up most of the known world's history - continue to exist.</p>
-
-    <p>To accomplish this, the US must turn back any smuggling boat bound for Europe. It must remove financial support to any country that assists the migrants in reaching Europe but refuses to take in migrants themselves. We must also ensure that the nations that have refused to let in the aggressors are not forced to surrender. Finally, it must fight for the freedom of the people within Europe who are imprisoned for speaking out against the occupation.</p>
+    <p>Many of those who have spoken out against the mass rapes and attacks have been imprisoned through hate speech legislation. We must act to end those policies in Europe.</p>
 
 
 </div>
