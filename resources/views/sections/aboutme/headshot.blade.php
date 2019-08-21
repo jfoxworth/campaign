@@ -61,7 +61,7 @@
 
         <p>Our own congressman promised for years to propose health care reform that was "patient centered and doctor approved" only to pretend the subject didn't exist once we gave Republicans the majority.</p>
 
-        <p>Our own congressman says that he opposes illegal immigration, but when pressed on the matter assert that "as a conservative, he does not support a government big enough to deport tens of millions of people."</p>
+        <p>Our own congressman says that he opposes illegal immigration, but when pressed on the matter asserted that "as a conservative, he does not support a government big enough to deport tens of millions of people."</p>
 
         <p>That same congressman takes <a href="https://www.opensecrets.org/members-of-congress/contributors?cid=N00033539&cycle=2018&recs=100&type=I">massive donations from a Pakistani H1B visa lawyer</a> and then <a href="http://clerk.house.gov/evs/2019/roll437.xml">votes in favor</a> of virtually unlimited H1B Visas from Pakistan and India.</p>
 
