@@ -1,3 +1,5 @@
+    <meta property="og:title" content="Foxworth For Congress">
+    <meta property="og:image" content="http://www.foxworthforcongress.com//images/fullLogo.png">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146159091-1"></script>
     <script>
