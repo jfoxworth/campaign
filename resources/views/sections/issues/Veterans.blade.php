@@ -8,7 +8,7 @@
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-world"></i>
+        <i class="bgcolor icon-shield"></i>
     </div>
 
 

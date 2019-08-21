@@ -7,6 +7,10 @@
         <span>A nationalistic approach to college debt</span>
     </div>
 
+    <div class="divider divider-short divider-rounded divider-center">
+        <i class="bgcolor icon-line-help"></i>
+    </div>
+
 
     <div class="clear"></div>
 

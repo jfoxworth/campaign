@@ -14,9 +14,9 @@
 					<li><a href="/Issues/Education"><div><i class="icon-study"></i>Education</div></a></li>
 					<li><a href="/Issues/NASA"><div><i class="icon-rocket"></i>NASA</div></a></li>
 					<li><a href="/Issues/CongressionalEthics"><div><i class="icon-settings2"></i>Congressional Ethics</div></a></li>
-					<li><a href="/Issues/ElectionIntegrity"><div><i class="icon-checkbox-checked"></i>ElectionIntegrity</div></a></li>
-					<li><a href="/Issues/CollegeDebtRelief"><div><i class="icon-et-tools"></i>CollegeDebtRelief</div></a></li>
-					<li><a href="/Issues/Veterans"><div><i class="icon-shield-alt"></i>Veterans</div></a></li>
+					<li><a href="/Issues/ElectionIntegrity"><div><i class="icon-checkbox-checked"></i>Election Integrity</div></a></li>
+					<li><a href="/Issues/CollegeDebtRelief"><div><i class="icon-line-help"></i>College Debt Relief</div></a></li>
+					<li><a href="/Issues/Veterans"><div><i class="icon-shield"></i>Veterans</div></a></li>
 
 
 
