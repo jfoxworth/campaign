@@ -41,7 +41,7 @@
 		<!-- Top Search
 		============================================= -->
 		<div class="social-box fright clearfix">
-			<a href="#" class="social-icon si-small si-borderless si-facebook">
+			<a href="https://www.facebook.com/FoxworthForCongress/" class="social-icon si-small si-borderless si-facebook">
 				<i class="icon-facebook"></i>
 				<i class="icon-facebook"></i>
 			</a>

@@ -69,6 +69,8 @@
 
         <p>That same congressman then tells the voters of his district that nothing can be done to stem the flow of legal and illegal immigrants. For us, there is nothing that can be done but for those that can pay for, there are no limitations.</p>
 
+        <p>That same congressman then <a href="https://www.dailywire.com/news/50826/texas-lawmakers-introduce-bipartisan-bill-combat-molly-prince?utm_source=facebook&utm_medium=social&utm_campaign=dwbrand&fbclid=IwAR1yC7V_-t5YTkZKN3TvrzXSPOLPQDuWCTllm1kWb0gxRdqLc2WbLy8VV8I">puts forth legislation</a> that would lead to the labeling of those who advocate for the views that he claims to share as "domestic terrorists".</p>
+
         <p>The question we are presented with is not how we got here. We know what the problem is and how to fix it. We know who to replace.</p>
 
         <p>The question I am focused on is what I will tell my sons when they ask me how I let their nation fall into such a state of disrepair. Why did I stand by as laws were created to discriminate against them, as representatives opened our borders, as their futures were stolen through debt, and as the party committed to liberty stood by as enemies placed them into bondage.</p>
