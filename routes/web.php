@@ -21,6 +21,15 @@ Route::get('/Issues', function () {
 });
 
 
+Route::get('/Issues/Abortion', function () {
+    return view('layouts.issues', ['issue' => 'Abortion']);
+});
+
+Route::get('/Issues/Marriage', function () {
+    return view('layouts.issues', ['issue' => 'Marriage']);
+});
+
+
 Route::get('/Issues/RestoreTheNation', function () {
     return view('layouts.issues', ['issue' => 'RestoreTheNation']);
 });
