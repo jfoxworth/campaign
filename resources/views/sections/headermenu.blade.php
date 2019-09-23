@@ -17,8 +17,8 @@
 					<li><a href="/Issues/ElectionIntegrity"><div><i class="icon-checkbox-checked"></i>Election Integrity</div></a></li>
 					<li><a href="/Issues/CollegeDebtRelief"><div><i class="icon-line-help"></i>College Debt Relief</div></a></li>
 					<li><a href="/Issues/Veterans"><div><i class="icon-shield"></i>Veterans</div></a></li>
-					<li><a href="/Issues/Veterans"><div><i class="icon-child"></i>Abortion</div></a></li>
-					<li><a href="/Issues/Veterans"><div><i class="icon-line-heart"></i>Marriage</div></a></li>
+					<li><a href="/Issues/Abortion"><div><i class="icon-home2"></i>Abortion</div></a></li>
+					<li><a href="/Issues/Marriage"><div><i class="icon-line-heart"></i>Marriage</div></a></li>
 
 
 
@@ -36,6 +36,8 @@
 			<li><a href="/aboutMe"><div>About Me</div></a></li>
 
 			<li><a href="/district"><div>District 14</div></a></li>
+
+			<li><a href="/donate"><div style="color:#FF0000">Donate</div></a></li>
 
 
 		</ul>
