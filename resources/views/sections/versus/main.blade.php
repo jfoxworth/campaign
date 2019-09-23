@@ -35,7 +35,7 @@
 		<!-- Illegal Immigration -->
 		<div class="row" style="background-color:#ccc">
 
-			<div class="col_one_third h3" style="padding:10px">Illegal Immigration</div>
+			<div class="col_one_third h3" style="padding:10px; margin:10px 0px 0px 0px;">Illegal Immigration</div>
 
 			<div class="col_one_third h3" style="padding:10px">Pledging to end it <br> on day 1</div>
 
@@ -47,7 +47,7 @@
 		<!-- Affirmative Action -->
 		<div class="row">
 
-			<div class="col_one_third h3" style="padding:10px">Affirmative Action</div>
+			<div class="col_one_third h3" style="padding:10px; margin:10px 0px 0px 0px;">Affirmative Action</div>
 
 			<div class="col_one_third h3" style="padding:10px">Pledging to end it <br> on day 1</div>
 
@@ -61,11 +61,68 @@
 		<!-- H1B Visas -->
 		<div class="row" style="background-color:#ccc">
 
-			<div class="col_one_third h3" style="padding:10px">H1B Visas</div>
+			<div class="col_one_third h3" style="padding:10px;  margin:15px 0px 0px 0px;">H1B Visas</div>
 
 			<div class="col_one_third h3" style="padding:10px">Program should<br>be ended</div>
 
 			<div class="col_one_third h3 col_last" style="padding:10px">Voted for virtually<br>unlimited H1B Visas<br>from India / Pakistan</div>
+
+		</div>
+
+
+
+
+		<!-- Legal Migration -->
+		<div class="row">
+
+			<div class="col_one_third h3" style="padding:10px;  margin:15px 0px 0px 0px;">Legal Migration</div>
+
+			<div class="col_one_third h3" style="padding:10px">Drastic reform<br>End H1B, H2B, EB5, etc<br>Long Moratorium</div>
+
+			<div class="col_one_third h3 col_last" style="padding:10px">Supports restructuring<br>legal process</div>
+
+		</div>
+
+
+
+
+		<!-- TAPS -->
+		<div class="row" style="background-color:#ccc">
+
+			<div class="col_one_third h3" style="padding:10px;  margin:15px 0px 0px 0px;">TAPS Threat Assessment</div>
+
+			<div class="col_one_third h3" style="padding:10px">Opposes</div>
+
+			<div class="col_one_third h3 col_last" style="padding:10px">Cosponsored Legislation</div>
+
+		</div>
+
+
+
+
+		<!-- Domestic Terrorists -->
+		<div class="row">
+
+			<div class="col_one_third h3" style="padding:10px;  margin:10px 0px 0px 0px;">Labeling Americans<br>"Domestic Terrorists"</div>
+
+			<div class="col_one_third h3" style="padding:10px">Never - Will<br>be used against patriots</div>
+
+			<div class="col_one_third h3 col_last" style="padding:10px">Introduced Legislation<br>with Dem Congressman</div>
+
+		</div>
+
+
+
+
+
+		<!-- Tech Bill of Rights -->
+		<div class="row" style="background-color:#ccc">
+
+			<div class="col_one_third h3" style="padding:10px;  margin:10px 0px 0px 0px;">Tech Bill of Rights</div>
+
+			<div class="col_one_third h3" style="padding:10px">This is needed<br>immediately</div>
+
+			<div class="col_one_third h3 col_last" style="padding:10px">No stated position</div>
 
 		</div>
 
