@@ -135,7 +135,7 @@
 
 			<div class="col_one_third h2" style="padding:10px;  margin-top:30px">Joshua Foxworth</div>
 
-			<div class="col_one_third h2"  style="padding:10px;  margin-top:30px">Congressman Weber</div>
+			<div class="col_one_third col_last h2"  style="padding:10px;  margin-top:30px">Congressman Weber</div>
 
 		</div>
 
