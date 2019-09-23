@@ -87,34 +87,18 @@ Route::get('/Issues/SocialSecurity', function () {
 });
 
 
-Route::get('/aboutMe', function () {
-    return view('layouts.aboutMe');
-});
+Route::get('/aboutMe', function () { return view('layouts.aboutMe'); });
 
+Route::get('/pledge', function () { return view('layouts.pledge'); });
 
-Route::get('/pledge', function () {
-    return view('layouts.pledge');
-});
+Route::get('/Pledge', function () { return view('layouts.pledge'); });
 
+Route::get('/WhyImRunning', function () { return view('layouts.WhyImRunning'); });
 
-Route::get('/Pledge', function () {
-    return view('layouts.pledge');
-});
+Route::get('/district', function () { return view('layouts.district'); });
 
+Route::get('/Plan', function () { return view('layouts.plan'); });
 
+Route::get('/donate', function () { return view('layouts.donate'); });
 
-Route::get('/WhyImRunning', function () {
-    return view('layouts.WhyImRunning');
-});
-
-
-Route::get('/district', function () {
-    return view('layouts.district');
-});
-
-
-Route::get('/Plan', function () {
-    return view('layouts.plan');
-});
-
-
+Route::get('/FoxworthVersusWeber', function () { return view('layouts.versus'); });
