@@ -20,7 +20,7 @@
 
 			<p>That being said, I will need money for campaign material, facebook ads, housing and food for volunteers, and potentially radio ads. The amounts below are the first "tier" of what I will do with the funds. Once we raise more than this amount, we will focus on additional items. If enough money is raised, we will alter our strategy to more expensive methods of advertising.</p>
 
-			<p>Here is what your money will go towards right now if you choose to donate. This amount is less than $20,000. I believe that I can be competitive with this amount because of the amount of time that I am putting into campaigning as well as the strength of the message. The bottom line is that when I talk to people, many of them share these views and they are simply waiting for someone to support.</p>
+			<p>Here is what your money will go towards right now if you choose to donate. This amount is around $20,000. I believe that I can be competitive with this amount because of the amount of time that I am putting into campaigning as well as the strength of the message. The bottom line is that when I talk to people, many of them share these views and they are simply waiting for someone to support.</p>
 
 		</span>
 
@@ -65,6 +65,22 @@
 
 		<div class="col_one_fourth center">
 			$5,000
+		</div>
+
+		<div class="col_one_fourth col_last"></div>
+
+
+
+
+		<!--- Mass Texts -->
+		<div class="col_one_fourth"></div>
+
+		<div class="col_one_fourth center">
+			Mass Texts
+		</div>
+
+		<div class="col_one_fourth center">
+			$4,000
 		</div>
 
 		<div class="col_one_fourth col_last"></div>
