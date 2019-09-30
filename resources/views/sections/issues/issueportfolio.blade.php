@@ -124,7 +124,7 @@
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
 				<a href="/Issues/TermLimits">
-					<img src="/images/issues/termlimits.jpeg" alt="TermLimits">
+					<img src="/images/issues/termlimits.jpg" alt="TermLimits">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
 							<h3>Term Limits</h3>
