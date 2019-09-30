@@ -16,6 +16,7 @@
 					<li><a href="/Issues/CongressionalEthics"><div><i class="icon-settings2"></i>Congressional Ethics</div></a></li>
 					<li><a href="/Issues/ElectionIntegrity"><div><i class="icon-checkbox-checked"></i>Election Integrity</div></a></li>
 					<li><a href="/Issues/CollegeDebtRelief"><div><i class="icon-line-help"></i>College Debt Relief</div></a></li>
+					<li><a href="/Issues/TermLimits"><div><i class="icon-line-help"></i>Term Limits</div></a></li>
 					<li><a href="/Issues/Veterans"><div><i class="icon-shield"></i>Veterans</div></a></li>
 					<li><a href="/Issues/Abortion"><div><i class="icon-home2"></i>Abortion</div></a></li>
 					<li><a href="/Issues/Marriage"><div><i class="icon-line-heart"></i>Marriage</div></a></li>

@@ -121,6 +121,21 @@
 		</article>
 
 
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/TermLimits">
+					<img src="/images/issues/TermLimits.jpg" alt="TermLimits">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>Term Limits</h3>
+							<span>Term Limits for all US Reps</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
+
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">

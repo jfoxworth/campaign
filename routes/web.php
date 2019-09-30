@@ -85,6 +85,8 @@ Route::get('/Issues/Education', function () {
 Route::get('/Issues/SocialSecurity', function () {
     return view('layouts.issues', ['issue' => 'SocialSecurity']);
 });
+Route::get('/Issues/TermLimits', function () {
+    return view('layouts.issues', ['issue' => 'TermLimits']);
 
 
 Route::get('/aboutMe', function () { return view('layouts.aboutMe'); });
