@@ -15,7 +15,7 @@
 										<div class=""><img src="/images/fullLogoAdd.png" width="300px"></div>										
 										<div class="center logoBox">
 											<div class="secondaryLogoText">Enforce Immigration Laws</div>
-											<div class="secondaryLogoText">End Affirmative Action</div>
+											<div class="secondaryLogoText">End Guest Worker Programs</div>
 											<div class="secondaryLogoText">Restore the Nation</div>
 										</div>
 										<img src="/images/landing/whiteStars.png" width="200px">											
@@ -33,7 +33,7 @@
 									<div class="col_half center">
 										<div class="center logoBox">
 											<div class="secondaryLogoTextSmall">Enforce Immigration Laws</div>
-											<div class="secondaryLogoTextSmall">End Affirmative Action</div>
+											<div class="secondaryLogoText">End Guest Worker Programs</div>
 											<div class="secondaryLogoTextSmall">Restore the Nation</div>
 										</div>
 										<img src="/images/landing/whiteStars.png" width="200px">											
