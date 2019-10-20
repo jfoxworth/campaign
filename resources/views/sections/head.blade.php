@@ -1,5 +1,5 @@
     <meta property="og:title" content="Foxworth For Congress">
-    <meta property="og:image" content="http://www.foxworthforcongress.com/images/facebookSplash.jpg">
+    <meta property="og:image" content="http://www.foxworthforcongress.com/images/fullLogo.png">
     <meta property="og:description" content="Foxworth For Texas Congressional district 14 - Enforce Immigration Laws, End Affirmative Action, Restore the Nation">
 
 
