@@ -4,19 +4,15 @@
 		
 		<h2>Donations</h2>
 		
-		<span>
 
-			<p>I am currently not taking donations. I am block walking and talking to people and will open up donations some time in October. The best thing that you can do for the campaign is to follow me on facebook and spread the word amongst your friends and family.</p>
-
-		</span>
-
+		<a href="https://secure.anedot.com/joshua-foxworth-for-congress/donate"><div class="button">Go here to donate !!!</div></a>
 
 
 		<h2>Where the money will go</h2>
 		
 		<span>
 
-			<p>Congressional campaigns can be very expensive. I don't believe that they have to be. I am going to knock on thousands of doors and meet with thousands more.</p>
+			<p>Congressional campaigns can be very expensive. I don't believe that they have to be. I am going to knock on tens of thousands of doors and meet with thousands more.</p>
 
 			<p>That being said, I will need money for campaign material, facebook ads, housing and food for volunteers, and potentially radio ads. The amounts below are the first "tier" of what I will do with the funds. Once we raise more than this amount, we will focus on additional items. If enough money is raised, we will alter our strategy to more expensive methods of advertising.</p>
 
