@@ -36,7 +36,10 @@
                 @include('sections.landing.afirstbreak')
 
                 @include('sections.landing.issuesHeader')
+
                 @include('sections.issues.issueportfolio')
+
+                @include('sections.landing.mandateVideo')
 
                 @include('sections.landing.stand')
 
