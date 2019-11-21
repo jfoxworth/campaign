@@ -10,7 +10,7 @@
 
 
                     <div class="col_half">
-                        Copyrights &copy; 2017 All Rights Reserved<br>
+                        Paid for by Joshua Foxworth for Congress<br>
                         <!-- <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div> -->
 
                     </div>
