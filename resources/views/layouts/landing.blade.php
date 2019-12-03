@@ -35,6 +35,8 @@
 
                 @include('sections.landing.afirstbreak')
 
+                @include('sections.landing.thePlan')
+
                 @include('sections.landing.issuesHeader')
 
                 @include('sections.issues.issueportfolio')
