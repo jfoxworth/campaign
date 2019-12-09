@@ -13,11 +13,36 @@
 
 
 
-    <p>The phrase "affirmative action" is used to desribe any law, policy, or practice that favors one group over another. This could be on the basis of race, gender, sexual identity, or any other facet of a person that is used to create a "protected group." These policies were never agreed to by the American voters. They are unethical, immoral, and in complete opposition to decency and honor.</p>
+    <p>While the problems in the electoral system are vast and complex, there are changes that can be made to increase trust that our votes matter, provide better access to information on candidates, provide greater ability to vote, and reduce the influence of money in politics.</p>
 
-    <p>No man has the right to place his child ahead of mine for educational opportunities. No man has the right to place himself in front of me for hiring or promotions. None. This is especially true when it is done on the basis of one race being preferable to another.</p>
+    <p>Higher trust that our votes matter</p>
 
-    <p>When it comes to the equality of our children, we should neither debate nor negotiate. I have made one of the <a href="/Pledge">pillars of my campaign</a> that I will not allow the government to function if the function of the government is to discriminate against our children. These policies must be recognized as the affronts to civil liberty that they represent and be immediately ended.</p>
+    <p>Every single vote cast by a non-citizen and every single fraudulent vote disenfranchises every single American. Voter ID in every state must be mandatory and any representative or candidate that opposes it is arguing in favor of looking the other way while the election system in this nation is defrauded.</p>
+
+
+    <p>In addition to this, the voter rolls in every state must be purged of illegal voters, deceased voters, and those registered multiple times or in the wrong place. Congress may allocate funds to ensure oversight of this, but this is something that each state should be mandated to carry out. American citizens must have confidence that their votes count and that the will of the majority of people indeed controls the government.</p>
+
+    <p>Better access to information on candidates</p>
+
+    <p>There are roughly two weeks of every two year cycle when I know exactly where my congressman will be - monopolizing the sidewalk at the front entry to the largest voting place in the county. Everyone in the district refers to the walk from their cars to the voting lines as “walking the gauntlet.” This has to end. Campaigning at voting places in any form must be made illegal. This includes putting up signs, handing out flyers, and shaking hands. No campaigning of any kind at an election site.</p>
+
+    <p>How will citizens get access to information on candidates? The government should create a site where every registered candidate is allowed a given amount of space to discuss the issues that matter to them. A link to a campaign site will be allowed, but no other links. A citizen will then enter their address and will be presented with a sample ballot that includes a list of every candidate with links to the positions that those candidates have filled out. Included in this site could be a discussion on any votes that a challenger wishes to address as well as the ability for every candidate or representative to hold recorded video town halls, text discussions, etc. Every candidate then has the ability to get their message out and much of the monetary inertia of the incumbent is negated.</p>
+
+
+    <p>Greater ability to vote</p>
+
+    <p>The reasons that we vote on a Tuesday go back generations. While we don’t have to change this, we do need to either mandate that all states have a minimal amount of early voting time or declare a national holiday on voting day.</p>
+
+    <p>Reducing the influence of money</p>
+
+    <p>While not directly tied to elections, one of the main reasons that Americans do not trust that their vote will have any effect is that the influence of corporate lobbyists is far greater than the influence of voters. The ability of previous representatives or other well connected people to hint at future payment or salary or campaign contributions in exchange for current legislation or votes is simply too great an influence to be allowed to continue. For this reason - and many others - all person to person lobbying where the “lobbyist” is paid in any manner should be ended. Citizens can still advocate on issues that matter to them, but no one should be allowed to be paid to advocate for a cause in person or in any manner not recorded and subject to oversight. Paid person to person contact is selling access and it subverts the relationship between a congressman and his constituents.</p>
+
+
+    <p>To facilitate this in a manner in which first amendment rights are not negated, a government web site should again be created where entities can write documents, make presentations, upload videos, etc to be viewed by representatives. The goal of these items is to convey the information on legislative items which was previously discussed in person. All items will be viewable by the public in the same manner as they are viewed by the congressman. Through this process, the public can see who is presenting what information to what representative.</p>
+
+
+    <p>There is no perfect system. Politicians that wish to sell their positions will always find ways to do that. However, the system in place now is not working for the American people and these changes should be a minimal first step.</p>
+
 
 </div>
 

@@ -200,7 +200,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/Veterans">
+				<a href="/Issues/Abortion">
 					<img src="/images/issues/abortion.jpg" alt="Abortion">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
@@ -215,7 +215,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/Veterans">
+				<a href="/Issues/Marriage">
 					<img src="/images/issues/marriage.jpg" alt="Marriage">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
@@ -230,7 +230,7 @@
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">
-				<a href="/Issues/Veterans">
+				<a href="/Issues/ElectionReform">
 					<img src="/images/issues/electionReform.jpg" alt="Election Reform">
 					<div class="portfolio-overlay">
 						<div class="portfolio-desc">
