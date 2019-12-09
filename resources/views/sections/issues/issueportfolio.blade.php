@@ -198,6 +198,50 @@
 		</article>
 
 
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/Veterans">
+					<img src="/images/issues/abortion.jpg" alt="Abortion">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>Abortion</h3>
+							<span>Pro life - end abortion</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
+
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/Veterans">
+					<img src="/images/issues/marriage.jpg" alt="Marriage">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>Marriage</h3>
+							<span>Marriage is a fight we should not abandon</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
+
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/Veterans">
+					<img src="/images/issues/electionReform.jpg" alt="Election Reform">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>Election Reform</h3>
+							<span>Reforming the election system</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
 
 	</div>
 
