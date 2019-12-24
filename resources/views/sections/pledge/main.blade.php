@@ -14,6 +14,13 @@
 
 			<p style="font-size:16px">I will demand that our laws be enforced, work to end guest worker Visa programs, and work to end affirmative action </p>
 
+			<p style="font-size:16px">I will not vote for a spending bill that maintains a deficit or does not put the nation on a path to a balanced budget within a couple of years </p>
+
+			<p style="font-size:16px">I will not vote to reauthorize the current overseas wars</p>
+
+			<p style="font-size:16px">I will not vote to reauthorize the PATRIOT Act</p>
+
+
 		</span>
 
 
