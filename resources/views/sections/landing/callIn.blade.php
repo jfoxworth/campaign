@@ -8,7 +8,7 @@
 
             <div>
 
-            	<span>I hold telephone town halls every Thursday evening at 8pm. You can join us using <a href="meet.google.com/cir-cpef-rbf">google hangouts</a> or by calling +1 442-600-5878‬ and using the pin ‪788 638 033‬#</span>
+            	<p style="font-size:16px">I hold telephone town halls every Thursday evening at 8pm. You can join us using <a href="https://meet.google.com/cir-cpef-rbf">google hangouts</a> or by calling +1 442-600-5878‬ and using the pin ‪788 638 033‬#</p>
             </div>
 
         </div>

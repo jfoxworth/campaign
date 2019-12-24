@@ -9,7 +9,7 @@
                 <div class="container clearfix">
 
 
-                    <div class="col_half">
+                    <div class="col_half center">
 
                         <div style="border:1px solid #FFFFFF; color:#FFFFFF">
                             Paid for by Joshua Foxworth for Congress<br>
