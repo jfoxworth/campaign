@@ -1,10 +1,34 @@
-<div class="section clearfix notopmargin" style="background-color:#cccccc">
 
-    <div class="heading-block center ">
-        <h2 class="t500 nott bottommargin" style="font-size:36px:">The Plan</h4>
-        <h4 class="bottommargin-sm">1. Enforce existing laws that fine employers - no new legislation is needed</h4>
-        <h4 class="bottommargin-sm">2. Illegal aliens cannot obtain jobs, welfare, or free health care</h4>
-        <h4 class="bottommargin-sm">3. Illegal aliens will return to their homes</h4>
-        <h4 class="bottommargin-sm">4. Those that remain will be deported when they come into contact with law enforcement</h4>
-    </div>
+
+<div class="section nobg notopmargin nopadding footer-stick">
+
+	<div class="container clearfix">
+
+		<div class="row">
+
+			<div class="col-lg-7">
+				<img src="landing/immSign.gif" alt="Immigration">
+			</div>
+
+			<div class="col-lg-5 topmargin-sm">
+			
+				<div class="heading-block nobottomborder">
+					<h2>The plan</h2>
+					<span class="ls1">Why is law enforcement the proper method</span>
+				</div>
+
+				<ul class="iconlist iconlist-large iconlist-color">
+					<li><i class="icon-ok"></i> Enforce existing laws that fine employers</li>
+					<li><i class="icon-ok"></i> No new legislation is needed</li>
+					<li><i class="icon-ok"></i> Illegal aliens cannot obtain jobs, welfare, or free health care</li>
+					<li><i class="icon-ok"></i> Illegal aliens will return to their homes</li>
+					<li><i class="icon-ok"></i> Those that remain will be deported when they come into contact with law enforcement</li>
+				</ul>
+			
+			</div>
+
+		</div>
+
+	</div>
+
 </div>

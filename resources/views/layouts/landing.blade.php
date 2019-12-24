@@ -37,6 +37,8 @@
 
                 @include('sections.landing.thePlan')
 
+                @include('sections.landing.corePromiseEthics')
+
                 @include('sections.landing.issuesHeader')
 
                 @include('sections.issues.issueportfolio')
