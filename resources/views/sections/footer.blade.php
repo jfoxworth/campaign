@@ -10,7 +10,10 @@
 
 
                     <div class="col_half">
-                        Paid for by Joshua Foxworth for Congress<br>
+
+                        <div style="border:1px solid #FFFFFF; color:#FFFFFF">
+                            Paid for by Joshua Foxworth for Congress<br>
+                        </div>
                         <!-- <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div> -->
 
                     </div>
