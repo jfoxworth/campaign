@@ -1,13 +1,13 @@
 
 
-<div class="section nobg notopmargin nopadding footer-stick">
+<div class="section nobg notopmargin nopadding">
 
 	<div class="container clearfix">
 
 		<div class="row">
 
-			<div class="col-lg-7">
-				<img src="landing/immSign.gif" alt="Immigration">
+			<div class="col-lg-7 center">
+				<img class="topmargin" src="images/landing/immSign.gif" alt="Immigration">
 			</div>
 
 			<div class="col-lg-5 topmargin-sm">
