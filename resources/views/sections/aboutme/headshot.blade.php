@@ -39,7 +39,7 @@
 
         <div class="divider divider-short divider-rounded divider-center"><i class="bgcolor icon-star"></i></div>
 
-        <p>On my 18th birthday, I enlisted in the United States Marine Corps as an infantryman. I served briefly in the 1st Battalion, 2nd Marines in Camp Lejeune, North Carolina and was then accepted in the Marine Corps Reconnaissance Unit. In addition to the basic schools associated with this unit, I also attented Army Airborne school, S.F. S.E.R.E school, and others.</p>
+        <p>On my 18th birthday, I enlisted in the United States Marine Corps as an infantryman. I served briefly in the 1st Battalion, 2nd Marines in Camp Lejeune, North Carolina and was then accepted in the Marine Corps Reconnaissance Unit. In addition to the basic schools associated with this unit, I also attended Army Airborne school, S.F. S.E.R.E school, and others.</p>
 
         <div class="divider divider-short divider-rounded divider-center"><i class="bgcolor icon-star"></i></div>
 
