@@ -35,6 +35,10 @@
 
                 @include('sections.landing.profile')
 
+                @include('sections.landing.votingDates')
+
+                @include('sections.landing.events')
+
                 @include('sections.landing.afirstbreak')
 
                 @include('sections.landing.thePlan')
