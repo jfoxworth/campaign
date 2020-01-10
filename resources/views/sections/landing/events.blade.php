@@ -27,6 +27,7 @@
 
 						<ul class="entry-meta clearfix">
 							<li><i class="icon-calendar3"></i> 16th Jan 2020 - 6pm</li>
+							<li><i class="icon-map"></i> La Brisa Restarurant - 501 North Wesley Drive, League City</li>
 						</ul>
 
 						<div class="entry-content">
@@ -60,6 +61,7 @@
 
 						<ul class="entry-meta clearfix">
 							<li><i class="icon-calendar3"></i> 20th Jan 2020 - 7pm</li>
+							<li><i class="icon-map"></i> College of the Mainland</li>
 						</ul>
 
 						<div class="entry-content">
