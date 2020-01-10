@@ -4,7 +4,7 @@
 
         <div class="col-md-12">
 
-            <div class="col-md-6 center">
+            <div class="">
 
 				<h2 class="center">Events Where I will be Speaking</h2>
 
@@ -13,7 +13,7 @@
 
 					<div class="col_half nobottommargin">
 
-						<div class="entry-image">
+						<div class="entry-image" style="text-align:center">
 							<img class="image_fade" src="images/events/RNGLogo.png" alt="RNG" style="opacity: 1;">
 						</div>
 
@@ -45,7 +45,7 @@
 
 					<div class="col_half nobottommargin">
 
-						<div class="entry-image">
+						<div class="entry-image" style="text-align:center">
 							<img class="image_fade" src="images/events/TEAForum.png" alt="TEA" style="opacity: 1;">
 						</div>
 
@@ -82,8 +82,8 @@
 
 					<div class="col_half nobottommargin">
 
-						<div class="entry-image">
-							<img class="image_fade" src="images/events/phone.jpg" alt="Phone Meeting" style="opacity: 1;">
+						<div class="entry-image" style="text-align:center">
+							<img class="image_fade" src="images/events/phone.png" alt="Phone Meeting" style="opacity: 1;">
 						</div>
 
 					</div>
