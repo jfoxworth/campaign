@@ -13,8 +13,8 @@
 
 					<div class="col_half nobottommargin">
 
-						<div class="entry-image" style="text-align:center">
-							<img class="image_fade" src="images/events/RNGLogo.png" alt="RNG" style="opacity: 1;">
+						<div class="entry-image" style="text-align:right; margin-left:200px">
+							<img class="image_fade" src="images/events/RNGLogo.png" width:200px alt="RNG" style="opacity: 1;">
 						</div>
 
 					</div>
@@ -45,8 +45,8 @@
 
 					<div class="col_half nobottommargin">
 
-						<div class="entry-image" style="text-align:center">
-							<img class="image_fade" src="images/events/TEAForum.png" alt="TEA" style="opacity: 1;">
+						<div class="entry-image" style="text-align:right; margin-left:200px">
+							<img class="image_fade" src="images/events/TEAForum.png" width:200px alt="TEA" style="opacity: 1;">
 						</div>
 
 					</div>
@@ -82,7 +82,7 @@
 
 					<div class="col_half nobottommargin">
 
-						<div class="entry-image" style="text-align:center">
+						<div class="entry-image" style="text-align:right; width:200px margin-left:200px">
 							<img class="image_fade" src="images/events/phone.png" alt="Phone Meeting" style="opacity: 1;">
 						</div>
 
