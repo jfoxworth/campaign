@@ -8,10 +8,14 @@
 
 
 
-			<article class="spost clearfix">
+			<article class="spost clearfix topmargin">
 			
 				<div class="entry-c">
 			
+					<div class="entry-image">
+						<a href="#"></a>
+					</div>
+
 					<div class="entry-title">
 						<h4 class="t600"><a href="https://www.americanthinker.com/blog/2019/10/twitter_intensifies_attack_on_conservatives_by_forbidding_political_ads.html">Twitter intensifies attack on conservatives by forbidding political ads</a></h4>
 					</div>
@@ -37,6 +41,10 @@
 			
 				<div class="entry-c">
 			
+					<div class="entry-image">
+						<a href="#"></a>
+					</div>
+
 					<div class="entry-title">
 						<h4 class="t600"><a href="https://www.americanthinker.com/blog/2019/10/this_bipartisan_immigration_bill_will_change_the_face_of_america.html">This bipartisan immigration bill will change the face of America</a></h4>
 					</div>
@@ -58,6 +66,10 @@
 			<article class="spost clearfix">
 			
 				<div class="entry-c">
+
+					<div class="entry-image">
+						<a href="#"></a>
+					</div>
 			
 					<div class="entry-title">
 						<h4 class="t600"><a href="https://www.americanthinker.com/articles/2019/09/affirmative_action_and_nasa.html">Affirmative Action and NASA</a></h4>
