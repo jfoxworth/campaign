@@ -29,11 +29,13 @@
 
                 @include('sections.landing.issueSummary')
 
-                @include('sections.landing.callIn')
-
                 @include('sections.landing.corePromiseBreak')
 
                 @include('sections.landing.profile')
+
+                @include('sections.landing.trump')
+
+                @include('sections.landing.mediaLink')
 
                 @include('sections.landing.votingDates')
 
