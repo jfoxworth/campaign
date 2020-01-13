@@ -8,6 +8,40 @@
 
 
 
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/7J9FAyrhi1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Stephan Molyneux - Free Domain Radio</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 28th Dec 2019</li>
+				</ul>
+			</div>
+
+
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/IqMz1CfFepo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>The Red Elephants Vincent James</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 15th Dec 2019</li>
+				</ul>
+			</div>
+
+
+
+
 			<article class="spost clearfix topmargin">
 			
 				<div class="entry-image">
@@ -225,27 +259,163 @@
 			<article class="spost clearfix">
 
 				<div class="entry-image">
+					<a href=""></a>
+				</div>
+			
+				<div class="entry-c">
+			
+					<div class="entry-title">
+						<h4 class="t600"><a href="https://www.americanthinker.com/articles/2019/06/infotech_and_rights.html">Infotech and Rights</a></h4>
+					</div>
+			
+					<ul class="entry-meta clearfix">
+						<li><span>Published by</span> <a href="https://www.americanthinker.com/articles/2019/06/infotech_and_rights.html">American Thinker</a></li>
+						<li><i class="icon-time"></i><a href="https://www.americanthinker.com/articles/2019/06/infotech_and_rights.html">29 June 2019</a></li>
+					</ul>
+
+					<div class="entry-content mt-0">
+						<p>Given the mass deplatforming that is happening on multiple sites, I wrote an article to discuss the need for the restoration of the first amendment.</p>
+					</div>
+				
+				</div>
+			
+			</article>
+
+
+
+
+
+
+			<article class="spost clearfix">
+
+				<div class="entry-image">
 					<a href="#"></a>
 				</div>
 			
 				<div class="entry-c">
 			
 					<div class="entry-title">
-						<h4 class="t600"><a href="#"></a></h4>
+						<h4 class="t600"><a href="https://www.americanthinker.com/articles/2019/04/health_care_the_real_problem.html">Health Care : The Real Problem</a></h4>
 					</div>
 			
 					<ul class="entry-meta clearfix">
-						<li><span>Published by</span> <a href="#">American Thinker</a></li>
-						<li><i class="icon-time"></i><a href="#">31 Oct 2019</a></li>
+						<li><span>Published by</span> <a href="https://www.americanthinker.com/articles/2019/04/health_care_the_real_problem.html">American Thinker</a></li>
+						<li><i class="icon-time"></i><a href="https://www.americanthinker.com/articles/2019/04/health_care_the_real_problem.html">31 Oct 2019</a></li>
 					</ul>
 
 					<div class="entry-content mt-0">
-						<p></p>
+						<p>Here, I address the real driver of health care costs -  the mass imporation of people that are taking health care services but not paying into the system as well as allowing drug corporations to fleece Americans</p>
 					</div>
 				
 				</div>
 			
 			</article>
+
+
+
+
+
+
+
+
+
+
+
+			<article class="spost clearfix">
+
+				<div class="entry-image">
+					<a href="#"></a>
+				</div>
+			
+				<div class="entry-c">
+			
+					<div class="entry-title">
+						<h4 class="t600"><a href="https://www.americanthinker.com/articles/2019/04/immigration_as_economic_warfare.html">Immigration as Economic Warfare</a></h4>
+					</div>
+			
+					<ul class="entry-meta clearfix">
+						<li><span>Published by</span> <a href="https://www.americanthinker.com/articles/2019/04/immigration_as_economic_warfare.html">American Thinker</a></li>
+						<li><i class="icon-time"></i><a href="https://www.americanthinker.com/articles/2019/04/immigration_as_economic_warfare.html">6 April 2019</a></li>
+					</ul>
+
+					<div class="entry-content mt-0">
+						<p>Immigration is not a singular issue. In this article, I address the use of economic warfare in immigration policy.</p>
+					</div>
+				
+				</div>
+			
+			</article>
+
+
+
+
+
+
+
+
+
+
+			<article class="spost clearfix">
+
+				<div class="entry-image">
+					<a href="#"></a>
+				</div>
+			
+				<div class="entry-c">
+			
+					<div class="entry-title">
+						<h4 class="t600"><a href="https://www.americanthinker.com/articles/2019/04/why_do_young_people_find_socialism_so_attractive.html">Why do young people find socialism so attractive?</a></h4>
+					</div>
+			
+					<ul class="entry-meta clearfix">
+						<li><span>Published by</span> <a href="https://www.americanthinker.com/articles/2019/04/why_do_young_people_find_socialism_so_attractive.html">American Thinker</a></li>
+						<li><i class="icon-time"></i><a href="https://www.americanthinker.com/articles/2019/04/why_do_young_people_find_socialism_so_attractive.html">10 April 2019</a></li>
+					</ul>
+
+					<div class="entry-content mt-0">
+						<p>With socialism on the rise in universities and within our younger generations, I discuss one reason why the system is becoming more popular.</p>
+					</div>
+				
+				</div>
+			
+			</article>
+
+
+
+
+
+
+
+
+
+			<article class="spost clearfix">
+
+				<div class="entry-image">
+					<a href="#"></a>
+				</div>
+			
+				<div class="entry-c">
+			
+					<div class="entry-title">
+						<h4 class="t600"><a href="https://vdare.com/articles/joshua-foxworth-time-to-end-affirmative-action">Time to end affirmative action</a></h4>
+					</div>
+			
+					<ul class="entry-meta clearfix">
+						<li><span>Published by</span> <a href="https://vdare.com/articles/joshua-foxworth-time-to-end-affirmative-action">VDARE</a></li>
+						<li><i class="icon-time"></i><a href="https://vdare.com/articles/joshua-foxworth-time-to-end-affirmative-action">7 Jan 2020</a></li>
+					</ul>
+
+					<div class="entry-content mt-0">
+						<p>Once again, here I address the problems with affirmative action and call for an end to the systems.</p>
+					</div>
+				
+				</div>
+			
+			</article>
+
+
+
+
 
 
 		</span>
