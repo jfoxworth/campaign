@@ -62,15 +62,34 @@
 
 
 
+
+
 	<div class="fancy-title nobottommargin">
-		<h3>Rethinking Immigration Policies - Reciprocity</h3>
+		<h3>No birthright citizenship</h3>
 	</div>
 
 	<div class="divider divider-border divider-right notopmargin">
 		<i class="icon-remove"></i>
 	</div>
 
-	<p>The United States is no longer a frontier nation. It is not too sparsely populated for the economy to function. We are not bound to provide entry and citizenship to anyone who seeks to come here. An alteration of policy from this standpoint is necessary. This means an end to most visa programs, the lottery program, and bringing in extended families.</p>
+	<p>Persons born in the United States to those that are not US citizens are not entitled to citizenship. We must recognize this fact and move forward accordingly.</p>
+
+
+
+
+
+
+
+
+	<div class="fancy-title nobottommargin">
+		<h3>Rethinking immigration policies - reciprocity</h3>
+	</div>
+
+	<div class="divider divider-border divider-right notopmargin">
+		<i class="icon-remove"></i>
+	</div>
+
+	<p>The United States is no longer a frontier nation. It is not too sparsely populated for the economy to function. We are not bound to provide entry and citizenship to anyone who seeks to come here. An alteration of the entire policy from this standpoint is necessary. This means an end to most visa programs, the lottery program, and bringing in extended families.</p>
 
 	<p>At the very least, a policy of reciprocity must be enacted. We will allow no nation's people to enter our lands unless that nation open its borders to the world and to us in a similar manner.</p>
 

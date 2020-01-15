@@ -2,65 +2,98 @@
 ============================================= -->
 <div class="container clearfix">
 
-    <div class="heading-block center nobottomborder">
-        <h2>NASA Reform</h2>
-        <span>A return to manned spaceflight</span>
-    </div>
+	<div class="heading-block center nobottomborder">
+		<h2>NASA Reform</h2>
+		<span>A return to manned spaceflight</span>
+	</div>
 
-    <div class="divider divider-short divider-rounded divider-center">
-        <i class="bgcolor icon-rocket"></i>
-    </div>
+	<div class="divider divider-short divider-rounded divider-center">
+		<i class="bgcolor icon-rocket"></i>
+	</div>
 
-    <div class="col_one_third">
-        <div class="feature-box fbox-center fbox-effect">
-            <h3>Restore NASA's Purpose</h3>
-            <p>New leadership, more authority, and a bold new direction</p>
-        </div>
-    </div>
+	<div class="col_one_third">
+		<div class="feature-box fbox-center fbox-effect">
+			<h3>Restore NASA's Purpose</h3>
+			<p>New leadership, more authority, and a bold new direction</p>
+		</div>
+	</div>
 
-    <div class="col_one_third">
-        <div class="feature-box fbox-center fbox-effect">
-            <h3>More Autonomy</h3>
-            <p>Give NASA a plan and a budget and get our of its way</p>
-        </div>
-    </div>
-
-
-    <div class="clear"></div>
-
-    <div class="fancy-title nobottommargin">
-        <h3>Restoring NASA's purpose</h3>
-    </div>
-
-    <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-rocket"></i>
-    </div>
-
-    <div class="alignleft">
-        <a href="#"><img src="/images/issues/nasa.jpg"></a>
-    </div>
+	<div class="col_one_third">
+		<div class="feature-box fbox-center fbox-effect">
+			<h3>More Autonomy</h3>
+			<p>Give NASA a plan and a budget and get our of its way</p>
+		</div>
+	</div>
 
 
-    <p>NASA suffers from three main problems - a lack of direction and funding, a lack of accountability, and waste. The first part in turning that culture around is to ensure that it has a purpose that its employees can believe in and will work to fulfill.</p>
+	<div class="col_one_third">
+		<div class="feature-box fbox-center fbox-effect">
+			<h3>End use it or lose it</h3>
+			<p>End the practice of losing money from the budget that is not used</p>
+		</div>
+	</div>
 
-    <p>Although vague phrases like "Missions to Mars" are often used, the simple fact is that there is no legitimate plan to go to Mars or even to return to the moon. The space program is fractured, with multiple capsules being constructured by multiple companies and no real long term plan.</p>
 
-    <p>NASA's purpose should be simple - a return to the moon and a manned mission to Mars. The technical steps for this goal must be up to the NASA leadership and not Congress. However, Congress must commit to reasonable funding goals, adhere to those goals, and then demand reasonable progress.</p>
+	<div class="clear"></div>
 
-    <p>To accomplish this, a NASA leader must be appointed that understands the subject of space flight and is willing to take on the responsibility of shepharding the program. He must then be given the authority to change the space program to meet the challenges ahead. This includes hiring based upon talent and not gender or race, and ending bad contracts and programs.</p>
+	<div class="fancy-title nobottommargin">
+		<h3>Restoring NASA's purpose</h3>
+	</div>
+
+	<div class="divider divider-border divider-right notopmargin">
+		<i class="icon-rocket"></i>
+	</div>
+
+	<div class="alignleft">
+		<a href="#"><img src="/images/issues/nasa.jpg"></a>
+	</div>
 
 
-    <div class="fancy-title nobottommargin">
-        <h3>More Autonomy</h3>
-    </div>
+	<p>NASA suffers from three main problems - a lack of direction and funding, a lack of accountability, and waste. The first part in turning that culture around is to ensure that it has a purpose that its employees can believe in and will work to fulfill.</p>
 
-    <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-rocket"></i>
-    </div>
+	<p>Although vague phrases like "Missions to Mars" are often used, the simple fact is that there is no legitimate plan to go to Mars or even to return to the moon. The space program is fractured, with multiple capsules being constructured by multiple companies and no real long term plan.</p>
 
-    <p>Once the President has appointed the NASA leader, Congress must ensure a minimum amount of funds per year and then get out of the way. NASA leadership must be able to take those funds and save portions for years if necessary in preparation of certain phases of design, testing, and deployment, and it must be able to conduct its business where and how it sees fit.</p>
+	<p>NASA's purpose should be simple - a return to the moon and a manned mission to Mars. The technical steps for this goal must be up to the NASA leadership and not Congress. However, Congress must commit to reasonable funding goals, adhere to those goals, and then demand reasonable progress.</p>
 
-    <p>In short, Congress and NASA come to an agreement on how much is allocated per year and what they expect in terms of progress. NASA then goes away and does the work without Congress being involved in the specifics of the programs.</p>
+	<p>To accomplish this, a NASA leader must be appointed that understands the subject of space flight and is willing to take on the responsibility of shepharding the program. He must then be given the authority to change the space program to meet the challenges ahead. This includes hiring based upon talent and not gender or race, and ending bad contracts and programs.</p>
+
+
+
+
+
+
+
+	<div class="fancy-title nobottommargin">
+		<h3>More Autonomy</h3>
+	</div>
+
+	<div class="divider divider-border divider-right notopmargin">
+		<i class="icon-rocket"></i>
+	</div>
+
+	<p>Once the President has appointed the NASA leader, Congress must ensure a minimum amount of funds per year and then get out of the way. NASA leadership must be able to take those funds and save portions for years if necessary in preparation of certain phases of design, testing, and deployment, and it must be able to conduct its business where and how it sees fit.</p>
+
+	<p>In short, Congress and NASA come to an agreement on how much is allocated per year and what they expect in terms of progress. NASA then goes away and does the work without Congress being involved in the specifics of the programs.</p>
+
+	<p>One component of this would be allowing the NASA director to redirect funds within NASA without congressional approval. This would allow NASA to stop using resources on projects that have been terminated.</p>
+
+
+
+
+
+
+
+
+	<div class="fancy-title nobottommargin">
+		<h3>End use it or lose it</h3>
+	</div>
+
+	<div class="divider divider-border divider-right notopmargin">
+		<i class="icon-rocket"></i>
+	</div>
+
+	<p>Use it or lose it spending should be ended throughout all of the federal government, but possibly the best place to start is NASA. We could allow each department to hold a small amount in case the need arises around a specific project. We could also allow the director to store up to a given percentgage of the overall budget per year in advance of big spending years.</p>
+
 
 
 

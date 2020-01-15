@@ -46,20 +46,6 @@
 		</article>
 
 
-		<article class="portfolio-item pf-media pf-icons">
-			<div class="portfolio-image">
-				<a href="/Issues/CongressionalEthics">
-					<img src="/images/issues/ElectionIntegrity.jpg" alt="Election Integrity">
-					<div class="portfolio-overlay">
-						<div class="portfolio-desc">
-							<h3>Election Integrity</h3>
-							<span>Restore the Integrity of the Vote</span>
-						</div>
-					</div>
-				</a>
-			</div>
-		</article>
-
 
 		<article class="portfolio-item pf-media pf-icons">
 			<div class="portfolio-image">

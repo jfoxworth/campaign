@@ -52,14 +52,14 @@
 
 
     <div class="fancy-title nobottommargin">
-        <h3>Push for National Reciprocity</h3>
+        <h3>Push for Constitutional Carry</h3>
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
         <i class="icon-line-target"></i>
     </div>
 
-    <p>A concealed carry permit issued in one state must be honored in all states. A man's rights do not end at the state borders.</p>
+    <p>I support constitutional carry - the legal carrying of a handgun, either openly or concealed, without a license or permit.</p>
 
 
 </div>
