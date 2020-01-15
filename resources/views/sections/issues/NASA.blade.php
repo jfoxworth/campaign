@@ -26,7 +26,7 @@
 	</div>
 
 
-	<div class="col_one_third">
+	<div class="col_one_third col_last">
 		<div class="feature-box fbox-center fbox-effect">
 			<h3>End use it or lose it</h3>
 			<p>End the practice of losing money from the budget that is not used</p>

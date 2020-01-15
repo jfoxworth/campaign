@@ -47,6 +47,8 @@
 
     <p>Assertions that the founding fathers could not have envisoned a machine gun or a modern assault rifle and therefore did not intend citizens to have access to such things is ludicrous - an assault rifle is much closer to a musket than the internet is to a printing press.</p>
 
+    <p>I oppose TAPS Legislation to perform threat assessments on Americans and I oppose the possibility of being punished merely for being labeled a "domestic terrorist". My oppose cosponsored the TAPS legislation and introduced penalties for those labeled domestic terrorists.</p>
+
 
     <div class="clear"></div>
 
