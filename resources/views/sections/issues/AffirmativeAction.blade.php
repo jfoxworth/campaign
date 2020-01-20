@@ -32,7 +32,7 @@
         <i class="icon-line-head"></i>
     </div>
 
-    <p>Congressman Weber does not address affirmative action in any way.</p>
+    <p>Congressman Weber does not address affirmative action in any way. Early in his career, he answered a questionnaire stating that he opposed its usage.</p>
 
 
 

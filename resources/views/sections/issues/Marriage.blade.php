@@ -21,6 +21,23 @@
 
     <p>We should stand by basic realities. Marriage is a man and a woman. Its purpose from a Christian perspective is to be a reflection of God's relationship with us. Its function in our society is to create and care for the following generation. It should have protections in legislation that honor how important this function is to us.</p>
 
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth versus Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-heart"></i>
+    </div>
+
+    <p>Early in his career, the congressman filled out a questionnaire stating that he opposed gay marriage. He also spoke at a religious event related to abortion and stated his opposition to gay marriage there.</p>
+
+
+
+
+
 </div>
 
 

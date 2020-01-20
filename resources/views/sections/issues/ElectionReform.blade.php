@@ -44,6 +44,27 @@
     <p>There is no perfect system. Politicians that wish to sell their positions will always find ways to do that. However, the system in place now is not working for the American people and these changes should be a minimal first step.</p>
 
 
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth versus Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-vote"></i>
+    </div>
+
+    <p>Congressman Weber has not really addressed the issue of congressional ethics.</p>
+
+
+
+
+
+
+
+
 </div>
 
 

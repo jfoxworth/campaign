@@ -36,7 +36,7 @@
 
 	<div class="clear"></div>
 
-	<div class="fancy-title nobottommargin">
+	<div class="fancy-title nobottommargin topmargin">
 		<h3>Restoring NASA's purpose</h3>
 	</div>
 
@@ -63,7 +63,7 @@
 
 
 
-	<div class="fancy-title nobottommargin">
+	<div class="fancy-title nobottommargin topmargin">
 		<h3>More Autonomy</h3>
 	</div>
 
@@ -84,7 +84,7 @@
 
 
 
-	<div class="fancy-title nobottommargin">
+	<div class="fancy-title nobottommargin topmargin">
 		<h3>End use it or lose it</h3>
 	</div>
 
@@ -93,6 +93,30 @@
 	</div>
 
 	<p>Use it or lose it spending should be ended throughout all of the federal government, but possibly the best place to start is NASA. We could allow each department to hold a small amount in case the need arises around a specific project. We could also allow the director to store up to a given percentgage of the overall budget per year in advance of big spending years.</p>
+
+
+
+
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth versus Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-rocket"></i>
+    </div>
+
+    <p>Congressman Weber sits on the Science, Space, and Technology Committee. He has also stated that the Johnson Space Center should be the home of the Artemis operation. This should be a given. He has not put forth any plans that would change NASA.</p>
+
+
+
+
+
+
+
 
 
 

@@ -35,7 +35,7 @@
     <div class="clear"></div>
 
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Protect the Second Amendment and its Heritage</h3>
     </div>
 
@@ -57,8 +57,12 @@
     <div class="clear"></div>
 
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Oppose TAPS and Red Flag Laws</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-target"></i>
     </div>
 
 
@@ -75,7 +79,7 @@
 
 
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Push for Constitutional Carry</h3>
     </div>
 
@@ -95,7 +99,7 @@
 
 
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Joshua Foxworth versus Congressman Weber</h3>
     </div>
 

@@ -19,4 +19,22 @@
     <p>In addition to this, I will ensure that the US ends its wars in the middle east and that we not enter another war unless our nation is directly threatened.</p>
 
 
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth compared to Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-shield"></i>
+    </div>
+
+    <p>This isn't something that is really fair to do a comparison on. I wish that Congressman Weber would do something to stop the allocation of resources to foreign citizens while veterans are in need, but I do not believe in any way that the Congressman does not support veterans.</p>
+
+
+
+
+
+
 </div>

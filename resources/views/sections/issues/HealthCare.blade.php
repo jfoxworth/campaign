@@ -34,7 +34,7 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Health Care and Migrants</h3>
     </div>
 
@@ -45,6 +45,12 @@
     <div class="alignleft">
         <a href="#"><img src="/images/issues/healthcare.jpg"></a>
     </div>
+
+
+
+
+
+
 
     <p>The cost of health care for Americans has risen at a completely unsustainable rate with no end in sight. Increasingly complicated plans like "Obamacare" cannot reduce costs because they do not address the root causes of those rising costs. Indeed, no plan makes any effort to even name those causes.</p>
 
@@ -57,7 +63,17 @@
     <p>Not one penny can go to the care of a citizen of another nation while veterans and senior citizens are either denied care or the cost of their care is increased.</p>
 
 
-    <div class="fancy-title nobottommargin">
+
+
+
+
+
+
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Prescription Drug Costs</h3>
     </div>
 
@@ -70,7 +86,14 @@
     <p>We do not need a law allowing for reimportation of medicine. We simply need to remove the laws that allow companies to charge the citizens of our nation more than others.</p>
 
 
-    <div class="fancy-title nobottommargin">
+
+
+
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
         <h3>A New Plan - No Government</h3>
     </div>
 
@@ -82,6 +105,29 @@
 
 
     <p>If government has any role in health care, it should be in assuring that procedures and medicines are safe and that there are no artificial limits on hospitals or doctors by organizations such as the AMA.</p>
+
+
+
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth versus Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-medkit"></i>
+    </div>
+
+    <p>Congressman Weber was one of many that campaigned in 2016 on repealing and replacing Obamacare. The sum total of the plan that he presented was the phrase "Patient centered and doctor approved." The congressman never introduced a plan nor spoke of one after the Republicans got the majorities.</p>
+
+
+    <p>Recently, the Congressman supported HR 19, which is a common Republican plan. Part of that plan is a $3,100 cap on prescription drugs for those on Medicare with the government picking up the rest of the tab. That is essentially socialized medicine and Joshua Foxworth opposes it.</p>
+
+
+
+
     
 
 </div>

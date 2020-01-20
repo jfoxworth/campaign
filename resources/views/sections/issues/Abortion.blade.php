@@ -21,6 +21,24 @@
 
     <p>The open presense of abortion in our society is both a cause and a representation of what has been done to our culture in the last few decades. However, the arc of justice is bending back towards life and the representative of Congressional district 14 should be a passionate and eloquent supporter of ending the practice of abortion.</p>
 
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth versus Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-target"></i>
+    </div>
+
+    <p>There are at least 7 pro-life bills introduced into the House each year. Congressman Weber co-sponsors 5 of them. While I wish he was more vocal on this and every other issue, there is no reason to question Congressman Weber's pro-life stance.</p>
+
+
+
+
+
 </div>
 
 

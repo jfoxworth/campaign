@@ -28,4 +28,24 @@
 
 
 
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth compared to Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-help"></i>
+    </div>
+
+    <p>Congressman Weber does not address college debt relief.</p>
+
+
+
+
+
+
+
+
 </div>
