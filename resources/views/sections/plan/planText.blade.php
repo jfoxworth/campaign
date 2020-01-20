@@ -17,7 +17,7 @@
 
 
 
-	<div class="col-md-6 bottommargin">
+	<div class="col-md-12 bottommargin">
 
 
 		<p>This is a basic outline to the process that could be used to force the US government to enforce existing US immigration laws. As you read this, remember the old quote that no plan survives first contact with the enemy. As time passes, I would add compoenents to this plan as needed.</p>
@@ -46,13 +46,25 @@
         <p>The real question here is what exactly is it that I am asking other congressmen to support and what are those radio and TV personalities telling the grass roots. The answer to that question is this : A new contract with America.</p>
 
 
-        <p>In 1994, Newt Gingrich went to the American people and offered them a deal - give Republicans control of Congress and they would then carry out certain legislative priorities. We would again approach the American people with four core promises : end illegal immigration, reform the legal immigration system, balance the budget, and reform health care.</p>
+        <p>In 1994, Newt Gingrich went to the American people and offered them a deal - give Republicans control of Congress and they would then carry out certain legislative priorities. We would again approach the American people with four core promises : </p>
+
+        <ul>
+        	<li>End illegal immigration</li>
+        	<li>Reform the current legal immigration system</li>
+        	<li>Balance the budget</li>
+        	<li>Reform health care</li>
+        </ul>
+
 
         <p>The central premise of this plan would be that if they give Republicans back the House and we keep the Senate and White House we would put those promises into effect in the following ways.</p>
 
+
         <p>On the deadline what we set (preferably within days of the sessions starting) the House and Senate would introduce concurrent resolutions asserting that the will of the people is that our immigration laws be enforced. President Trump would then act on this to enforce laws that fine employers who hire illegal aliens. With this in place, a few examples could be set and the remainder of the nation would then cease to employ illegal aliens as the risk would be too high. When they cannot get a job, health care, or welfare, they will return home.</p>
 
+
+
         <p>This will be carried out in the first year.</p>
+
 
         <p>Within the first six months, the Republican congress will introduce at least three plans to reform health care, three plans to balance the budget, and three plans to reform immigration and we will ask the Democrats to do the same. At the one year mark, we will enact one of those plans for each subject, or a compromise plan for each.</p>
 
