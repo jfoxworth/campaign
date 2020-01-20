@@ -4,7 +4,7 @@
 
     <div class="heading-block center nobottomborder">
         <h2>Term Limits</h2>
-        <span>We are in desparate need of term limits</span>
+        <span>We are in desperate need of term limits</span>
     </div>
 
     <div class="divider divider-short divider-rounded divider-center">
@@ -20,6 +20,26 @@
     <p>Terms limits is one solution that I support. I believe that this limit should be set at 12 years for both Senators and House Represenatatives. If elected, I would propose and support such legislation. Twelve years is two full terms for a Senator and an equal amount of time in the House is reasonable.</p>
 
     <p>There is a <a href="https://www.termlimits.com/pledge/">pledge</a> circulating that many candidates have signed which pledges to back term limits at 12 years for Senators and 6 years (3 terms) for House members. This would lead to a situation where committee chairs and even the House Speaker each have a maximum of 4 years experience. I do not believe that this is the optimum solution.</p>
+
+
+
+
+
+
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth compared to Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-head"></i>
+    </div>
+
+    <p>Congressman Weber does not address term limits. He did not cosponsor legislation to enact term limits. Joshua Foxworth would support term limits as described above.</p>
+
 
 
 

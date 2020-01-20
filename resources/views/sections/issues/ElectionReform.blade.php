@@ -53,10 +53,10 @@
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
-        <i class="icon-vote"></i>
+        <i class="icon-line-head"></i>
     </div>
 
-    <p>Congressman Weber has not really addressed the issue of congressional ethics.</p>
+    <p>Congressman Weber has not really addressed the issue of election reform.</p>
 
 
 

@@ -109,7 +109,7 @@
         <i class="icon-rocket"></i>
     </div>
 
-    <p>Congressman Weber sits on the Science, Space, and Technology Committee. He has also stated that the Johnson Space Center should be the home of the Artemis operation. This should be a given. He has not put forth any plans that would change NASA.</p>
+    <p>Congressman Weber sits on the Science, Space, and Technology Committee. He has also stated that the Johnson Space Center should be the home of the Artemis operation. This should be a given and not something that a Congressman decides. He has not put forth any plans that would change NASA.</p>
 
 
 

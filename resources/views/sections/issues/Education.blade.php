@@ -109,4 +109,29 @@
 
     <p>Allowing students to <a href="/Issues/CollegeDebtRelief">remove their debt</a> and pass that loss to the colleges has multiple purposes. First, it protects the students by ensuring that colleges do not continue to grant degrees in subjects that provide no merit. Students can still take these classes, but it is likely that universities will require those students to pay the costs ahead of time and understand that the degrees are purely educational endeavors. Second, the departments within these universities that generate the racial hatred and violence cannot survive under these conditions. Ending the government funding of these departments is critical to ending the hatred they espouse.</p>
 
+
+
+
+
+  
+
+
+    <div class="fancy-title nobottommargin">
+        <h3>Joshua Foxworth versus Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="bgcolor icon-settings2"></i>
+        <i class="icon-study"></i>
+    </div>
+
+    <p>Congressman Weber has not addressed education.</p>
+
+
+
+
+
+
+
+
 </div>

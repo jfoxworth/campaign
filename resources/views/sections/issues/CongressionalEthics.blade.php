@@ -117,11 +117,44 @@
 	</div>
 
 	<div class="divider divider-border divider-right notopmargin">
+		<i class="bgcolor icon-settings2"></i>
 		<i class="icon-settings2"></i>
 	</div>
 
 	<p>To end the type of corruption that led to the STOCK Act, a new era of congressional oversight is needed. This will include increased scrutiny of the wealth accrued by members of Congress and their families.</p>
 
 	<p>First, the current reports on assets for Congressmen is too vague. Congressional members must be required to report all assets accurate to within 10%. Second, the assets and activity of any family members must also be reported and investigated. Third, an aggressive investigation into the wealth of Congressional leadership must be undertaken. The practice of Congressional representatives becoming millionaires must be ended.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="fancy-title nobottommargin">
+		<h3>Joshua Foxworth versus Congressman Weber</h3>
+	</div>
+
+	<div class="divider divider-border divider-right notopmargin">
+		<i class="bgcolor icon-settings2"></i>
+		<i class="icon-settings2"></i>
+	</div>
+
+	<p>Congressman Weber has not addressed Congressional ethics.</p>
+
+
+
+
+
+
+
 
 </div>
