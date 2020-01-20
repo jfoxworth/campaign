@@ -35,6 +35,8 @@
 
     <p>There are at least 7 pro-life bills introduced into the House each year. Congressman Weber co-sponsors 5 of them. While I wish he was more vocal on this and every other issue, there is no reason to question Congressman Weber's pro-life stance.</p>
 
+    <p>The main issue was Congressman Weber's vote in favor of the "Cromnibus" spending bill in 2018. This bill contained $286 million for Title X abortion funding, as well as $100 million for the Obama-era “teen pregnancy prevention program.” A bipartisan conservative amendment to protect faith-based adoption agencies from government discrimination, the Conscience Protection Act, was stripped from the bill. Planned Parenthood was also fully funded.</p>
+
 
 
 
