@@ -28,7 +28,7 @@
 
         <h3>Step 1 : Give me the mandate</h3>
 
-        <p>Obviously, the first part of this plan is to give me this nomination and therefore the mandate to address this issue. Once that election takes place, it will attract media attention as well send shockwaves throughout the party. It will show the party that the rank and file members are serious about the issue of immigration.</p>
+        <p>Obviously, the first part of this plan is to give me this nomination and therefore the mandate to address this issue. Once that election takes place, it will attract media attention as well as send shockwaves throughout the party. It will show the party that the rank and file members are serious about the issue of immigration.</p>
 
 
 
@@ -56,10 +56,10 @@
         </ul>
 
 
-        <p>The central premise of this plan would be that if the American people give Republicans back the House and we keep the Senate and White House, we would put those promises into effect in the following ways.</p>
+        <p>The central premise of this plan would be that if the American people give Republicans back the House and we keep the Senate and White House, we would put those promises into effect in the ways outlined below.</p>
 
 
-        <p>On the deadline what we set (preferably within days to weeks of the sessions starting) the House and Senate would introduce concurrent resolutions asserting that the will of the people is that our immigration laws be enforced. President Trump would then act on this to enforce laws that fine employers who hire illegal aliens. With this in place, a few examples could be set and the remainder of the nation would then cease to employ illegal aliens as the risk would be too high. When they cannot get a job, health care, or welfare, they will return home.</p>
+        <p>On the deadline that we set (preferably within days to weeks of the sessions starting) the House and Senate would introduce concurrent resolutions asserting that the will of the people is that our immigration laws be enforced and that illegal aliens are not entitled to welfare. President Trump would then act on this to enforce laws that fine employers who hire illegal aliens. We would ask the President to redeploy the military to our southern border to free resources to enforce our laws in the interior.</p>
 
 
 
@@ -81,7 +81,7 @@
 
         <p>We can wait no longer. The will of the American people with respect to immigration must be heard.</p>
 
-        <p>Part of the message that our supporters on radio and TV would be putting out for the months leading up to this deadline would be an effort to bring as many like minded citizens to Washington DC as possible. While we occupy the House and Senate buildings, they would peacefully occupy the streets around them.</p>
+        <p>Part of the message that our supporters on radio and TV would be putting out for the months leading up to this deadline would be an effort to bring as many like-minded citizens to Washington DC as possible. While we occupy the House and Senate buildings, they would peacefully occupy the streets around them.</p>
 
 
 
@@ -103,7 +103,7 @@
 
         <h3>Step 5 : E Verify</h3>
 
-        <p>It is possible that along with a concurrent resolution, Congress could also pass a requirement for companies to use the E Verify system to ensure that workers are here legally. If this is the route we choose to take, the deadline may be set a little later to ensuret that the system is functional and sends flags to ICE when a bad social security number is given.</p>
+        <p>It is possible that along with a concurrent resolution, Congress could also pass a requirement for companies to use the E Verify system to ensure that workers are here legally. If this is the route we choose to take, the deadline may be set a little later to ensure that the system is functional and sends flags to ICE when a bad social security number is given.</p>
 
         <p>If E Verify is not part of the initial push, the requirement that it be used should be added at a later date.</p>
 
