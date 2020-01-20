@@ -48,7 +48,7 @@
 
         <p>In 1994, Newt Gingrich went to the American people and offered them a deal - give Republicans control of Congress and they would then carry out certain legislative priorities. We would again approach the American people with four core promises : </p>
 
-        <ul>
+        <ul style="margin-left:100px; font-size:1.25em">
         	<li>End illegal immigration</li>
         	<li>Reform the current legal immigration system</li>
         	<li>Balance the budget</li>
