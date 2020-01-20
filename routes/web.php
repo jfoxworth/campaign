@@ -104,6 +104,7 @@ Route::get('/WhyImRunning', function () { return view('layouts.WhyImRunning'); }
 Route::get('/district', function () { return view('layouts.district'); });
 
 Route::get('/Plan', function () { return view('layouts.plan'); });
+Route::get('/plan', function () { return view('layouts.plan'); });
 
 Route::get('/donate', function () { return view('layouts.donate'); });
 Route::get('/Donate', function () { return view('layouts.donate'); });

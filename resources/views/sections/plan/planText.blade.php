@@ -20,9 +20,9 @@
 	<div class="col-md-12 bottommargin">
 
 
-		<p>This is a basic outline to the process that could be used to force the US government to enforce existing US immigration laws. As you read this, remember the old quote that no plan survives first contact with the enemy. As time passes, I would add compoenents to this plan as needed.</p>
+		<p>This is a basic outline to the process that could be used to force the US government to enforce existing US immigration laws. As you read this, remember the old quote that no plan survives first contact with the enemy. As time passes, I would add/alter components to this plan as needed.</p>
 
-		<p>Movements need 3 things to succeed - clear goals, clear leaders, and a deadline, whether real or artifical. No matter how the plan changes, we must keep the goal clear and ensuret that we do not move from whatever deadline we set. The deadline can be the day that Congress assumes office for that session or shortly thereafter. It cannot move once set.</p>
+		<p>Movements need 3 things to succeed - clear goals, clear leaders, and a deadline, whether real or artifical. No matter how the plan changes, we must keep the goal of ending illegal immigration clear and ensure that we do not move from whatever deadline we set. The deadline can be the day that Congress assumes office for that session or shortly thereafter. It cannot move once set.</p>
 
 
 
@@ -34,9 +34,9 @@
 
         <h3>Step 2 : Gather supporters in the party</h3>
 
-        <p>Immediately after the election, I would ride that shockwave and approach existing congressional members who share the view that immigration laws need to be enforced. Given that this is a core plank in the Republican platform, this should be most Republicans. I would also work to get other America First candidates elected over Democrats or in other primaries.</p>
+        <p>Immediately after the election, I would ride that shockwave and approach existing congressional members who share the view that immigration laws need to be enforced. Given that this is a core plank in the Republican platform, this should be most Republicans. I would also work to get other "America First" candidates elected over Democrats or in other primaries.</p>
 
-        <p>While this is happening behind the scenes, I and other Congressmen would work with TV and radio personalities to promote the plan publicly. For at least nine months from my primary until the deadline, those personalities would be rallying the troops to do what is needed.</p>
+        <p>While this is happening behind the scenes, I and other Congressmen would work with TV and radio personalities to promote the plan publicly. For at least nine months from my primary until the deadline, those personalities would be rallying the troops toward the eventual end.</p>
 
 
 
@@ -56,10 +56,10 @@
         </ul>
 
 
-        <p>The central premise of this plan would be that if they give Republicans back the House and we keep the Senate and White House we would put those promises into effect in the following ways.</p>
+        <p>The central premise of this plan would be that if the American people give Republicans back the House and we keep the Senate and White House, we would put those promises into effect in the following ways.</p>
 
 
-        <p>On the deadline what we set (preferably within days of the sessions starting) the House and Senate would introduce concurrent resolutions asserting that the will of the people is that our immigration laws be enforced. President Trump would then act on this to enforce laws that fine employers who hire illegal aliens. With this in place, a few examples could be set and the remainder of the nation would then cease to employ illegal aliens as the risk would be too high. When they cannot get a job, health care, or welfare, they will return home.</p>
+        <p>On the deadline what we set (preferably within days to weeks of the sessions starting) the House and Senate would introduce concurrent resolutions asserting that the will of the people is that our immigration laws be enforced. President Trump would then act on this to enforce laws that fine employers who hire illegal aliens. With this in place, a few examples could be set and the remainder of the nation would then cease to employ illegal aliens as the risk would be too high. When they cannot get a job, health care, or welfare, they will return home.</p>
 
 
 
@@ -69,7 +69,7 @@
         <p>Within the first six months, the Republican congress will introduce at least three plans to reform health care, three plans to balance the budget, and three plans to reform immigration and we will ask the Democrats to do the same. At the one year mark, we will enact one of those plans for each subject, or a compromise plan for each.</p>
 
 
-        <p>Our pledge will be one of action that tackles the three largest issues of immigration, the deficit, and health care within a year. The second year of that session would be enacting that plan.</p>
+        <p>Our pledge will be one of action that tackles the three largest issues of immigration, the deficit, and health care within a year. The second year of that session would be enacting that plan on health care and the budget.</p>
 
 
 
@@ -77,11 +77,11 @@
         <h3>Step 4 : Making it happen</h3>
 
 
-        <p>While we offer this contract with the American people, we will ask them for more than their vote. At the set deadline where the concurrent resolutions are passed through the House and Senate, the Republican Congress will demand action. This action should coordinated with the Trump administration ahead of time. Those Congressmen and Senators will then occupy those legislative buildings until the will of the American people is honored.</p>
+        <p>While we offer this contract with the American people, we will ask them for more than their vote. At the set deadline where the concurrent resolutions are passed through the House and Senate, the Republican Congress will demand action. This action should be coordinated with the Trump administration ahead of time. Those Congressmen and Senators will then occupy those legislative buildings until the will of the American people is honored.</p>
 
         <p>We can wait no longer. The will of the American people with respect to immigration must be heard.</p>
 
-        <p>Part of the message that our supporters on radio and TV would be putting out for months would be an effort to bring as many like minded citizens to Washington as possible. While we occupy that House and Senate buildings, they would peacablhy occupy the streets.</p>
+        <p>Part of the message that our supporters on radio and TV would be putting out for the months leading up to this deadline would be an effort to bring as many like minded citizens to Washington DC as possible. While we occupy the House and Senate buildings, they would peacefully occupy the streets around them.</p>
 
 
 
