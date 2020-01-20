@@ -4,9 +4,10 @@
 
     <div class="heading-block center nobottomborder">
         <h2>Foreign Policy</h2>
-        <span>End the Wars - Stand with Europe</span>
+        <span>End the Wars</span>
     </div>
 
+<!--
     <div class="divider divider-short divider-rounded divider-center">
         <i class="bgcolor icon-world"></i>
     </div>
@@ -36,6 +37,8 @@
         <i class="icon-world"></i>
     </div>
 
+-->
+
     <div class="alignleft">
         <a href="#"><img src="/images/issues/foreignpolicy.jpg"></a>
     </div>
@@ -49,18 +52,19 @@
 
 
 
-    <div class="fancy-title nobottommargin">
-        <h3>Stand with Europeans</h3>
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth compared to Congressman Weber</h3>
     </div>
 
     <div class="divider divider-border divider-right notopmargin">
         <i class="icon-world"></i>
     </div>
 
+    <p>Congressman Weber's foreign policy views with respect to the wars is difficult to summarize and very little is stated on this matter by him.</p>
 
-    <p>The European continent is currently suffering from a decade of terrorist attacks, a massive rape epidemic, and their welfare systems are stretched beyond the breaking point. The various peoples of those nations are asking that the flow of migrants from Africa and Asia be stemmed and we must honor those requests just as we honor requests from all other nations not to take in migrants.</p>
-
-    <p>Many of those who have spoken out against the mass rapes and attacks have been imprisoned through hate speech legislation. We must act to end those policies in Europe.</p>
 
 
 </div>

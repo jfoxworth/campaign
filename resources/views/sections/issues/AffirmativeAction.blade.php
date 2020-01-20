@@ -19,6 +19,23 @@
 
     <p>When it comes to the equality of our children, we should neither debate nor negotiate. I have made one of the <a href="/Pledge">pillars of my campaign</a> that I will not allow the government to function if the function of the government is to discriminate against our children. These policies must be recognized as the affronts to civil liberty that they represent and be immediately ended.</p>
 
+
+
+
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth compared to Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-line-head"></i>
+    </div>
+
+    <p>Congressman Weber does not address affirmative action in any way.</p>
+
+
+
 </div>
 
 

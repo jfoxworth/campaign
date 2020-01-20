@@ -22,7 +22,7 @@
 				-->
 
 					<div class="col_one_third">
-						<h4>End Guest Worker Programs</h4>
+						<h4>Protect US Workers</h4>
 						<p>Guest worker programs such as H1B Visas and L1 Visas are not needed and massively abused. They destroy the wages of Americans and have grown far too large. I will work to end these programs as well as the EB5 Visa program. <a href="/Issues">(All Issues)</a></p>
 					</div>
 

@@ -10,7 +10,7 @@
 
 	<div class="clear"></div>
 
-	<div class="fancy-title nobottommargin">
+	<div class="fancy-title nobottommargin topmargin">
 		<h3>Enforce US Immigration Laws</h3>
 	</div>
 
@@ -32,8 +32,8 @@
 
 
 
-	<div class="fancy-title nobottommargin">
-		<h3>End Guest Worker Visa Programs</h3>
+	<div class="fancy-title nobottommargin topmargin">
+		<h3>Protect US Workers</h3>
 	</div>
 
 	<div class="divider divider-border divider-right notopmargin">
@@ -48,7 +48,7 @@
 
 
 
-	<div class="fancy-title nobottommargin">
+	<div class="fancy-title nobottommargin topmargin">
 		<h3>Build the wall</h3>
 	</div>
 
@@ -64,7 +64,7 @@
 
 
 
-	<div class="fancy-title nobottommargin">
+	<div class="fancy-title nobottommargin topmargin">
 		<h3>No birthright citizenship</h3>
 	</div>
 
@@ -81,7 +81,7 @@
 
 
 
-	<div class="fancy-title nobottommargin">
+	<div class="fancy-title nobottommargin topmargin">
 		<h3>Rethinking immigration policies - reciprocity</h3>
 	</div>
 
@@ -92,6 +92,30 @@
 	<p>The United States is no longer a frontier nation. It is not too sparsely populated for the economy to function. We are not bound to provide entry and citizenship to anyone who seeks to come here. An alteration of the entire policy from this standpoint is necessary. This means an end to most visa programs, the lottery program, and bringing in extended families.</p>
 
 	<p>At the very least, a policy of reciprocity must be enacted. We will allow no nation's people to enter our lands unless that nation open its borders to the world and to us in a similar manner.</p>
+
+
+
+
+
+
+	<div class="fancy-title nobottommargin topmargin">
+		<h3>Joshua Foxworth compared to Congressman Weber</h3>
+	</div>
+
+	<div class="divider divider-border divider-right notopmargin">
+		<i class="icon-remove"></i>
+	</div>
+
+	<p>With respect to legal immigration, Congressman Weber supported and voted for HR 1044. He refused to explain this support until pushed in a forum on January 16, 2019. There, he stated that businesses were telling him that US graduates were not capable of doing the required jobs and therefore foreign labor was needed.</p>
+
+	<p>I absolutely reject the assertion that foreign workers and students are superior to US students and workers. These policies must be ended.</p>
+
+	<p>With respect to illegal immigration, since his first campaign, the Congressman has stated on his campaign website that illegal immigration was a "serious threat to national security." However, the congressman has taken no action. In addition to this, when approached by me and asked to take action on this issue, the response from the Congressman's office was that "as a conservative, the congressman would not support a government large enough to deport millions of people."</p>
+
+	<p>The congressman asserts that he does not have the power to act in this area, despite the repeated claim that he has the ear of the President. He puts forth no plan as to how to address the issue.</p>
+
+
+
 
 
 </div>

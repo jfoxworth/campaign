@@ -34,7 +34,7 @@
 
     <div class="clear"></div>
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Restore the 1st Amendment</h3>
     </div>
 
@@ -54,7 +54,7 @@
 
 
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Protect the Second Amendment</h3>
     </div>
 
@@ -62,12 +62,12 @@
         <i class="icon-params"></i>
     </div>
 
-    <p>No ground must be given with respect to <a href="https://foxworthfortexas.herokuapp.com/Issues/SecondAmendment">the second amendment</a>. Support for red flag laws cannot be tolerated in the Republican. We must work for a national right to carry.</p>
+    <p>No ground must be given with respect to <a href="http://www.foxworthforcongress.com/Issues/SecondAmendment">the second amendment</a>. Support for red flag laws cannot be tolerated in the Republican. We must work for a national right to carry as well as constitutional carry. (See second amendment page).</p>
 
 
 
 
-    <div class="fancy-title nobottommargin">
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Restore the 4th Amendment</h3>
     </div>
 
@@ -83,7 +83,9 @@
 
 
 
-    <div class="fancy-title nobottommargin">
+
+<!--
+    <div class="fancy-title nobottommargin topmargin">
         <h3>Eliminate Foreign Corruption</h3>
     </div>
 
@@ -97,6 +99,24 @@
 
 
     <p>If you allow your universities to be funded by foreign nations, it should come as no surprise that they teach that your nation's history is evil and that its people are immoral. We must put in place a temporary moratorium on foreign visas for Universities and limit the funding that those Universities take - especially for non technical "research".</p>
+
+
+-->
+
+
+    <div class="fancy-title nobottommargin topmargin">
+        <h3>Joshua Foxworth versus Congressman Weber</h3>
+    </div>
+
+    <div class="divider divider-border divider-right notopmargin">
+        <i class="icon-params"></i>
+    </div>
+
+    <p>Congressman Weber has not addressed the ongoing infractions of first amendment rights and does not discuss the fourth amendment or the PATRIOT Act.</p>
+
+    <p>See the second amendment page for the comparison there.</p>
+
+
 
 
 </div>
