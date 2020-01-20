@@ -107,7 +107,7 @@
         <i class="icon-line-target"></i>
     </div>
 
-    <p>Congressman Weber voted against a Democratic party bill called the Bipartisan Background Checks Act in 2019. Other than that, there is little that the congressman has stated or done in this area. As stated above, the Congressman co-sponsored TAPS - one of the most dangerous pieces of legislation to be written by a Republican congressman in the last session.</p>
+    <p>Congressman Weber voted against a Democratic party bill called the Bipartisan Background Checks Act in 2019. He also cosponsored a concealed carry reciprocity act. Other than that, there is little that the congressman has stated or done in this area. As stated above, the Congressman co-sponsored TAPS - one of the most dangerous pieces of legislation to be written by a Republican congressman in the last session.</p>
 
     <p>In addition to this, the congressman teams with Democratic Congressman Henry Cuellar to introduce H.R. 4187, the Domestic Terrorism Penalties Act of 2019. This is an equally dangerous piece of legislation that allows the federal government to enact punishments to those labeled as domestic terrorists - that punishment could easily be a surrendering of weapons.</p>
 
