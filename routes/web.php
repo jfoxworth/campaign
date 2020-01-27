@@ -91,6 +91,9 @@ Route::get('/Issues/TermLimits', function () {
 Route::get('/Issues/ElectionReform', function () {
     return view('layouts.issues', ['issue' => 'ElectionReform']);
 });
+Route::get('/Issues/Deficit', function () {
+    return view('layouts.issues', ['issue' => 'deficitReduction']);
+});
 
 
 Route::get('/aboutMe', function () { return view('layouts.aboutMe'); });
