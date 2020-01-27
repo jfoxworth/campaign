@@ -57,6 +57,7 @@
         <li>Eliminate the TSA and similar PATRIOT Act bureacracies</li>
         <li>Address prescription drug costs</li>
         <li>Audit/End the FED and Stop QE</li>
+        <li>Address Welfare and Social Security</li>
     </ul>
 
 
@@ -227,7 +228,9 @@
 
     <p>Social Security will soon be at a point where paying out what is owed is simply not financially possible. When that happens, "means testing" will be introduced. Soon thereafter, this means testing will slip into the middle class and anyone with a retirement account will no longer be eligible for social security. To ensure that this does not happen, we must first ensure that no one who entered the nation illegally can ever receive benefits based upon work that they did illegally. The only way to ensure that this happens is to ensure that no one here illegally can ever become a citizen.</p>
 
-    <p>We also need to ensure that we </p>
+    <p>We also need to ensure that we are meeting our obligations to those that paid into the system. Removing illegal aliens will lower the cost of living for seniors - lowering the need to raise payments and allowing them to live more comfortably. Once the above issues are addressed, we can look at social security and see what needs to be done to both ensure that the system continues to exist as well as does not destroy our children's futures.</p>
+
+    <p>In addition to this, intergenerational welfare must be ended. Welfare is intended to be a safety net. However, those that often need it to bridge the gap between jobs cannot obtain that support while at the same time there are those that exist on welfare in perpetuity. This must be ended.</p>
 
 
 
