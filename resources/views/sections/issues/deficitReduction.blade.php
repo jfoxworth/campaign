@@ -40,14 +40,12 @@
 
 
 
-
-
     <div class="fancy-title nobottommargin topmargin">
         <h3>One plan - eliminate costs, lower bureaucracy, repurpose the military</h3>
     </div>
 
 
-    <p>While no plan is bulletproof, there are a number of things that could be done to quickly and dramatically lower the amount of money that the US is spending yearly. These include changes to how the US enforces our laws as well as eliminating government departments which should not exist. These actions are :</p>
+    <p>While no plan is bulletproof, there are a number of things that could be done to quickly and dramatically lower the amount of money that the US is spending yearly. These include changes to how the US enforces our laws as well as eliminating government departments which should not exist. It should be no surpise that these actions reiterate much of my general platform. These actions are :</p>
 
     <ul style="margin-left:100px; font-size:1.25em">
         <li>Enforce immigration laws and remove illegal aliens</li>
@@ -257,7 +255,7 @@
     </div>
 
 
-    <p>Many of these things would have drastic effects on the economy of the US. Once these items are put in place, we would then reassess the situation and see what cuts need to be made. However, the simple reality is that you cannot balance a budget when 10%-15% of your population are foreign citizens living illegally within your borders.</p>
+    <p>Many of these things would have drastic effects on the economy of the US. Once these items are put in place, we would then reassess the situation and see what cuts need to be made. However, the simple reality is that you cannot balance a budget when 10%-20% of your population are foreign citizens living illegally within your borders.</p>
 
 
 

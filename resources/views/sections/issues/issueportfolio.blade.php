@@ -229,6 +229,21 @@
 		</article>
 
 
+		<article class="portfolio-item pf-media pf-icons">
+			<div class="portfolio-image">
+				<a href="/Issues/Deficit">
+					<img src="/images/issues/money.jpg" alt="The Deficit">
+					<div class="portfolio-overlay">
+						<div class="portfolio-desc">
+							<h3>The Deficit</h3>
+							<span>Moving to a balanced budget</span>
+						</div>
+					</div>
+				</a>
+			</div>
+		</article>
+
+
 	</div>
 
 </div>
