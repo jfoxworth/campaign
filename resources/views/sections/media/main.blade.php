@@ -1,9 +1,191 @@
 <div class="container clearfix">
 
 	<div class="heading-block center nobottomborder">
+
+
+
+	    <h2 class="bottommargin">Debate</h2>
 	    
-	    <h2>Media Appearances and Articles</h2>
+	    <span style="color:#000000">
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/mbtLoACSjls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Opening Remarks</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/eqY9dEN6Wkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 1</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/JxUlVz3ujwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 2</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/N9l0bwXvtIY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 3</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/HelsZct1bhc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 4 -  Part 1</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/LtvMJYv3yFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 4 -  Part 2</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/ZWtUKta2FGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 5</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/PLJZOFusvqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 6</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/1Rq6mdv2AWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 7</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/xpIBDP0bm84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 8 -  Part 1</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/tFwPprapYGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Question 8 - Part 2</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+			<div class="ipost clearfix">
+				<div class="entry-image">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/kJ2wXYY_Q9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				
+				<div class="entry-title">
+					<h3>Clear Lake TEA Party Debate - Closing Remarks</h3>
+				</div>
+			
+				<ul class="entry-meta clearfix">
+					<li><i class="icon-calendar3"></i> 20th Jan 2020</li>
+				</ul>
+			</div>
+
+
+		</span>
+
+
+
+	    <h2 class="bottommargin">Interviews</h2>
 	    
+
 	    <span style="color:#000000">
 
 
@@ -39,6 +221,10 @@
 				</ul>
 			</div>
 
+
+
+
+		    <h2 class="bottommargin">Articles</h2>
 
 
 

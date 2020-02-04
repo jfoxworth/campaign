@@ -31,11 +31,11 @@
 
                 @include('sections.landing.corePromiseBreak')
 
-                @include('sections.landing.profile')
+                @include('sections.landing.mediaLink')
 
                 @include('sections.landing.trump')
 
-                @include('sections.landing.mediaLink')
+                @include('sections.landing.profile')
 
                 @include('sections.landing.votingDates')
 

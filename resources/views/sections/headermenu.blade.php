@@ -37,6 +37,8 @@
 
 			<li><a href="/aboutMe"><div>About Me</div></a></li>
 
+			<li><a href="/media"><div>Interviews</div></a></li>
+
 			<li><a href="/district"><div>District 14</div></a></li>
 
 			<li><a href="/donate"><div style="color:#FF0000">Donate</div></a></li>
