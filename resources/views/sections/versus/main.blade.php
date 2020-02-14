@@ -35,7 +35,7 @@
 		<!-- Illegal Immigration -->
 		<div class="row" style="border-top:1px solid #000">
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Illegal Immigration</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Illegal Immigration</div>
 
 			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Enforce existing laws and fine employers - day 1<br>Mandatory E-Verify<br>No one here as the result of illegal entry can remain</div>
 
@@ -49,9 +49,9 @@
 		<!-- Protecting US Workers  -->
 		<div class="row" style="border-top:1px solid #000">
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Protecting US Workers</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Protecting US Workers</div>
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Oppose HR 1044 <br>End H1B and similar Visas<br>Limit foreign students in universities to 5% of student population</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Oppose HR 1044 <br>End H1B and similar Visas<br>Limit foreign students in universities to 5% of student population</div>
 
 			<div class="col_one_third h3 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Voted for HR 1044 - a giveaway to from India / China<br>Put forth the idea that foreign workers were needed because US students were not competent</div>
 
@@ -63,9 +63,9 @@
 		<!-- Legal Migration -->
 		<div class="row">
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Legal Migration</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Legal Migration</div>
 
-			<div class="col_one_third h3" style="padding:10px; margin-top:30px; margin-bottom:20px;">Drastic reform<br>End H1B, H2B, EB5, etc<br>Temporary Moratorium</div>
+			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Drastic reform<br>End H1B, H2B, EB5, etc<br>Temporary Moratorium</div>
 
 			<div class="col_one_third h3 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Supports "reform"</div>
 
@@ -77,9 +77,9 @@
 		<!-- Second Amendment -->
 		<div class="row" style="border-top:1px solid #000">
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">The Second Amendment</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">The Second Amendment</div>
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Opposes TAPS - Socialist anti second amendment legislation<br>Constitutioanl Carry</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Opposes TAPS - Socialist anti second amendment legislation<br>Constitutioanl Carry</div>
 
 			<div class="col_one_third h3 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Early Cosponsor of TAPS<br>Introduced legislation for punishing those labeled "Domestic Terrorists"</div>
 
@@ -94,9 +94,9 @@
 		<!-- First Amendment -->
 		<div class="row" style="border-top:1px solid #000">
 
-			<div class="col_one_third h3" style="padding:10px; margin-top:30px; margin-bottom:20px;">The First Amendment</div>
+			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">The First Amendment</div>
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Restore access to the first amendment online</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Restore access to the first amendment online</div>
 
 			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">No stated position</div>
 
@@ -108,9 +108,9 @@
 		<!-- Foreign Policy -->
 		<div class="row" style="border-top:1px solid #000">
 
-			<div class="col_one_third h3" style="padding:10px; margin-top:30px; margin-bottom:20px;">Foreign Policy</div>
+			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Foreign Policy</div>
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">End the wars overseas and bring our kids home</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">End the wars overseas and bring our kids home</div>
 
 			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">No stated position</div>
 
@@ -124,14 +124,29 @@
 		<!-- Health Care -->
 		<div class="row" style="border-top:1px solid #000">
 
-			<div class="col_one_third h3" style="padding:10px; margin-top:30px; margin-bottom:20px;">Health Care</div>
+			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Health Care</div>
 
-			<div class="col_one_third h3" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Purchase insurance across lines<br>Do not allow drug companies to sell medicine overseas at a rate lower than sold here in the US<br>No free health care for illegal aliens</div>
+			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Purchase insurance across lines<br>Do not allow drug companies to sell medicine overseas at a rate lower than sold here in the US<br>No free health care for illegal aliens</div>
 
 			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">Supports HR19 - a Socialist plan to provide all prescription drugs to those on Medicare for a single cost<br>Wants to put an export tax on prescription drugs</div>
 
 		</div>
 
+
+
+
+
+
+		<!-- Affirmative Action -->
+		<div class="row" style="border-top:1px solid #000">
+
+			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Affirmative Action</div>
+
+			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Affirmative action should be ended immediately</div>
+
+			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">8 years <br>No position taken</div>
+
+		</div>
 
 
 
@@ -151,17 +166,6 @@
 		</div>
 
 
-
-		<!-- Affirmative Action -->
-		<div class="row">
-
-			<div class="col_one_third h3" style="padding:10px; margin-top:30px; margin-bottom:20px;">Affirmative Action</div>
-
-			<div class="col_one_third h3" style="padding:10px; margin-top:30px; margin-bottom:20px;">Affirmative action should be ended immediately</div>
-
-			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">8 years <br>No position taken</div>
-
-		</div>
 
 
 
