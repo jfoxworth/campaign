@@ -53,7 +53,7 @@
 
 			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Oppose HR 1044 <br>End H1B and similar Visas<br>Limit foreign students in universities to 5% of student population</div>
 
-			<div class="col_one_third h3 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Voted for HR 1044 - a giveaway to from India / China<br>Put forth the idea that foreign workers were needed because US students were not competent</div>
+			<div class="col_one_third h4 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Voted for HR 1044 - a giveaway to from India / China<br>Put forth the idea that foreign workers were needed because US students were not competent</div>
 
 		</div>
 
@@ -61,13 +61,13 @@
 
 
 		<!-- Legal Migration -->
-		<div class="row">
+		<div class="row" style="border-top:1px solid #000">
 
 			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Legal Migration</div>
 
 			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Drastic reform<br>End H1B, H2B, EB5, etc<br>Temporary Moratorium</div>
 
-			<div class="col_one_third h3 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Supports "reform"</div>
+			<div class="col_one_third h4 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Supports "reform"</div>
 
 		</div>
 
@@ -81,7 +81,7 @@
 
 			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Opposes TAPS - Socialist anti second amendment legislation<br>Constitutioanl Carry</div>
 
-			<div class="col_one_third h3 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Early Cosponsor of TAPS<br>Introduced legislation for punishing those labeled "Domestic Terrorists"</div>
+			<div class="col_one_third h4 col_last" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Early Cosponsor of TAPS<br>Introduced legislation for punishing those labeled "Domestic Terrorists"</div>
 
 		</div>
 
@@ -98,7 +98,7 @@
 
 			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Restore access to the first amendment online</div>
 
-			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">No stated position</div>
+			<div class="col_one_third h4 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">No stated position</div>
 
 		</div>
 
@@ -112,7 +112,7 @@
 
 			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">End the wars overseas and bring our kids home</div>
 
-			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">No stated position</div>
+			<div class="col_one_third h4 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">No stated position</div>
 
 		</div>
 
@@ -128,7 +128,7 @@
 
 			<div class="col_one_third h4" style="padding:10px;  margin-top:30px; margin-bottom:20px;">Purchase insurance across lines<br>Do not allow drug companies to sell medicine overseas at a rate lower than sold here in the US<br>No free health care for illegal aliens</div>
 
-			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">Supports HR19 - a Socialist plan to provide all prescription drugs to those on Medicare for a single cost<br>Wants to put an export tax on prescription drugs</div>
+			<div class="col_one_third h4 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">Supports HR19 - a Socialist plan to provide all prescription drugs to those on Medicare for a single cost<br>Wants to put an export tax on prescription drugs</div>
 
 		</div>
 
@@ -144,7 +144,7 @@
 
 			<div class="col_one_third h4" style="padding:10px; margin-top:30px; margin-bottom:20px;">Affirmative action should be ended immediately</div>
 
-			<div class="col_one_third h3 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">8 years <br>No position taken</div>
+			<div class="col_one_third h4 col_last" style="padding:10px; margin-top:30px; margin-bottom:20px;">8 years <br>No position taken</div>
 
 		</div>
 
@@ -155,7 +155,7 @@
 
 
 		<!-- Row with names -->
-		<div class="row">
+		<div class="row" style="border-top:1px solid #000">
 
 			<div class="col_one_third"></div>
 
