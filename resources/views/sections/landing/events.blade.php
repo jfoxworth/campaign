@@ -6,7 +6,51 @@
 
             <div class="">
 
-				<h2 class="center">Events Where I will be Speaking</h2>
+				<h2 class="center">Weekly Town Halls</h2>
+
+
+
+
+
+
+				<div class="ipost clearfix bottommargin-sm">
+
+					<div class="col_half nobottommargin">
+
+						<div class="entry-image" style="text-align:right; margin-left:200px; width:200px">
+							<img class="image_fade" src="images/events/phone.png" alt="Phone Meeting" style="opacity: 1;">
+						</div>
+
+					</div>
+
+
+					<div class="col_half nobottommargin col_last">
+
+						<div class="entry-title">
+							<h3>Call in to my weekly town halls</h3>
+						</div>
+
+						<ul class="entry-meta clearfix">
+							<li><i class="icon-calendar3"></i> Every Thursday at 8pm</li>
+						</ul>
+
+						<div class="entry-content">
+							<p>I hold weekly telephone town halls. I introduce myself and my platform and then take questions. You can use the <a href="">google hangout</a> or call this number - 1 442-600-5878‬ - and enter this pin - 788 638 033‬#</p>
+						</div>
+
+					</div>
+
+
+				</div>
+
+
+
+
+
+
+
+
+				<!--
 
 
 				<div class="ipost clearfix bottommargin-sm">
@@ -109,6 +153,9 @@
 
 
 				</div>
+
+
+			-->
 
 
 			</div>

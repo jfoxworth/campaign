@@ -31,7 +31,7 @@
 
                 @include('sections.landing.corePromiseBreak')
 
-                @include('sections.landing.mediaLink')
+                @include('sections.landing.events')
 
                 @include('sections.landing.trump')
 
@@ -39,7 +39,7 @@
 
                 @include('sections.landing.votingDates')
 
-                @include('sections.landing.events')
+                @include('sections.landing.mediaLink')
 
                 @include('sections.landing.afirstbreak')
 
