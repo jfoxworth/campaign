@@ -27,9 +27,9 @@
 
             <div class="">
 
-                @include('sections.landing.issueSummary')
-
                 @include('sections.landing.townhall')
+
+                @include('sections.landing.issueSummary')
 
                 @include('sections.landing.corePromiseBreak')
 
