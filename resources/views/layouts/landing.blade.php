@@ -29,6 +29,8 @@
 
                 @include('sections.landing.issueSummary')
 
+                @include('sections.landing.townhall')
+
                 @include('sections.landing.corePromiseBreak')
 
                 @include('sections.landing.events')
